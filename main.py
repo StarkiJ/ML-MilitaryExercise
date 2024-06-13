@@ -11,6 +11,9 @@ def output_commands(commands):
 def main():
     military_exercise = MilitaryExercise('./data/testcase1.in')
     military_exercise.show_info()
+    for i in range(len(military_exercise.fighters)):
+        military_exercise.move(i, 1)
+    military_exercise.show_info()
 
     commands = []
 
