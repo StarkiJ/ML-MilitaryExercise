@@ -14,7 +14,10 @@ def read_data(file_path):
 
     map_info = []
     for i in range(max_row):
-        map_info.append(data[index])
+        row = []
+        for j in range(max_col):
+            row.append(data[index][j])
+        map_info.append(row)
         index += 1
 
     # 读取蓝方基地信息

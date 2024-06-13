@@ -1,6 +1,6 @@
-class MilitaryBase():
+class MilitaryBase:
     def __init__(self, base_id, row, col, fuel_reserve, missile_reserve, defense, military_value):
-        self.base_id= base_id
+        self.base_id = base_id
         self.row = row
         self.col = col
         self.fuel_reserve = fuel_reserve
@@ -18,7 +18,7 @@ class MilitaryBase():
         print()
 
 
-class Fighter():
+class Fighter:
     def __init__(self, fid, row, col, max_fuel, max_missile):
         self.fid = fid
         self.row = row
@@ -34,5 +34,3 @@ class Fighter():
         print("Fuel: {}/{}".format(self.fuel, self.max_fuel))
         print("Missile: {}/{}".format(self.missile, self.max_missile))
         print()
-
-
