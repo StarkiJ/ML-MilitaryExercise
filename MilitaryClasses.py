@@ -17,6 +17,10 @@ class MilitaryBase:
         print("Military Value: {}".format(self.military_value))
         print()
 
+    def show_info_line(self):
+        print(self.base_id, "({},{})".format(self.row, self.col), self.fuel_reserve, self.missile_reserve, self.defense,
+              self.military_value)
+
 
 class Fighter:
     def __init__(self, fid, row, col, max_fuel, max_missile):
@@ -34,3 +38,7 @@ class Fighter:
         print("Fuel: {}/{}".format(self.fuel, self.max_fuel))
         print("Missile: {}/{}".format(self.missile, self.max_missile))
         print()
+
+    def show_info_line(self):
+        print(self.fid, "({},{})".format(self.row, self.col), "({},{})".format(self.fuel, self.max_fuel),
+              "({},{})".format(self.missile, self.max_missile))

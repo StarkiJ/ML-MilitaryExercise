@@ -4,19 +4,25 @@ import read_data
 class MilitaryExercise:
     direction = [(-1, 0), (1, 0), (0, -1), (0, 1)]
     fight_action = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    targets = []
+    paths = []
     moved = []
 
     def __init__(self, file_path):
-        max_row, max_col, map_info, blue_bases, red_bases, fighters = read_data.read_data(file_path)
+        max_row, max_col, map_info, blue_bases, red_bases, fighters, max_score = read_data.read_data(file_path)
         self.max_row = max_row
         self.max_col = max_col
         self.map_info = map_info
         self.blue_bases = blue_bases
         self.red_bases = red_bases
         self.fighters = fighters
+        self.max_score = max_score
         self.fighters_num = len(fighters)
         self.Score = 0
         self.Frame = 0
+        for _ in range(self.fighters_num):
+            self.moved.append(False)
+            self.targets.append((-1, -1))
 
     def show_info(self):
         print("map_info:", self.max_row, self.max_col)
@@ -24,22 +30,25 @@ class MilitaryExercise:
             print(row)
         print()
         print("blue_bases:", len(self.blue_bases))
-        for blue_base in self.blue_bases:
-            blue_base.show_info()
+        for blue_base in self.blue_bases.values():
+            blue_base.show_info_line()
         print()
         print("red_bases:", len(self.red_bases))
-        for red_base in self.red_bases:
-            red_base.show_info()
+        for red_base in self.red_bases.values():
+            red_base.show_info_line()
         print()
         print("fighters:", len(self.fighters))
         for fighter in self.fighters:
-            fighter.show_info()
+            fighter.show_info_line()
+        print()
+        print("max_score:", self.max_score)
         print()
         print("Score:", self.Score, ", Frame:", self.Frame)
 
     def next_frame(self):
         self.Frame += 1
-        self.moved = []
+        for fid in range(self.fighters_num):
+            self.moved[fid] = False
         print("Score:", self.Score, ", Frame:", self.Frame)
 
     # 该指令表示战斗机的移动。第一个参数为移动的战斗机编号，第二个参数为移动方向的编号。
@@ -49,7 +58,7 @@ class MilitaryExercise:
         fid = int(fid)
         dire = int(dire)
         # 一帧内只能移动一次
-        if fid in self.moved:
+        if self.moved[fid]:
             print("[WARNING] move <{}> <{}>: Fighter has already moved".format(fid, dire))
             return
         # 检查参数
@@ -72,11 +81,14 @@ class MilitaryExercise:
         if self.map_info[tmp_row][tmp_col] == "#":
             print("[WARNING] move <{}> <{}>: Can't pass a non-destroyed red base ({},{})".format(fid, dire, tmp_row,
                                                                                                  tmp_col))
+            # self.move(fid, (dire + 2) % 4)
+            # self.targets[fid] = (-1, -1)
+            self.targets[fid] = (-1, 0)
             return
         fight.fuel -= 1
         fight.row = tmp_row
         fight.col = tmp_col
-        self.moved.append(fid)
+        self.moved[fid] = True
         print("[INFO] move <{}> <{}>: ({},{})".format(fid, dire, tmp_row, tmp_col))
 
     # 该指令表示战斗机的进攻。第一个参数为进攻的战斗机编号，第二个参数为攻击方向的编号，
@@ -94,7 +106,6 @@ class MilitaryExercise:
         if fight.missile < count:
             print("[WARNING] attack <{}> <{}> <{}>: No enough missile(s)".format(fid, dire, count))
             count = fight.missile
-
         tmp_row = fight.row + self.direction[dire][0]
         tmp_col = fight.col + self.direction[dire][1]
         # 检查是否越界
@@ -106,22 +117,22 @@ class MilitaryExercise:
             print("[WARNING] attack <{}> <{}> <{}>: Invalid target".format(fid, dire, count))
             return
         # 寻找对应的敌方基地
-        for red_base in self.red_bases:
-            if red_base.row == tmp_row and red_base.col == tmp_col:
-                if red_base.defense < count:
-                    count = red_base.defense
-                fight.missile -= count
-                red_base.defense -= count
-                if red_base.defense <= 0:
-                    self.map_info[red_base.row][red_base.col] = "0"
-                    self.Score += red_base.military_value
-                    print("[INFO] attack <{}> <{}> <{}>: Red base destroyed (Score: {})".format(fid, dire, count,
-                                                                                                self.Score))
-                else:
-                    print("[INFO] attack <{}> <{}> <{}>: Red base damaged (defense: {})".format(fid, dire, count,
-                                                                                                red_base.defense))
-                return
-        print("[ERROR] attack <{}> <{}> <{}>".format(fid, dire, count))
+        red_base = self.red_bases[(tmp_row, tmp_col)]
+        # 避免浪费导弹
+        if red_base.defense < count:
+            count = red_base.defense
+        fight.missile -= count
+        red_base.defense -= count
+        # 敌方基地被摧毁
+        if red_base.defense <= 0:
+            self.map_info[tmp_row][tmp_col] = "0"
+            self.red_bases.pop((tmp_row, tmp_col))
+            self.Score += red_base.military_value
+            print("[INFO] attack <{}> <{}> <{}>: Red base destroyed (Score: {})".format(fid, dire, count, self.Score))
+        else:
+            print("[INFO] attack <{}> <{}> <{}>: Red base damaged (defense: {})".format(fid, dire, count,
+                                                                                        red_base.defense))
+        return
 
     # 该指令表示为战斗机添加燃油。第一个参数为添加燃油的战斗机编号，第二个参数为添加燃油的数量。
     def flue(self, fid, count):
@@ -131,27 +142,24 @@ class MilitaryExercise:
         if not (0 <= fid < self.fighters_num and 0 < count):
             print("[WARNING] flue <{}> <{}>: Invalid parameter(s)".format(fid, count))
             return
-
         fight = self.fighters[fid]
         # 检查是否在蓝色基地
         if not self.map_info[fight.row][fight.col] == "*":
             print("[WARNING] flue <{}> <{}>: Not at a blue base".format(fid, count))
             return
+        # 寻找对应的蓝色基地
+        blue_base = self.blue_bases[(fight.row, fight.col)]
+        if blue_base.fuel_reserve < count:
+            print("[WARNING] flue <{}> <{}>: No enough supplies".format(fid, count))
+            count = blue_base.fuel_reserve
         # 检查是否超过最大容量
         if fight.fuel + count > fight.max_fuel:
             print("[WARNING] flue <{}> <{}>: No enough capacity".format(fid, count))
             count = fight.max_fuel - fight.fuel
-        # 寻找对应的蓝色基地
-        for blue_base in self.blue_bases:
-            if blue_base.row == fight.row and blue_base.col == fight.col:
-                if blue_base.fuel_reserve < count:
-                    print("[WARNING] flue <{}> <{}>: No enough supplies".format(fid, count))
-                    count = blue_base.fuel_reserve
-                blue_base.fuel_reserve -= count
-                fight.fuel += count
-                print("[INFO] flue <{}> <{}>: Fuel added ({}/{})".format(fid, count, fight.fuel, fight.max_fuel))
-                return
-        print("[ERROR] flue <{}> <{}>".format(fid, count))
+        blue_base.fuel_reserve -= count
+        fight.fuel += count
+        print("[INFO] flue <{}> <{}>: Fuel added ({}/{})".format(fid, count, fight.fuel, fight.max_fuel))
+        return
 
     # 该指令表示为战斗机添加导弹。第一个参数为添加导弹的战斗机编号，第二个参数为添加导弹的数量。
     def missile(self, fid, count):
@@ -161,25 +169,111 @@ class MilitaryExercise:
         if not (0 <= fid < self.fighters_num and 0 < count):
             print("[WARNING] missile <{}> <{}>: Invalid parameter(s)".format(fid, count))
             return
-
         fight = self.fighters[fid]
         # 检查是否在蓝色基地
         if not self.map_info[fight.row][fight.col] == "*":
             print("[WARNING] missile <{}> <{}>: Not at a blue base".format(fid, count))
             return
+        # 寻找对应的蓝色基地
+        blue_base = self.blue_bases[(fight.row, fight.col)]
+        if blue_base.missile_reserve < count:
+            print("[WARNING] missile <{}> <{}>: No enough supplies".format(fid, count))
+            count = blue_base.missile_reserve
         # 检查是否超过最大容量
         if fight.missile + count > fight.max_missile:
             print("[WARNING] missile <{}> <{}>: No enough capacity".format(fid, count))
             count = fight.max_missile - fight.missile
-        # 寻找对应的蓝色基地
-        for blue_base in self.blue_bases:
-            if blue_base.row == fight.row and blue_base.col == fight.col:
-                if blue_base.missile_reserve < count:
-                    print("[WARNING] missile <{}> <{}>: No enough supplies".format(fid, count))
-                    count = blue_base.missile_reserve
-                blue_base.missile_reserve -= count
-                fight.missile += count
-                print("[INFO]missile <{}> <{}>: Missile added ({}/{})".format(fid, count, fight.missile,
-                                                                              fight.max_missile))
-                return
-        print("[ERROR]missile <{}> <{}>".format(fid, count))
+        blue_base.missile_reserve -= count
+        fight.missile += count
+        print("[INFO]missile <{}> <{}>: Missile added ({}/{})".format(fid, count, fight.missile, fight.max_missile))
+        return
+
+    # 该指令表示战斗机寻找敌方基地。第一个参数为战斗机编号。
+    def find_red_base(self, fid):
+        fight = self.fighters[fid]
+        # 寻找最近的敌方基地
+        target = (-1, -1)
+        min_dis = self.max_row + self.max_col
+        for red_base in self.red_bases.values():
+            if red_base.defense <= 0 or (red_base.row, red_base.col) in self.targets:
+                continue
+            tmp_dis = abs(fight.row - red_base.row) + abs(fight.col - red_base.col)
+            if tmp_dis < min_dis:
+                min_dis = tmp_dis
+                target = (red_base.row, red_base.col)
+        # 检查是否可能到达
+        if fight.max_fuel < min_dis:
+            print("[WARNING] find_red_base <{}>: No target can get".format(fid))
+            return -1, 0
+        # 检查是否有足够的燃料
+        if fight.fuel <= min_dis:
+            print("[WARNING] find_red_base <{}>: No enough fuel".format(fid))
+            return 0, -1
+        # # 检查是否有足够的导弹
+        # if fight.missile < self.red_bases[(target[0], target[1])].defense:
+        #     print("[WARNING] find_red_base <{}>: No enough missile".format(fid))
+        #     return 0, -2
+        return target
+
+    # 该指令表示战斗机寻找导弹库。第一个参数为战斗机编号。
+    def find_missile(self, fid):
+        fight = self.fighters[fid]
+        # 寻找最近的导弹库
+        target = (-1, -1)
+        min_dis = self.max_row + self.max_col
+        for blue_base in self.blue_bases.values():
+            if blue_base.missile_reserve <= 0 or (blue_base.row, blue_base.col) in self.targets:
+                continue
+            tmp_dis = abs(fight.row - blue_base.row) + abs(fight.col - blue_base.col)
+            if tmp_dis < min_dis:
+                min_dis = tmp_dis
+                target = (blue_base.row, blue_base.col)
+        # 检查是否有足够的燃料
+        if fight.fuel <= min_dis:
+            print("[WARNING] find_missile <{}>: No enough fuel".format(fid))
+            return -1, 0
+        return target
+
+    # 该指令表示战斗机寻找燃料库。第一个参数为战斗机编号。
+    def find_fuel(self, fid):
+        fight = self.fighters[fid]
+        # 寻找最近的燃料库
+        target = (-1, -1)
+        min_dis = self.max_row + self.max_col
+        for blue_base in self.blue_bases.values():
+            if blue_base.fuel_reserve <= 0 or (blue_base.row, blue_base.col) in self.targets:
+                continue
+            tmp_dis = abs(fight.row - blue_base.row) + abs(fight.col - blue_base.col)
+            if tmp_dis < min_dis:
+                min_dis = tmp_dis
+                target = (blue_base.row, blue_base.col)
+        if fight.fuel <= min_dis:
+            print("[WARNING] find_fuel <{}>: No enough fuel".format(fid))
+            return -1, 0
+        return target
+
+    # 该指令表示战斗机寻找目标。第一个参数为战斗机编号。
+    def find_target(self, fid):
+        fight = self.fighters[fid]
+        # # 抵达蓝色基地则加油和补充弹药
+        # if self.map_info[fight.row][fight.col] == "*":
+        #     self.flue(fid, fight.max_fuel)
+        #     self.missile(fid, fight.max_missile)
+        # 是否待命
+        if not (self.targets[fid] == (-1, -1)):
+            return
+        # 是否需要补充导弹
+        if fight.missile <= 0:
+            target = self.find_missile(fid)
+            self.targets[fid] = target
+            return
+            # 寻找目标敌方基地
+        target = self.find_red_base(fid)
+        # 是否需要补充燃料
+        if target == (0, -1):
+            target = self.find_fuel(fid)
+        self.targets[fid] = target
+
+    def get_targets(self):
+        for fid in range(self.fighters_num):
+            self.find_target(fid)

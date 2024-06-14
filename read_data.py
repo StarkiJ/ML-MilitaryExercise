@@ -6,6 +6,7 @@ def read_data(file_path):
     data = file.read().split()
 
     index = 0
+    max_score = 0
 
     # 读取地图信息
     max_row = int(data[index])
@@ -24,7 +25,7 @@ def read_data(file_path):
     blue_base_count = int(data[index])
     index += 1
 
-    blue_bases = []
+    blue_bases = {}
     for i in range(blue_base_count):
         row = int(data[index])
         col = int(data[index + 1])
@@ -35,13 +36,13 @@ def read_data(file_path):
         military_value = int(data[index + 3])
         index += 4
         blue_base = MilitaryBase(i, row, col, fuel_reserve, missile_reserve, defense, military_value)
-        blue_bases.append(blue_base)
+        blue_bases[(row, col)] = blue_base
 
     # 读取红方基地信息
     red_base_count = int(data[index])
     index += 1
 
-    red_bases = []
+    red_bases = {}
     for i in range(red_base_count):
         row = int(data[index])
         col = int(data[index + 1])
@@ -50,9 +51,10 @@ def read_data(file_path):
         missile_reserve = int(data[index + 1])
         defense = int(data[index + 2])
         military_value = int(data[index + 3])
+        max_score += military_value
         index += 4
         red_base = MilitaryBase(i, row, col, fuel_reserve, missile_reserve, defense, military_value)
-        red_bases.append(red_base)
+        red_bases[(row, col)] = red_base
 
     # 读取战斗机信息
     fighter_count = int(data[index])
@@ -68,4 +70,4 @@ def read_data(file_path):
         fighter = Fighter(i, row, col, max_fuel, max_missile)
         fighters.append(fighter)
 
-    return max_row, max_col, map_info, blue_bases, red_bases, fighters
+    return max_row, max_col, map_info, blue_bases, red_bases, fighters, max_score
