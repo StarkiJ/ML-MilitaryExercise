@@ -15,8 +15,8 @@ class MilitaryExercise:
         self.fighters = fighters
         self.max_score = max_score
         self.fighters_num = len(fighters)
-        self.Score = 0
-        self.Frame = 0
+        self.score = 0
+        self.frame = 0
         self.targets = []
         self.paths = []
         self.moved = []
@@ -44,13 +44,13 @@ class MilitaryExercise:
         print()
         print("max_score:", self.max_score)
         print()
-        print("Score:", self.Score, ", Frame:", self.Frame)
+        print("Score:", self.score, ", Frame:", self.frame)
 
     def next_frame(self):
-        self.Frame += 1
+        self.frame += 1
         for fid in range(self.fighters_num):
             self.moved[fid] = False
-        print("Score:", self.Score, ", Frame:", self.Frame)
+        print("Score:", self.score, ", Frame:", self.frame)
 
     # 该指令表示战斗机的移动。第一个参数为移动的战斗机编号，第二个参数为移动方向的编号。
     # 0 1 2 3 分别表示 “上、下、左、右”。
@@ -128,7 +128,7 @@ class MilitaryExercise:
         if red_base.defense <= 0:
             self.map_info[tmp_row][tmp_col] = "0"
             self.red_bases.pop((tmp_row, tmp_col))
-            self.Score += red_base.military_value
+            self.score += red_base.military_value
             print("[INFO] attack <{}> <{}> <{}>: Red base destroyed (Score: {})".format(fid, dire, count,
                                                                                         red_base.military_value))
         else:
@@ -359,4 +359,7 @@ class MilitaryExercise:
 
     def get_targets(self):
         for fid in range(self.fighters_num):
+            # 如果已经无法行动则跳过
+            if self.targets[fid] == (-1, 0):
+                continue
             self.find_target(fid)

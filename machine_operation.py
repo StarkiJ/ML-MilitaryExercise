@@ -22,7 +22,6 @@ def machine_operation(me):
         me.get_targets()
         # 如果战斗机都无法继续行动则结束
         if all(target == (-1, 0) for target in me.targets):
-            print("Total score: {}/{}".format(me.Score, me.max_score))
             break
 
         # 控制战斗机根据target行动
@@ -51,7 +50,10 @@ def machine_operation(me):
                 me.targets[fid] = (-1, -1)
         # 如果红色基地已全被摧毁则结束
         if not me.red_bases:
-            print("Total score: {}/{}".format(me.Score, me.max_score))
             break
         print()
         me.next_frame()
+
+    print("Total score: {}/{}".format(me.score, me.max_score))
+    with open('score.txt', 'w') as file:
+        file.write("Total score: {}/{}\n".format(me.score, me.max_score))
