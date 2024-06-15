@@ -42,7 +42,7 @@ def machine_operation(me):
             # 抵达红色基地隔壁则攻击
             if dis <= 2 and me.map_info[row][col] == "#":
                 dire = me.paths[fid][0]
-                me.attack(fid, dire, fight.max_missile)
+                me.attack(fid, dire, fight.missile)
                 me.targets[fid] = (-1, -1)
             # 抵达蓝色基地则加油和补充弹药
             elif dis <= 1 and me.map_info[row][col] == "*":
