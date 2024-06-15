@@ -158,6 +158,8 @@ class MilitaryExercise:
         if fight.fuel + count > fight.max_fuel:
             print("[WARNING] flue <{}> <{}>: No enough capacity".format(fid, count))
             count = fight.max_fuel - fight.fuel
+            if count == 0:
+                return
         blue_base.fuel_reserve -= count
         fight.fuel += count
         print("[INFO] flue <{}> <{}>: Fuel added ({}/{})".format(fid, count, fight.fuel, fight.max_fuel))
@@ -185,6 +187,8 @@ class MilitaryExercise:
         if fight.missile + count > fight.max_missile:
             print("[WARNING] missile <{}> <{}>: No enough capacity".format(fid, count))
             count = fight.max_missile - fight.missile
+            if count == 0:
+                return
         blue_base.missile_reserve -= count
         fight.missile += count
         print("[INFO]missile <{}> <{}>: Missile added ({}/{})".format(fid, count, fight.missile, fight.max_missile))
@@ -195,7 +199,7 @@ class MilitaryExercise:
         if aim == 0:
             if self.map_info[loc[0]][loc[1]] == '#':
                 red_base = self.red_bases[loc]
-                if red_base.defense > 0 and (red_base.row, red_base.col) not in self.targets:
+                if (red_base.row, red_base.col) not in self.targets:
                     return True
         elif aim == 1:
             if self.map_info[loc[0]][loc[1]] == '*':
