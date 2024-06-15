@@ -228,35 +228,42 @@ class MilitaryExercise:
         queue = deque([(start[0], start[1], 0)])  # (x, y, steps)
         visited = {start}  # 记录访问过的节点
         parent = {start: ((-1, -1), None)}  # 记录每个节点的前驱节点和方向
-        target = [(-1, 0), [], 0]  # (x, y, path, value, defence, steps)
+        fuel = self.fighters[fid].fuel
+        target = [(-2, -2), [], -1]  # (x, y), direction_path, value
         change = 0
 
         while queue:
             x, y, steps = queue.popleft()
 
-            # 如果到达燃料极限
-            if self.fighters[fid].fuel < steps or change > 10:
-                return target[0], target[1]
+            # 检查燃料是否充足
+            if fuel < steps or change > 3:
+                if aim == 0:
+                    if target[2] < 0:
+                        if self.fighters[fid].max_fuel < steps:
+                            return (-1, 0), []
+                        else:
+                            return (0, -1), []
+                    else:
+                        return target[0], target[1]
+                else:
+                    return (-1, 0), []
 
             # 如果到达目标点，构建方向序列
             if self.is_aim_base((x, y), aim):
-                # 检查燃料是否充足
-                directions_seq = []
+                dire_path = []
                 (tx, ty) = (x, y)
                 while parent[(tx, ty)][1] is not None:
-                    directions_seq.append(parent[(tx, ty)][1])
+                    dire_path.append(parent[(tx, ty)][1])
                     (tx, ty) = parent[(tx, ty)][0]
-                directions_seq.reverse()
+                dire_path.reverse()
                 if aim == 0:
                     red_base = self.red_bases[(x, y)]
-                    # if self.fighters[fid].missile < red_base.defense:
-                    #     return (-2, 0), []
-                    tmp = red_base.military_value / (red_base.defense + steps)
-                    if target[2] < tmp:
+                    tmp_value = red_base.military_value / (red_base.defense + steps)
+                    if target[2] < tmp_value:
+                        target = [(x, y), dire_path, tmp_value]
                         change += 1
-                        target = ((x, y), directions_seq, tmp)
                 else:
-                    return (x, y), directions_seq
+                    return (x, y), dire_path
             else:
                 # 遍历四个方向
                 for i in range(4):
@@ -265,7 +272,7 @@ class MilitaryExercise:
                         visited.add((nx, ny))
                         queue.append((nx, ny, steps + 1))
                         parent[(nx, ny)] = ((x, y), i)
-
+        # 如果没有找到路径
         return target[0], target[1]
 
     # # 该指令表示战斗机寻找敌方基地。第一个参数为战斗机编号。
@@ -357,10 +364,8 @@ class MilitaryExercise:
         # 寻找目标敌方基地
         target, path = self.find_base(fid, 0)
         # 是否需要补充燃料
-        if target == (-1, 0):
+        if target == (0, -1):
             target, path = self.find_base(fid, 1)
-        if target == (-2, 0):
-            target, path = self.find_base(fid, 2)
         self.targets[fid] = target
         self.paths[fid] = path
 
