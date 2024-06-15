@@ -1,53 +1,60 @@
+# import tianshou as ts
+# from tianshou.policy import DQNPolicy
+# from tianshou.data import VectorReplayBuffer, Collector
+# from tianshou.trainer import offpolicy_trainer
+# from tianshou.env import DummyVectorEnv
+# import torch
+# import torch.nn as nn
+# import torch.optim as optim
 # import numpy as np
-# import tensorflow as tf
-# from tensorflow.keras import layers
-# from collections import deque
-# import random
+# from MEEnv import MilitaryExerciseEnv
 #
-# class DQNAgent:
-#     def __init__(self, state_size, action_size):
-#         self.state_size = state_size
-#         self.action_size = action_size
-#         self.memory = deque(maxlen=2000)
-#         self.gamma = 0.95  # discount rate
-#         self.epsilon = 1.0  # exploration rate
-#         self.epsilon_min = 0.01
-#         self.epsilon_decay = 0.995
-#         self.learning_rate = 0.001
-#         self.model = self._build_model()
 #
-#     def _build_model(self):
-#         # Neural Net for Deep-Q learning Model
-#         model = tf.keras.Sequential()
-#         model.add(layers.Dense(24, input_dim=self.state_size, activation='relu'))
-#         model.add(layers.Dense(24, activation='relu'))
-#         model.add(layers.Dense(self.action_size, activation='linear'))
-#         model.compile(loss='mse', optimizer=tf.keras.optimizers.Adam(lr=self.learning_rate))
-#         return model
+# # 定义Q网络
+# class QNet(nn.Module):
+#     def __init__(self, state_shape, action_shape):
+#         super().__init__()
+#         self.model = nn.Sequential(
+#             nn.Linear(np.prod(state_shape), 128),
+#             nn.ReLU(),
+#             nn.Linear(128, 128),
+#             nn.ReLU(),
+#             nn.Linear(128, np.prod(action_shape))
+#         )
 #
-#     def remember(self, state, action, reward, next_state, done):
-#         self.memory.append((state, action, reward, next_state, done))
+#     def forward(self, obs, state=None, info={}):
+#         obs = torch.flatten(obs, start_dim=1)
+#         return self.model(obs), state
 #
-#     def act(self, state):
-#         if np.random.rand() <= self.epsilon:
-#             return random.randrange(self.action_size)
-#         act_values = self.model.predict(state)
-#         return np.argmax(act_values[0])  # returns action
 #
-#     def replay(self, batch_size):
-#         minibatch = random.sample(self.memory, batch_size)
-#         for state, action, reward, next_state, done in minibatch:
-#             target = reward
-#             if not done:
-#                 target = (reward + self.gamma * np.amax(self.model.predict(next_state)[0]))
-#             target_f = self.model.predict(state)
-#             target_f[0][action] = target
-#             self.model.fit(state, target_f, epochs=1, verbose=0)
-#         if self.epsilon > self.epsilon_min:
-#             self.epsilon *= self.epsilon_decay
+# def machine_learning():
+#     # 创建环境
+#     file_path = './data2/testcase1.in'  # 替换为你的文件路径
+#     env = MilitaryExerciseEnv(file_path)
+#     train_envs = DummyVectorEnv([lambda: MilitaryExerciseEnv(file_path) for _ in range(8)])
+#     test_envs = DummyVectorEnv([lambda: MilitaryExerciseEnv(file_path) for _ in range(100)])
 #
-#     def load(self, name):
-#         self.model.load_weights(name)
+#     # 设置策略
+#     state_shape = train_envs.observation_space.shape
+#     action_shape = (11 * train_envs.action_space.shape[0],)
+#     net = QNet(state_shape, action_shape)
+#     optim = optim.Adam(net.parameters(), lr=1e-3)
+#     policy = DQNPolicy(net, optim, discount_factor=0.9, estimation_step=3, target_update_freq=320)
 #
-#     def save(self, name):
-#         self.model.save_weights(name)
+#     # 创建数据缓冲区
+#     buffer = VectorReplayBuffer(20000, buffer_num=len(train_envs))
+#     train_collector = Collector(policy, train_envs, buffer, exploration_noise=True)
+#     test_collector = Collector(policy, test_envs, exploration_noise=True)
+#
+#     # 训练
+#     result = offpolicy_trainer(
+#         policy, train_collector, test_collector,
+#         max_epoch=10, step_per_epoch=1000, step_per_collect=10,
+#         episode_per_test=100, batch_size=64, update_per_step=0.1,
+#         train_fn=lambda epoch, env_step: policy.set_eps(0.1),
+#         test_fn=lambda epoch, env_step: policy.set_eps(0.05),
+#         stop_fn=lambda mean_rewards: mean_rewards >= env.exercise.max_score,
+#         logger=None
+#     )
+#
+#     print(result)
