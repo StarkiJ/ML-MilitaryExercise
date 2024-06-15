@@ -336,10 +336,10 @@ class MilitaryExercise:
     # 该指令表示战斗机寻找目标。第一个参数为战斗机编号。
     def find_target(self, fid):
         fight = self.fighters[fid]
-        # # 抵达蓝色基地则加油和补充弹药
-        # if self.map_info[fight.row][fight.col] == "*":
-        #     self.flue(fid, fight.max_fuel)
-        #     self.missile(fid, fight.max_missile)
+        # 路过无预约的蓝色基地则加油和补充弹药
+        if self.map_info[fight.row][fight.col] == "*" and (fight.row, fight.col) not in self.targets:
+            self.flue(fid, fight.max_fuel)
+            self.missile(fid, fight.max_missile)
         # 是否待命
         if not (self.targets[fid] == (-1, -1)):
             return
