@@ -227,7 +227,7 @@ class MilitaryExercise:
         visited = {start}  # 记录访问过的节点
         parent = {start: ((-1, -1), None)}  # 记录每个节点的前驱节点和方向
         fuel = self.fighters[fid].fuel
-        target = [(-2, -2), [], -1]  # (x, y), direction_path, value
+        target = [(-1, -1), [], -1]  # (x, y), direction_path, value
         change = 0
 
         while queue:
@@ -350,8 +350,10 @@ class MilitaryExercise:
         fight = self.fighters[fid]
         # 路过无预约的蓝色基地则加油和补充弹药
         if self.map_info[fight.row][fight.col] == "*" and (fight.row, fight.col) not in self.targets:
-            self.flue(fid, fight.max_fuel)
-            self.missile(fid, fight.max_missile)
+            if fight.fuel < fight.max_fuel:
+                self.flue(fid, fight.max_fuel - fight.fuel)
+            if fight.missile < fight.max_missile:
+                self.missile(fid, fight.max_missile - fight.missile)
         # 是否待命
         if not (self.targets[fid] == (-1, -1)):
             return

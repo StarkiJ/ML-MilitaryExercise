@@ -30,7 +30,7 @@ def machine_operation(me):
             fight = me.fighters[fid]
             (row, col) = me.targets[fid]
             # 如果已结束行动则跳过
-            if row == -1 and col == 0:
+            if row < 0 or col < 0:
                 continue
 
             dis = len(me.paths[fid])
