@@ -241,13 +241,13 @@ class MilitaryExercise:
 
             # 如果到达目标点，构建方向序列
             if self.is_aim_base((x, y), aim):
-                directions_seq = []
+                dire_path = []
                 (tx, ty) = (x, y)
-                while parent[(x, y)][1] is not None:
-                    directions_seq.append(parent[(x, y)][1])
-                    (x, y) = parent[(x, y)][0]
-                directions_seq.reverse()
-                return (tx, ty), directions_seq
+                while parent[(tx, ty)][1] is not None:
+                    dire_path.append(parent[(tx, ty)][1])
+                    (tx, ty) = parent[(tx, ty)][0]
+                dire_path.reverse()
+                return (x, y), dire_path
             else:
                 # 遍历四个方向
                 for i in range(4):
