@@ -7,6 +7,9 @@ def read_data(file_path):
 
     index = 0
     max_score = 0
+    total_fuel = 0
+    total_missile = 0
+    total_defense = 0
 
     # 读取地图信息
     max_row = int(data[index])
@@ -35,6 +38,8 @@ def read_data(file_path):
         defense = int(data[index + 2])
         military_value = int(data[index + 3])
         index += 4
+        total_fuel += fuel_reserve
+        total_missile += missile_reserve
         blue_base = MilitaryBase(i, row, col, fuel_reserve, missile_reserve, defense, military_value)
         blue_bases[(row, col)] = blue_base
 
@@ -56,6 +61,7 @@ def read_data(file_path):
             map_info[row][col] = "0"
             continue
         max_score += military_value
+        total_defense += defense
         red_base = MilitaryBase(i, row, col, fuel_reserve, missile_reserve, defense, military_value)
         red_bases[(row, col)] = red_base
 
@@ -72,5 +78,10 @@ def read_data(file_path):
         index += 4
         fighter = Fighter(i, row, col, max_fuel, max_missile)
         fighters.append(fighter)
+
+    print("max score:{}".format(max_score))
+    print("total fuel:{}".format(total_fuel))
+    print("total missile:{}".format(total_missile))
+    print("total defense:{}".format(total_defense))
 
     return max_row, max_col, map_info, blue_bases, red_bases, fighters, max_score
