@@ -5,7 +5,7 @@ from machine_operation import machine_operation
 
 
 def main():
-    me = MilitaryExercise('./data2/testcase10.in')
+    me = MilitaryExercise('./data2/testcase1.in')
     me.show_info()
 
     print("Please choose a start mode:")

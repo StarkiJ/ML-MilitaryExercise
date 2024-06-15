@@ -15,8 +15,8 @@ class MilitaryExercise:
         self.fighters = fighters
         self.max_score = max_score
         self.fighters_num = len(fighters)
-        self.Score = 0
-        self.Frame = 0
+        self.score = 0
+        self.frame = 0
         self.targets = []
         self.paths = []
         self.moved = []
@@ -44,13 +44,13 @@ class MilitaryExercise:
         print()
         print("max_score:", self.max_score)
         print()
-        print("Score:", self.Score, ", Frame:", self.Frame)
+        print("Score:", self.score, ", Frame:", self.frame)
 
     def next_frame(self):
-        self.Frame += 1
+        self.frame += 1
         for fid in range(self.fighters_num):
             self.moved[fid] = False
-        print("Score:", self.Score, ", Frame:", self.Frame)
+        print("Score:", self.score, ", Frame:", self.frame)
 
     # 该指令表示战斗机的移动。第一个参数为移动的战斗机编号，第二个参数为移动方向的编号。
     # 0 1 2 3 分别表示 “上、下、左、右”。
@@ -128,7 +128,7 @@ class MilitaryExercise:
         if red_base.defense <= 0:
             self.map_info[tmp_row][tmp_col] = "0"
             self.red_bases.pop((tmp_row, tmp_col))
-            self.Score += red_base.military_value
+            self.score += red_base.military_value
             print("[INFO] attack <{}> <{}> <{}>: Red base destroyed (Score: {})".format(fid, dire, count,
                                                                                         red_base.military_value))
         else:
@@ -198,18 +198,16 @@ class MilitaryExercise:
     def is_aim_base(self, loc, aim):
         if aim == 0:
             if self.map_info[loc[0]][loc[1]] == '#':
-                red_base = self.red_bases[loc]
-                if (red_base.row, red_base.col) not in self.targets:
-                    return True
+                return True
         elif aim == 1:
             if self.map_info[loc[0]][loc[1]] == '*':
                 blue_base = self.blue_bases[loc]
-                if blue_base.fuel_reserve > 0 and (blue_base.row, blue_base.col) not in self.targets:
+                if blue_base.fuel_reserve > 0:
                     return True
         elif aim == 2:
             if self.map_info[loc[0]][loc[1]] == '*':
                 blue_base = self.blue_bases[loc]
-                if blue_base.missile_reserve > 0 and (blue_base.row, blue_base.col) not in self.targets:
+                if blue_base.missile_reserve > 0:
                     return True
         return False
 
@@ -236,7 +234,7 @@ class MilitaryExercise:
             x, y, steps = queue.popleft()
 
             # 检查燃料是否充足
-            if fuel < steps or change > 1:
+            if fuel < steps or change > 0:
                 if aim == 0:
                     if target[2] < 0:
                         if self.fighters[fid].max_fuel < steps:
@@ -250,6 +248,8 @@ class MilitaryExercise:
 
             # 如果到达目标点，构建方向序列
             if self.is_aim_base((x, y), aim):
+                if (x, y) in self.targets:
+                    continue
                 dire_path = []
                 (tx, ty) = (x, y)
                 while parent[(tx, ty)][1] is not None:
@@ -371,4 +371,6 @@ class MilitaryExercise:
 
     def get_targets(self):
         for fid in range(self.fighters_num):
+            if self.targets[fid] == (-1, 0):
+                continue
             self.find_target(fid)
