@@ -192,8 +192,6 @@ class MilitaryExercise:
 
     # 检查loc对应位置是否为目标基地，aim为0表示红色基地，1表示燃料库，2表示导弹库
     def is_aim_base(self, loc, aim):
-        if loc ==(13,109):
-            print(self.map_info[loc[0]][loc[1]])
         if aim == 0:
             if self.map_info[loc[0]][loc[1]] == '#':
                 red_base = self.red_bases[loc]
@@ -226,15 +224,23 @@ class MilitaryExercise:
         queue = deque([(start[0], start[1], 0)])  # (x, y, steps)
         visited = {start}  # 记录访问过的节点
         parent = {start: ((-1, -1), None)}  # 记录每个节点的前驱节点和方向
+        fuel = self.fighters[fid].fuel
 
         while queue:
             x, y, steps = queue.popleft()
 
+            # 检查燃料是否充足
+            if fuel < steps:
+                if aim == 0:
+                    if self.fighters[fid].max_fuel < steps:
+                        return (-1, 0), []
+                    else:
+                        return (0, -1), []
+                else:
+                    return (-1, 0), []
+
             # 如果到达目标点，构建方向序列
             if self.is_aim_base((x, y), aim):
-                # 检查燃料是否充足
-                if self.fighters[fid].fuel < steps:
-                    return (-1, 0), []
                 directions_seq = []
                 (tx, ty) = (x, y)
                 while parent[(x, y)][1] is not None:
@@ -242,17 +248,16 @@ class MilitaryExercise:
                     (x, y) = parent[(x, y)][0]
                 directions_seq.reverse()
                 return (tx, ty), directions_seq
-
-            # 遍历四个方向
-            for i in range(4):
-                nx, ny = x + self.direction[i][0], y + self.direction[i][1]
-                if self.is_valid(nx, ny, aim) and (nx, ny) not in visited:
-                    visited.add((nx, ny))
-                    queue.append((nx, ny, steps + 1))
-                    parent[(nx, ny)] = ((x, y), i)
-
+            else:
+                # 遍历四个方向
+                for i in range(4):
+                    nx, ny = x + self.direction[i][0], y + self.direction[i][1]
+                    if self.is_valid(nx, ny, aim) and (nx, ny) not in visited:
+                        visited.add((nx, ny))
+                        queue.append((nx, ny, steps + 1))
+                        parent[(nx, ny)] = ((x, y), i)
         # 如果没有找到路径
-        return (-1, -1), []
+        return (-2, -2), []
 
     # # 该指令表示战斗机寻找敌方基地。第一个参数为战斗机编号。
     # def find_red_base(self, fid):
@@ -343,7 +348,7 @@ class MilitaryExercise:
         # 寻找目标敌方基地
         target, path = self.find_base(fid, 0)
         # 是否需要补充燃料
-        if target == (-1, 0):
+        if target == (0, -1):
             target, path = self.find_base(fid, 1)
         self.targets[fid] = target
         self.paths[fid] = path
