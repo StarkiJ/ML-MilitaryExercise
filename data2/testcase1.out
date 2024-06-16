@@ -1,41 +1,40 @@
-[INFO] flue <0> <100>: 
-[INFO] missile <0> <20>: 
-[INFO] flue <1> <120>: 
-[INFO] missile <1> <18>: 
-[INFO] flue <2> <90>: 
-[INFO] missile <2> <10>: 
-[INFO] flue <0> <0>: 
-[INFO] missile <0> <0>: 
-[INFO] flue <1> <0>: 
-[INFO] missile <1> <0>: 
-[INFO] flue <2> <0>: 
-[INFO] missile <2> <0>: 
-[INFO] move <0> <1>:
-[INFO] move <1> <1>:
-[INFO] move <2> <0>:
-Score: 0, Frame: 1
-[INFO] move <0> <2>:
-[INFO] move <1> <2>:
-[INFO] move <2> <0>:
-Score: 0, Frame: 2
-[INFO] move <0> <2>:
-[INFO] move <1> <2>:
-[INFO] move <2> <2>:
-Score: 0, Frame: 3
-[INFO] move <0> <2>:
-INFO] attack <0> <2> <1>: 
-[INFO] move <1> <2>:
-INFO] attack <1> <2> <3>: 
-[INFO] move <2> <2>:
-Score: 50, Frame: 4
-[INFO] move <0> <1>:
-[INFO] move <2> <2>:
-Score: 50, Frame: 5
-INFO] attack <0> <2> <4>: 
-[INFO] move <2> <2>:
-Score: 85, Frame: 6
-[INFO] move <0> <2>:
-INFO] attack <0> <2> <2>: 
-[INFO] move <2> <2>:
-Total score: 110/110
-used time: 0.0
+fuel 0 100
+missile 0 20
+fuel 1 120
+missile 1 18
+fuel 2 90
+missile 2 10
+fuel 0 0
+missile 0 0
+fuel 1 0
+missile 1 0
+fuel 2 0
+missile 2 0
+move 0 1
+move 1 1
+move 2 0
+OK
+move 0 2
+move 1 2
+move 2 0
+OK
+move 0 2
+move 1 2
+move 2 2
+OK
+move 0 2
+attack 0 2 1
+move 1 2
+attack 1 2 3
+move 2 2
+OK
+move 0 1
+move 2 2
+OK
+attack 0 2 4
+move 2 2
+OK
+move 0 2
+attack 0 2 2
+move 2 2
+OKTotal score: 110/110

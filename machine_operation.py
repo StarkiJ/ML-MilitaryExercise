@@ -19,7 +19,7 @@ def machine_operation(me, output_path):
         fight = me.fighters[fid]
         # 抵达蓝色基地则加油和补充弹药
         if me.map_info[fight.row][fight.col] == "*":
-            me.flue(fid, fight.max_fuel)
+            me.fuel(fid, fight.max_fuel)
             me.missile(fid, fight.max_missile)
 
     while True:
@@ -50,7 +50,7 @@ def machine_operation(me, output_path):
                 me.targets[fid] = (-1, -1)
             # 抵达蓝色基地则加油和补充弹药
             elif dis <= 1 and me.map_info[row][col] == "*":
-                me.flue(fid, fight.max_fuel)
+                me.fuel(fid, fight.max_fuel)
                 me.missile(fid, fight.max_missile)
                 me.targets[fid] = (-1, -1)
         # 如果红色基地已全被摧毁则结束
@@ -65,5 +65,5 @@ def machine_operation(me, output_path):
     with open(output_path, 'w') as file:
         for command in me.commands:
             file.write(command + '\n')
+        file.write("OK")
         file.write("Total score: {}/{}\n".format(me.score, me.max_score))
-        file.write("used time: {}\n".format(used_time))
