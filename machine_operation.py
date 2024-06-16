@@ -1,16 +1,8 @@
-# 判断目标方向
-def get_direction(frow, fcol, trow, tcol):
-    if frow > trow:
-        return 0
-    elif frow < trow:
-        return 1
-    elif fcol > tcol:
-        return 2
-    elif fcol < tcol:
-        return 3
+import time
 
 
-def machine_operation(me):
+def machine_operation(me, output_path):
+    start_time = time.time()
     for fid in range(me.fighters_num):
         fight = me.fighters[fid]
         # 抵达蓝色基地则加油和补充弹药
@@ -22,7 +14,6 @@ def machine_operation(me):
         me.get_targets()
         # 如果战斗机都无法继续行动则结束
         if all(path[0] == -3 for path in me.paths):
-            print("Total score: {}/{}".format(me.score, me.max_score))
             break
 
         # 控制战斗机根据target行动
@@ -52,13 +43,23 @@ def machine_operation(me):
                 me.attack(fid, dire, fight.max_missile)
                 me.paths[fid] = [-1]
             # 抵达蓝色基地则加油和补充弹药
-            elif dis <= 1 and path[0] >0:
+            elif dis <= 1 and path[0] > 0:
                 me.flue(fid, fight.max_fuel)
                 me.missile(fid, fight.max_missile)
                 me.paths[fid] = [-1]
         # 如果红色基地已全被摧毁则结束
         if not me.red_bases:
-            print("Total score: {}/{}".format(me.score, me.max_score))
             break
+
         print()
         me.next_frame()
+
+    used_time = time.time() - start_time
+    print("Total score: {}/{}".format(me.score, me.max_score))
+    print("used time: {}".format(used_time))
+    print("output path: {}".format(output_path))
+    with open(output_path, 'w') as file:
+        for command in me.commands:
+            file.write(command + '\n')
+        file.write("Total score: {}/{}\n".format(me.score, me.max_score))
+        file.write("used time: {}\n".format(used_time))

@@ -1,0 +1,2060 @@
+[INFO] flue <0> <60>: 
+[INFO] missile <0> <4>: 
+[INFO] flue <1> <89>: 
+[INFO] missile <1> <6>: 
+[INFO] move <0> <0>: 
+[INFO] move <1> <0>: 
+[INFO] flue <1> <10>: 
+[INFO] missile <1> <6>: 
+[INFO] move <0> <0>: 
+[INFO] flue <0> <6>: 
+[INFO] missile <0> <7>: 
+[INFO] move <1> <0>: 
+[INFO] flue <1> <1>: 
+[INFO] missile <1> <5>: 
+[INFO] move <0> <3>: 
+[INFO] attack <0> <3> <10>: 
+[INFO] move <1> <2>: 
+[INFO] attack <1> <2> <7>: 
+[INFO] move <0> <0>: 
+[INFO] attack <0> <0> <1>: 
+[INFO] move <1> <0>: 
+[INFO] attack <1> <2> <10>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <3>: 
+[INFO] flue <1> <1>: 
+[INFO] missile <1> <5>: 
+[INFO] move <0> <1>: 
+[INFO] flue <0> <8>: 
+[INFO] missile <0> <0>: 
+[INFO] move <1> <0>: 
+[INFO] move <0> <1>: 
+[INFO] flue <0> <6>: 
+[INFO] missile <0> <7>: 
+[INFO] move <1> <0>: 
+[INFO] attack <1> <2> <5>: 
+[INFO] move <0> <0>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <1> <0>: 
+[INFO] flue <1> <2>: 
+[INFO] missile <1> <3>: 
+[INFO] move <0> <0>: 
+[INFO] move <1> <1>: 
+[INFO] attack <1> <2> <3>: 
+[INFO] move <0> <0>: 
+[INFO] attack <0> <0> <4>: 
+[INFO] move <1> <0>: 
+[INFO] flue <1> <0>: 
+[INFO] missile <1> <0>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <0>: 
+[INFO] flue <1> <8>: 
+[INFO] missile <1> <1>: 
+[INFO] move <0> <3>: 
+[INFO] attack <0> <3> <3>: 
+[INFO] move <1> <2>: 
+[INFO] attack <1> <2> <1>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <0>: 
+[INFO] move <0> <1>: 
+[INFO] flue <0> <5>: 
+[INFO] missile <0> <7>: 
+[INFO] move <1> <3>: 
+[INFO] flue <1> <4>: 
+[INFO] missile <1> <10>: 
+[INFO] move <0> <0>: 
+[INFO] move <1> <2>: 
+[INFO] attack <1> <2> <5>: 
+[INFO] move <0> <0>: 
+[INFO] attack <0> <3> <3>: 
+[INFO] move <1> <1>: 
+[INFO] attack <1> <2> <5>: 
+[INFO] move <0> <3>: 
+[INFO] move <1> <0>: 
+[INFO] move <0> <3>: 
+[INFO] attack <0> <3> <4>: 
+[INFO] move <1> <3>: 
+[INFO] flue <1> <0>: 
+[INFO] missile <1> <0>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <3>: 
+[INFO] flue <1> <7>: 
+[INFO] missile <1> <9>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <0>: 
+[INFO] flue <1> <2>: 
+[INFO] missile <1> <10>: 
+[INFO] move <0> <3>: 
+[INFO] flue <0> <1>: 
+[INFO] missile <0> <6>: 
+[INFO] move <1> <0>: 
+[INFO] flue <1> <1>: 
+[INFO] missile <1> <1>: 
+[INFO] move <0> <0>: 
+[INFO] attack <0> <0> <3>: 
+[INFO] move <1> <0>: 
+[INFO] attack <1> <0> <7>: 
+[INFO] move <0> <0>: 
+[INFO] attack <0> <3> <1>: 
+[INFO] move <1> <0>: 
+[INFO] attack <1> <2> <7>: 
+[INFO] move <0> <0>: 
+[INFO] move <1> <2>: 
+[INFO] attack <1> <2> <1>: 
+[INFO] move <0> <0>: 
+[INFO] attack <0> <2> <2>: 
+[INFO] move <1> <0>: 
+[INFO] attack <1> <2> <5>: 
+[INFO] move <0> <3>: 
+[INFO] flue <0> <7>: 
+[INFO] missile <0> <3>: 
+[INFO] move <1> <0>: 
+[INFO] move <0> <0>: 
+[INFO] attack <0> <0> <1>: 
+[INFO] move <1> <0>: 
+[INFO] move <0> <0>: 
+[INFO] move <1> <0>: 
+[INFO] flue <1> <7>: 
+[INFO] missile <1> <8>: 
+[INFO] move <0> <0>: 
+[INFO] attack <0> <0> <2>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <1>: 
+[INFO] attack <1> <2> <7>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <1>: 
+[INFO] attack <1> <2> <1>: 
+[INFO] move <0> <3>: 
+[INFO] flue <0> <5>: 
+[INFO] missile <0> <9>: 
+[INFO] move <1> <0>: 
+[INFO] move <0> <0>: 
+[INFO] attack <0> <0> <6>: 
+[INFO] move <1> <0>: 
+[INFO] move <0> <0>: 
+[INFO] move <1> <0>: 
+[INFO] flue <1> <0>: 
+[INFO] missile <1> <0>: 
+[INFO] move <0> <0>: 
+[INFO] attack <0> <0> <2>: 
+[INFO] move <1> <3>: 
+[INFO] flue <1> <9>: 
+[INFO] missile <1> <7>: 
+[INFO] attack <0> <2> <1>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <2>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <2>: 
+[INFO] attack <1> <2> <7>: 
+[INFO] move <0> <1>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <1> <0>: 
+[INFO] move <0> <1>: 
+[INFO] flue <0> <4>: 
+[INFO] missile <0> <5>: 
+[INFO] move <1> <2>: 
+[INFO] move <0> <2>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <1> <2>: 
+[INFO] flue <1> <8>: 
+[INFO] missile <1> <1>: 
+[INFO] move <0> <2>: 
+[INFO] attack <0> <2> <5>: 
+[INFO] move <1> <1>: 
+[INFO] attack <1> <1> <1>: 
+[INFO] move <0> <0>: 
+[INFO] move <1> <0>: 
+[INFO] flue <1> <0>: 
+[INFO] missile <1> <0>: 
+[INFO] move <0> <3>: 
+[INFO] move <1> <2>: 
+[INFO] flue <1> <5>: 
+[INFO] missile <1> <10>: 
+[INFO] move <0> <3>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <3>: 
+[INFO] move <1> <1>: 
+[INFO] attack <1> <3> <5>: 
+[INFO] move <0> <3>: 
+[INFO] flue <0> <8>: 
+[INFO] missile <0> <3>: 
+[INFO] move <1> <1>: 
+[INFO] attack <1> <3> <5>: 
+[INFO] move <0> <0>: 
+[INFO] flue <0> <7>: 
+[INFO] missile <0> <2>: 
+[INFO] move <1> <2>: 
+[INFO] flue <1> <2>: 
+[INFO] missile <1> <6>: 
+[INFO] move <0> <0>: 
+[INFO] attack <0> <0> <5>: 
+[INFO] move <1> <3>: 
+[INFO] attack <1> <3> <5>: 
+[INFO] move <0> <1>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <1> <1>: 
+[INFO] attack <1> <1> <1>: 
+[INFO] move <0> <3>: 
+[INFO] flue <0> <7>: 
+[INFO] missile <0> <1>: 
+[INFO] move <1> <2>: 
+[INFO] flue <1> <10>: 
+[INFO] missile <1> <2>: 
+[INFO] move <0> <0>: 
+[INFO] attack <0> <0> <1>: 
+[INFO] move <1> <1>: 
+[INFO] attack <1> <3> <2>: 
+[INFO] move <0> <3>: 
+[INFO] flue <0> <8>: 
+[INFO] missile <0> <4>: 
+[INFO] move <1> <2>: 
+[INFO] flue <1> <7>: 
+[INFO] missile <1> <6>: 
+[INFO] move <0> <0>: 
+[INFO] attack <0> <2> <1>: 
+[INFO] move <1> <2>: 
+[INFO] attack <1> <2> <4>: 
+[INFO] move <0> <0>: 
+[INFO] attack <0> <2> <3>: 
+[INFO] move <1> <2>: 
+[INFO] attack <1> <2> <2>: 
+[INFO] move <0> <0>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <0>: 
+[INFO] move <1> <3>: 
+[INFO] flue <1> <2>: 
+[INFO] missile <1> <4>: 
+[INFO] move <0> <3>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <4>: 
+[INFO] move <1> <0>: 
+[INFO] move <0> <0>: 
+[INFO] move <1> <2>: 
+[INFO] attack <1> <2> <4>: 
+[INFO] move <0> <0>: 
+[INFO] attack <0> <0> <4>: 
+[INFO] move <1> <0>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <0>: 
+[INFO] flue <1> <2>: 
+[INFO] missile <1> <0>: 
+[INFO] move <0> <1>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <1> <2>: 
+[INFO] flue <1> <4>: 
+[INFO] missile <1> <6>: 
+[INFO] move <0> <2>: 
+[INFO] move <1> <0>: 
+[INFO] flue <1> <3>: 
+[INFO] missile <1> <0>: 
+[INFO] move <0> <2>: 
+[INFO] move <1> <0>: 
+[INFO] flue <1> <0>: 
+[INFO] missile <1> <7>: 
+[INFO] move <0> <2>: 
+[INFO] flue <0> <8>: 
+[INFO] missile <0> <6>: 
+[INFO] move <1> <0>: 
+[INFO] attack <1> <0> <9>: 
+[INFO] move <0> <1>: 
+[INFO] attack <0> <2> <6>: 
+[INFO] move <1> <0>: 
+[INFO] attack <1> <0> <4>: 
+[INFO] move <0> <0>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <0>: 
+[INFO] move <1> <1>: 
+[INFO] flue <1> <0>: 
+[INFO] missile <1> <0>: 
+[INFO] move <0> <2>: 
+[INFO] move <1> <2>: 
+[INFO] flue <1> <6>: 
+[INFO] missile <1> <8>: 
+[INFO] move <0> <2>: 
+[INFO] move <1> <0>: 
+[INFO] attack <1> <0> <8>: 
+[INFO] move <0> <2>: 
+[INFO] flue <0> <6>: 
+[INFO] missile <0> <2>: 
+[INFO] move <1> <0>: 
+[INFO] move <0> <2>: 
+[INFO] attack <0> <2> <2>: 
+[INFO] move <1> <2>: 
+[INFO] move <0> <0>: 
+[INFO] move <1> <0>: 
+[INFO] move <0> <0>: 
+[INFO] flue <0> <9>: 
+[INFO] missile <0> <9>: 
+[INFO] move <1> <2>: 
+[INFO] flue <1> <8>: 
+[INFO] missile <1> <10>: 
+[INFO] move <0> <1>: 
+[INFO] attack <0> <2> <5>: 
+[INFO] move <1> <3>: 
+[INFO] attack <1> <3> <6>: 
+[INFO] move <0> <1>: 
+[INFO] attack <0> <2> <4>: 
+[INFO] move <1> <1>: 
+[INFO] attack <1> <1> <4>: 
+[INFO] move <0> <0>: 
+[INFO] move <1> <2>: 
+[INFO] flue <1> <5>: 
+[INFO] missile <1> <0>: 
+[INFO] move <0> <3>: 
+[INFO] flue <0> <5>: 
+[INFO] missile <0> <10>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <1>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <2>: 
+[INFO] attack <0> <2> <2>: 
+[INFO] move <1> <1>: 
+[INFO] flue <1> <2>: 
+[INFO] missile <1> <3>: 
+[INFO] move <0> <2>: 
+[INFO] attack <0> <2> <2>: 
+[INFO] move <1> <0>: 
+[INFO] move <0> <1>: 
+[INFO] attack <0> <1> <2>: 
+[INFO] move <1> <0>: 
+[INFO] attack <1> <3> <3>: 
+[INFO] move <0> <1>: 
+[INFO] attack <0> <1> <4>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <2>: 
+[INFO] move <1> <2>: 
+[INFO] flue <1> <7>: 
+[INFO] missile <1> <2>: 
+[INFO] move <0> <2>: 
+[INFO] move <1> <2>: 
+[INFO] attack <1> <2> <2>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <0>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <0>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <0>: 
+[INFO] move <0> <2>: 
+[INFO] flue <0> <4>: 
+[INFO] missile <0> <8>: 
+[INFO] move <1> <0>: 
+[INFO] move <0> <0>: 
+[INFO] attack <0> <0> <8>: 
+[INFO] move <1> <0>: 
+[INFO] flue <1> <3>: 
+[INFO] missile <1> <4>: 
+[INFO] move <0> <2>: 
+[INFO] flue <0> <2>: 
+[INFO] missile <0> <7>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <0>: 
+[INFO] attack <0> <0> <4>: 
+[INFO] move <1> <1>: 
+[INFO] attack <1> <2> <4>: 
+[INFO] attack <0> <3> <1>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <0>: 
+[INFO] attack <0> <0> <2>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <1>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <2>: 
+[INFO] flue <0> <10>: 
+[INFO] missile <0> <4>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <2>: 
+[INFO] attack <0> <2> <4>: 
+[INFO] move <1> <1>: 
+[INFO] flue <1> <10>: 
+[INFO] missile <1> <3>: 
+[INFO] move <0> <0>: 
+[INFO] flue <0> <3>: 
+[INFO] missile <0> <5>: 
+[INFO] move <1> <2>: 
+[INFO] attack <1> <2> <3>: 
+[INFO] move <0> <1>: 
+[INFO] attack <0> <2> <1>: 
+[INFO] move <1> <1>: 
+[INFO] flue <1> <10>: 
+[INFO] missile <1> <6>: 
+[INFO] move <0> <0>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <1> <0>: 
+[INFO] attack <1> <2> <1>: 
+[INFO] move <0> <2>: 
+[INFO] attack <0> <2> <4>: 
+[INFO] move <1> <0>: 
+[INFO] attack <1> <2> <3>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <0>: 
+[INFO] attack <1> <2> <2>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <2>: 
+[INFO] flue <0> <10>: 
+[INFO] missile <0> <8>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <0>: 
+[INFO] attack <0> <0> <4>: 
+[INFO] move <1> <1>: 
+[INFO] flue <1> <0>: 
+[INFO] missile <1> <0>: 
+[INFO] move <0> <0>: 
+[INFO] move <1> <3>: 
+[INFO] flue <1> <2>: 
+[INFO] missile <1> <7>: 
+[INFO] move <0> <0>: 
+[INFO] move <1> <3>: 
+[INFO] attack <1> <3> <1>: 
+[INFO] move <0> <0>: 
+[INFO] attack <0> <0> <4>: 
+[INFO] move <1> <0>: 
+[INFO] attack <1> <3> <6>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <0>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <3>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <3>: 
+[INFO] move <0> <1>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <1> <3>: 
+[INFO] flue <1> <5>: 
+[INFO] missile <1> <5>: 
+[INFO] move <0> <2>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <2>: 
+[INFO] flue <0> <4>: 
+[INFO] missile <0> <1>: 
+[INFO] move <1> <2>: 
+[INFO] attack <1> <2> <2>: 
+[INFO] move <0> <0>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <0>: 
+[INFO] move <1> <1>: 
+[INFO] flue <1> <2>: 
+[INFO] missile <1> <6>: 
+[INFO] move <0> <2>: 
+[INFO] attack <0> <2> <1>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <1>: 
+[INFO] attack <1> <1> <5>: 
+[INFO] move <0> <1>: 
+[INFO] flue <0> <9>: 
+[INFO] missile <0> <2>: 
+[INFO] move <1> <1>: 
+[INFO] attack <1> <3> <4>: 
+[INFO] move <0> <0>: 
+[INFO] move <1> <0>: 
+[INFO] move <0> <0>: 
+[INFO] attack <0> <2> <2>: 
+[INFO] move <1> <0>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <2>: 
+[INFO] move <0> <1>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <1> <2>: 
+[INFO] move <0> <1>: 
+[INFO] flue <0> <5>: 
+[INFO] missile <0> <2>: 
+[INFO] move <1> <2>: 
+[INFO] flue <1> <10>: 
+[INFO] missile <1> <9>: 
+[INFO] move <0> <0>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <1> <0>: 
+[INFO] move <0> <0>: 
+[INFO] move <1> <2>: 
+[INFO] move <0> <0>: 
+[INFO] attack <0> <2> <2>: 
+[INFO] move <1> <2>: 
+[INFO] attack <1> <2> <9>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <0>: 
+[INFO] move <0> <1>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <1> <0>: 
+[INFO] move <0> <2>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <7>: 
+[INFO] move <1> <0>: 
+[INFO] move <0> <0>: 
+[INFO] attack <0> <0> <4>: 
+[INFO] move <1> <2>: 
+[INFO] move <0> <0>: 
+[INFO] attack <0> <0> <3>: 
+[INFO] move <1> <2>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <2>: 
+[INFO] move <0> <1>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <1> <2>: 
+[INFO] move <0> <2>: 
+[INFO] flue <0> <4>: 
+[INFO] missile <0> <1>: 
+[INFO] move <1> <2>: 
+[INFO] flue <1> <3>: 
+[INFO] missile <1> <7>: 
+[INFO] move <0> <0>: 
+[INFO] attack <0> <2> <1>: 
+[INFO] move <1> <0>: 
+[INFO] attack <1> <0> <2>: 
+[INFO] move <0> <1>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] attack <1> <2> <5>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <0>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <0>: 
+[INFO] move <0> <3>: 
+[INFO] move <1> <0>: 
+[INFO] move <0> <3>: 
+[INFO] flue <0> <9>: 
+[INFO] missile <0> <8>: 
+[INFO] move <1> <2>: 
+[INFO] flue <1> <4>: 
+[INFO] missile <1> <7>: 
+[INFO] move <0> <1>: 
+[INFO] flue <0> <3>: 
+[INFO] missile <0> <8>: 
+[INFO] move <1> <0>: 
+[INFO] attack <1> <0> <5>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <0>: 
+[INFO] attack <1> <0> <1>: 
+[INFO] move <0> <3>: 
+[INFO] attack <0> <3> <5>: 
+[INFO] attack <1> <3> <1>: 
+[INFO] move <0> <0>: 
+[INFO] move <1> <2>: 
+[INFO] move <0> <3>: 
+[INFO] move <1> <2>: 
+[INFO] move <0> <3>: 
+[INFO] attack <0> <3> <4>: 
+[INFO] move <1> <2>: 
+[INFO] flue <1> <3>: 
+[INFO] missile <1> <10>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <0>: 
+[INFO] flue <1> <5>: 
+[INFO] missile <1> <10>: 
+[INFO] move <0> <1>: 
+[INFO] attack <0> <3> <7>: 
+[INFO] move <1> <3>: 
+[INFO] attack <1> <3> <9>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <0>: 
+[INFO] attack <1> <3> <4>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <3>: 
+[INFO] attack <1> <3> <2>: 
+[INFO] move <0> <1>: 
+[INFO] flue <0> <7>: 
+[INFO] missile <0> <7>: 
+[INFO] move <1> <0>: 
+[INFO] attack <1> <3> <3>: 
+[INFO] move <0> <0>: 
+[INFO] attack <0> <2> <1>: 
+[INFO] move <1> <0>: 
+[INFO] move <0> <0>: 
+[INFO] move <1> <2>: 
+[INFO] attack <1> <2> <2>: 
+[INFO] move <0> <0>: 
+[INFO] attack <0> <3> <3>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <0>: 
+[INFO] move <1> <2>: 
+[INFO] move <0> <0>: 
+[INFO] move <1> <2>: 
+[INFO] flue <1> <1>: 
+[INFO] missile <1> <10>: 
+[INFO] move <0> <2>: 
+[INFO] move <1> <0>: 
+[INFO] attack <1> <3> <7>: 
+[INFO] move <0> <2>: 
+[INFO] move <1> <1>: 
+[INFO] flue <1> <0>: 
+[INFO] missile <1> <0>: 
+[INFO] move <0> <2>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <1> <2>: 
+[INFO] attack <1> <2> <3>: 
+[INFO] move <0> <2>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <2>: 
+[INFO] attack <0> <2> <3>: 
+[INFO] move <1> <1>: 
+[INFO] flue <1> <3>: 
+[INFO] missile <1> <10>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <0>: 
+[INFO] move <0> <1>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <1> <0>: 
+[INFO] attack <1> <2> <4>: 
+[INFO] move <0> <2>: 
+[INFO] flue <0> <10>: 
+[INFO] missile <0> <8>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <0>: 
+[INFO] attack <0> <0> <6>: 
+[INFO] move <1> <1>: 
+[INFO] flue <1> <0>: 
+[INFO] missile <1> <0>: 
+[INFO] move <0> <0>: 
+[INFO] move <1> <1>: 
+[INFO] flue <1> <1>: 
+[INFO] missile <1> <9>: 
+[INFO] move <0> <0>: 
+[INFO] move <1> <2>: 
+[INFO] move <0> <0>: 
+[INFO] move <1> <2>: 
+[INFO] attack <1> <2> <5>: 
+[INFO] move <0> <0>: 
+[INFO] attack <0> <0> <1>: 
+[INFO] move <1> <1>: 
+[INFO] attack <1> <1> <9>: 
+[INFO] attack <0> <2> <1>: 
+[INFO] attack <1> <2> <1>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <3>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <3>: 
+[INFO] flue <1> <3>: 
+[INFO] missile <1> <9>: 
+[INFO] move <0> <2>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <2>: 
+[INFO] flue <0> <5>: 
+[INFO] missile <0> <7>: 
+[INFO] move <1> <1>: 
+[INFO] attack <1> <1> <6>: 
+[INFO] move <0> <0>: 
+[INFO] move <1> <1>: 
+[INFO] attack <1> <3> <3>: 
+[INFO] move <0> <0>: 
+[INFO] attack <0> <0> <7>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <2>: 
+[INFO] flue <0> <10>: 
+[INFO] missile <0> <6>: 
+[INFO] move <1> <1>: 
+[INFO] flue <1> <6>: 
+[INFO] missile <1> <8>: 
+[INFO] move <0> <0>: 
+[INFO] attack <0> <2> <3>: 
+[INFO] move <1> <0>: 
+[INFO] attack <1> <2> <2>: 
+[INFO] attack <0> <3> <2>: 
+[INFO] move <1> <0>: 
+[INFO] attack <1> <3> <1>: 
+[INFO] move <0> <0>: 
+[INFO] attack <0> <2> <1>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <2>: 
+[INFO] attack <1> <2> <3>: 
+[INFO] move <0> <1>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <1> <2>: 
+[INFO] attack <1> <2> <2>: 
+[INFO] move <0> <1>: 
+[INFO] flue <0> <5>: 
+[INFO] missile <0> <6>: 
+[INFO] move <1> <0>: 
+[INFO] move <0> <0>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <1> <0>: 
+[INFO] move <0> <3>: 
+[INFO] attack <0> <3> <6>: 
+[INFO] move <1> <0>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <3>: 
+[INFO] move <0> <1>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <1> <3>: 
+[INFO] move <0> <1>: 
+[INFO] flue <0> <10>: 
+[INFO] missile <0> <1>: 
+[INFO] move <1> <3>: 
+[INFO] flue <1> <2>: 
+[INFO] missile <1> <8>: 
+[INFO] move <0> <0>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <1> <2>: 
+[INFO] move <0> <0>: 
+[INFO] move <1> <2>: 
+[INFO] move <0> <0>: 
+[INFO] attack <0> <3> <1>: 
+[INFO] move <1> <2>: 
+[INFO] attack <1> <2> <8>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <0>: 
+[INFO] move <0> <2>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <1> <3>: 
+[INFO] move <0> <2>: 
+[INFO] flue <0> <1>: 
+[INFO] missile <0> <7>: 
+[INFO] move <1> <3>: 
+[INFO] flue <1> <0>: 
+[INFO] missile <1> <0>: 
+[INFO] move <0> <0>: 
+[INFO] move <1> <3>: 
+[INFO] flue <1> <0>: 
+[INFO] missile <1> <8>: 
+[INFO] move <0> <0>: 
+[INFO] attack <0> <0> <7>: 
+[INFO] move <1> <2>: 
+[INFO] flue <1> <0>: 
+[INFO] missile <1> <0>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <2>: 
+[INFO] move <0> <1>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <1> <2>: 
+[INFO] attack <1> <2> <1>: 
+[INFO] move <0> <1>: 
+[INFO] flue <0> <6>: 
+[INFO] missile <0> <7>: 
+[INFO] move <1> <2>: 
+[INFO] attack <1> <2> <3>: 
+[INFO] move <0> <0>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <1> <1>: 
+[INFO] attack <1> <1> <4>: 
+[INFO] move <0> <0>: 
+[INFO] move <1> <0>: 
+[INFO] move <0> <0>: 
+[INFO] attack <0> <0> <2>: 
+[INFO] move <1> <0>: 
+[INFO] move <0> <0>: 
+[INFO] attack <0> <0> <5>: 
+[INFO] move <1> <0>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <0>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <0>: 
+[INFO] flue <1> <8>: 
+[INFO] missile <1> <9>: 
+[INFO] move <0> <1>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <1>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <1> <2>: 
+[INFO] attack <1> <2> <5>: 
+[INFO] move <0> <1>: 
+[INFO] flue <0> <5>: 
+[INFO] missile <0> <9>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <0>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <0>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <0>: 
+[INFO] move <1> <1>: 
+[INFO] attack <1> <2> <4>: 
+[INFO] move <0> <0>: 
+[INFO] move <1> <0>: 
+[INFO] move <0> <0>: 
+[INFO] attack <0> <0> <1>: 
+[INFO] move <1> <0>: 
+[INFO] move <0> <0>: 
+[INFO] attack <0> <0> <7>: 
+[INFO] move <1> <2>: 
+[INFO] move <0> <0>: 
+[INFO] attack <0> <0> <1>: 
+[INFO] move <1> <2>: 
+[INFO] flue <1> <2>: 
+[INFO] missile <1> <10>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <1>: 
+[INFO] attack <1> <2> <4>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <1>: 
+[INFO] attack <1> <1> <4>: 
+[INFO] move <0> <1>: 
+[INFO] attack <1> <2> <2>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <0>: 
+[INFO] move <0> <1>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <1> <0>: 
+[INFO] flue <1> <0>: 
+[INFO] missile <1> <0>: 
+[INFO] move <0> <1>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <1> <0>: 
+[INFO] move <0> <1>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <1> <0>: 
+[INFO] move <0> <3>: 
+[INFO] flue <0> <1>: 
+[INFO] missile <0> <10>: 
+[INFO] move <1> <2>: 
+[INFO] flue <1> <3>: 
+[INFO] missile <1> <6>: 
+[INFO] move <0> <0>: 
+[INFO] move <1> <1>: 
+[INFO] flue <1> <0>: 
+[INFO] missile <1> <0>: 
+[INFO] move <0> <0>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <0>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <1> <1>: 
+[INFO] attack <1> <1> <6>: 
+[INFO] move <0> <3>: 
+[INFO] attack <0> <3> <2>: 
+[INFO] move <1> <0>: 
+[INFO] move <0> <0>: 
+[INFO] attack <0> <0> <6>: 
+[INFO] move <1> <0>: 
+[INFO] flue <1> <0>: 
+[INFO] missile <1> <0>: 
+[INFO] move <0> <0>: 
+[INFO] attack <0> <0> <2>: 
+[INFO] move <1> <0>: 
+[INFO] flue <1> <0>: 
+[INFO] missile <1> <0>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <0>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <0>: 
+[INFO] flue <1> <0>: 
+[INFO] missile <1> <6>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <1>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <1> <1>: 
+[INFO] flue <1> <0>: 
+[INFO] missile <1> <0>: 
+[INFO] move <0> <1>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <1> <1>: 
+[INFO] flue <1> <0>: 
+[INFO] missile <1> <0>: 
+[INFO] move <0> <1>: 
+[INFO] flue <0> <10>: 
+[INFO] missile <0> <10>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <1>: 
+[INFO] flue <0> <5>: 
+[INFO] missile <0> <4>: 
+[INFO] move <1> <1>: 
+[INFO] attack <1> <1> <1>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <1>: 
+[INFO] attack <1> <1> <4>: 
+[INFO] move <0> <1>: 
+[INFO] flue <0> <10>: 
+[INFO] missile <0> <1>: 
+[INFO] move <1> <3>: 
+[INFO] attack <1> <3> <1>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <0>: 
+[INFO] move <0> <1>: 
+[INFO] attack <0> <1> <5>: 
+[INFO] move <1> <0>: 
+[INFO] flue <1> <0>: 
+[INFO] missile <1> <0>: 
+[INFO] move <0> <1>: 
+[INFO] attack <0> <1> <2>: 
+[INFO] move <1> <0>: 
+[INFO] move <0> <1>: 
+[INFO] attack <0> <1> <8>: 
+[INFO] move <1> <0>: 
+[INFO] move <0> <0>: 
+[INFO] move <1> <0>: 
+[INFO] move <0> <0>: 
+[INFO] move <1> <0>: 
+[INFO] flue <1> <1>: 
+[INFO] missile <1> <1>: 
+[INFO] move <0> <0>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <2>: 
+[INFO] flue <0> <2>: 
+[INFO] missile <0> <6>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <1>: 
+[INFO] flue <1> <0>: 
+[INFO] missile <1> <0>: 
+[INFO] move <0> <1>: 
+[INFO] attack <0> <1> <6>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <0>: 
+[INFO] move <1> <1>: 
+[INFO] attack <1> <3> <1>: 
+[INFO] move <0> <0>: 
+[INFO] move <1> <0>: 
+[INFO] move <0> <2>: 
+[INFO] flue <0> <3>: 
+[INFO] missile <0> <10>: 
+[INFO] move <1> <0>: 
+[INFO] flue <1> <0>: 
+[INFO] missile <1> <0>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <0>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <0>: 
+[INFO] move <0> <1>: 
+[INFO] attack <0> <1> <8>: 
+[INFO] move <1> <0>: 
+[INFO] attack <0> <3> <2>: 
+[INFO] move <1> <2>: 
+[INFO] move <0> <0>: 
+[INFO] move <1> <2>: 
+[INFO] flue <1> <10>: 
+[INFO] missile <1> <6>: 
+[INFO] move <0> <0>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <0>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <0>: 
+[INFO] flue <0> <5>: 
+[INFO] missile <0> <4>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <1>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <3>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <3>: 
+[INFO] attack <1> <3> <3>: 
+[INFO] move <0> <1>: 
+[INFO] attack <0> <1> <1>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <3>: 
+[INFO] attack <0> <3> <3>: 
+[INFO] move <1> <3>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <3>: 
+[INFO] attack <1> <3> <3>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <0>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <0>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <0>: 
+[INFO] move <0> <2>: 
+[INFO] flue <0> <3>: 
+[INFO] missile <0> <3>: 
+[INFO] move <1> <0>: 
+[INFO] move <0> <1>: 
+[INFO] attack <0> <3> <3>: 
+[INFO] move <1> <0>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <0>: 
+[INFO] flue <1> <4>: 
+[INFO] missile <1> <4>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <1>: 
+[INFO] flue <0> <8>: 
+[INFO] missile <0> <1>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <0>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <3>: 
+[INFO] attack <0> <3> <1>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <1>: 
+[INFO] flue <0> <7>: 
+[INFO] missile <0> <2>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <0>: 
+[INFO] attack <0> <3> <2>: 
+[INFO] move <1> <1>: 
+[INFO] attack <1> <3> <3>: 
+[INFO] move <0> <1>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <1>: 
+[INFO] attack <1> <3> <1>: 
+[INFO] move <0> <1>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <4>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <0>: 
+[INFO] move <1> <2>: 
+[INFO] flue <1> <5>: 
+[INFO] missile <1> <0>: 
+[INFO] move <0> <0>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <0>: 
+[INFO] attack <0> <3> <4>: 
+[INFO] move <1> <1>: 
+[INFO] flue <1> <10>: 
+[INFO] missile <1> <0>: 
+[INFO] move <0> <1>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <1>: 
+[INFO] flue <1> <6>: 
+[INFO] missile <1> <3>: 
+[INFO] move <0> <3>: 
+[INFO] flue <0> <10>: 
+[INFO] missile <0> <5>: 
+[INFO] move <1> <1>: 
+[INFO] attack <1> <1> <3>: 
+[INFO] move <0> <0>: 
+[INFO] move <1> <3>: 
+[INFO] flue <1> <6>: 
+[INFO] missile <1> <8>: 
+[INFO] move <0> <0>: 
+[INFO] move <1> <1>: 
+[INFO] attack <1> <1> <3>: 
+[INFO] move <0> <0>: 
+[INFO] attack <1> <2> <5>: 
+[INFO] move <0> <0>: 
+[INFO] attack <0> <0> <2>: 
+[INFO] move <1> <0>: 
+[INFO] flue <1> <0>: 
+[INFO] missile <1> <0>: 
+[INFO] attack <0> <2> <3>: 
+[INFO] move <1> <0>: 
+[INFO] flue <1> <1>: 
+[INFO] missile <1> <6>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <0>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <0>: 
+[INFO] attack <1> <0> <3>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <0>: 
+[INFO] attack <1> <3> <3>: 
+[INFO] move <0> <3>: 
+[INFO] move <1> <2>: 
+[INFO] move <0> <3>: 
+[INFO] flue <0> <8>: 
+[INFO] missile <0> <5>: 
+[INFO] move <1> <2>: 
+[INFO] move <0> <0>: 
+[INFO] move <1> <2>: 
+[INFO] move <0> <0>: 
+[INFO] attack <0> <0> <5>: 
+[INFO] move <1> <2>: 
+[INFO] flue <1> <4>: 
+[INFO] missile <1> <4>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <0>: 
+[INFO] move <0> <3>: 
+[INFO] flue <0> <4>: 
+[INFO] missile <0> <1>: 
+[INFO] move <1> <0>: 
+[INFO] move <0> <0>: 
+[INFO] attack <0> <0> <1>: 
+[INFO] move <1> <3>: 
+[INFO] move <0> <1>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <1> <3>: 
+[INFO] move <0> <1>: 
+[INFO] flue <0> <9>: 
+[INFO] missile <0> <4>: 
+[INFO] move <1> <3>: 
+[INFO] move <0> <0>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <1> <3>: 
+[INFO] attack <1> <3> <4>: 
+[INFO] move <0> <0>: 
+[INFO] attack <0> <0> <4>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <1>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <1>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <1>: 
+[INFO] flue <0> <2>: 
+[INFO] missile <0> <6>: 
+[INFO] move <1> <2>: 
+[INFO] move <0> <0>: 
+[INFO] move <1> <2>: 
+[INFO] move <0> <0>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <1> <2>: 
+[INFO] move <0> <0>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <1> <2>: 
+[INFO] flue <1> <7>: 
+[INFO] missile <1> <7>: 
+[INFO] move <0> <0>: 
+[INFO] attack <0> <0> <5>: 
+[INFO] move <1> <1>: 
+[INFO] flue <1> <9>: 
+[INFO] missile <1> <8>: 
+[INFO] attack <0> <3> <1>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <1>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <1> <1>: 
+[INFO] flue <1> <10>: 
+[INFO] missile <1> <1>: 
+[INFO] move <0> <1>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <1> <3>: 
+[INFO] flue <1> <5>: 
+[INFO] missile <1> <2>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <3>: 
+[INFO] attack <1> <3> <2>: 
+[INFO] move <0> <2>: 
+[INFO] flue <0> <6>: 
+[INFO] missile <0> <9>: 
+[INFO] move <1> <1>: 
+[INFO] attack <1> <1> <9>: 
+[INFO] move <0> <0>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <1> <1>: 
+[INFO] attack <1> <3> <1>: 
+[INFO] move <0> <0>: 
+[INFO] move <1> <1>: 
+[INFO] attack <1> <3> <2>: 
+[INFO] move <0> <0>: 
+[INFO] attack <0> <0> <1>: 
+[INFO] move <1> <1>: 
+[INFO] attack <1> <3> <4>: 
+[INFO] move <0> <0>: 
+[INFO] attack <0> <2> <7>: 
+[INFO] move <1> <0>: 
+[INFO] move <0> <0>: 
+[INFO] attack <0> <0> <1>: 
+[INFO] move <1> <2>: 
+[INFO] flue <1> <5>: 
+[INFO] missile <1> <3>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <1>: 
+[INFO] attack <1> <1> <1>: 
+[INFO] move <0> <1>: 
+[INFO] attack <1> <2> <2>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <0>: 
+[INFO] flue <1> <0>: 
+[INFO] missile <1> <0>: 
+[INFO] move <0> <1>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <1> <0>: 
+[INFO] move <0> <1>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <1> <2>: 
+[INFO] flue <1> <1>: 
+[INFO] missile <1> <4>: 
+[INFO] move <0> <1>: 
+[INFO] flue <0> <1>: 
+[INFO] missile <0> <5>: 
+[INFO] move <1> <1>: 
+[INFO] attack <1> <1> <4>: 
+[INFO] move <0> <0>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <1> <0>: 
+[INFO] flue <1> <0>: 
+[INFO] missile <1> <0>: 
+[INFO] move <0> <0>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <1> <0>: 
+[INFO] move <0> <0>: 
+[INFO] move <1> <0>: 
+[INFO] flue <1> <0>: 
+[INFO] missile <1> <0>: 
+[INFO] move <0> <0>: 
+[INFO] move <1> <0>: 
+[INFO] move <0> <3>: 
+[INFO] attack <0> <3> <2>: 
+[INFO] move <1> <3>: 
+[INFO] flue <1> <7>: 
+[INFO] missile <1> <9>: 
+[INFO] move <0> <0>: 
+[INFO] attack <0> <0> <3>: 
+[INFO] move <1> <1>: 
+[INFO] flue <1> <0>: 
+[INFO] missile <1> <0>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <3>: 
+[INFO] move <0> <1>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <1> <3>: 
+[INFO] move <0> <1>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <1> <3>: 
+[INFO] attack <1> <3> <9>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <3>: 
+[INFO] flue <0> <9>: 
+[INFO] missile <0> <2>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <0>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <0>: 
+[INFO] move <1> <2>: 
+[INFO] move <0> <0>: 
+[INFO] attack <0> <0> <1>: 
+[INFO] move <1> <1>: 
+[INFO] attack <0> <3> <1>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <3>: 
+[INFO] flue <0> <8>: 
+[INFO] missile <0> <6>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <0>: 
+[INFO] attack <0> <0> <6>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <1>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <1>: 
+[INFO] flue <0> <9>: 
+[INFO] missile <0> <9>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <0>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <0>: 
+[INFO] attack <0> <0> <2>: 
+[INFO] move <1> <1>: 
+[INFO] flue <1> <8>: 
+[INFO] missile <1> <6>: 
+[INFO] attack <0> <3> <2>: 
+[INFO] move <1> <0>: 
+[INFO] move <0> <0>: 
+[INFO] attack <0> <3> <5>: 
+[INFO] move <1> <0>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <0>: 
+[INFO] move <0> <1>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <1> <0>: 
+[INFO] move <0> <1>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <1> <0>: 
+[INFO] move <0> <1>: 
+[INFO] flue <0> <7>: 
+[INFO] missile <0> <2>: 
+[INFO] move <1> <0>: 
+[INFO] attack <1> <3> <2>: 
+[INFO] move <0> <0>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <1> <0>: 
+[INFO] attack <1> <2> <4>: 
+[INFO] move <0> <0>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <3>: 
+[INFO] attack <0> <3> <2>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <1>: 
+[INFO] flue <0> <7>: 
+[INFO] missile <0> <1>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <0>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <0>: 
+[INFO] attack <0> <3> <1>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <1>: 
+[INFO] flue <1> <0>: 
+[INFO] missile <1> <0>: 
+[INFO] move <0> <1>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <1> <2>: 
+[INFO] flue <1> <0>: 
+[INFO] missile <1> <0>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <2>: 
+[INFO] flue <1> <3>: 
+[INFO] missile <1> <8>: 
+[INFO] move <0> <3>: 
+[INFO] flue <0> <10>: 
+[INFO] missile <0> <6>: 
+[INFO] move <1> <0>: 
+[INFO] flue <1> <0>: 
+[INFO] missile <1> <0>: 
+[INFO] move <0> <0>: 
+[INFO] move <1> <0>: 
+[INFO] move <0> <0>: 
+[INFO] attack <0> <0> <1>: 
+[INFO] move <1> <0>: 
+[INFO] flue <1> <0>: 
+[INFO] missile <1> <0>: 
+[INFO] move <0> <0>: 
+[INFO] attack <0> <0> <5>: 
+[INFO] move <1> <0>: 
+[INFO] flue <1> <0>: 
+[INFO] missile <1> <0>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <0>: 
+[INFO] move <0> <1>: 
+[INFO] move <1> <0>: 
+[INFO] move <0> <3>: 
+[INFO] flue <0> <8>: 
+[INFO] missile <0> <6>: 
+[INFO] move <1> <0>: 
+[INFO] attack <1> <3> <4>: 
+[INFO] move <0> <0>: 
+[INFO] move <1> <0>: 
+[INFO] move <0> <0>: 
+[INFO] move <1> <3>: 
+[INFO] move <0> <0>: 
+[INFO] attack <0> <2> <5>: 
+[INFO] move <1> <3>: 
+[INFO] attack <1> <3> <3>: 
+[INFO] move <0> <3>: 
+[INFO] attack <0> <3> <1>: 
+[INFO] move <1> <0>: 
+[INFO] attack <1> <3> <1>: 
+[INFO] move <0> <0>: 
+[INFO] flue <0> <9>: 
+[INFO] missile <0> <7>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <1>: 
+[INFO] attack <0> <3> <7>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <0>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <0>: 
+[INFO] flue <0> <5>: 
+[INFO] missile <0> <3>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <0>: 
+[INFO] attack <0> <2> <3>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <3>: 
+[INFO] flue <0> <7>: 
+[INFO] missile <0> <4>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <2>: 
+[INFO] attack <0> <2> <4>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <0>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <3>: 
+[INFO] flue <0> <10>: 
+[INFO] missile <0> <6>: 
+[INFO] move <1> <1>: 
+[INFO] flue <1> <0>: 
+[INFO] missile <1> <0>: 
+[INFO] move <0> <0>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <2>: 
+[INFO] attack <0> <2> <2>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <0>: 
+[INFO] flue <0> <10>: 
+[INFO] missile <0> <7>: 
+[INFO] move <1> <3>: 
+[INFO] flue <1> <6>: 
+[INFO] missile <1> <1>: 
+[INFO] move <0> <2>: 
+[INFO] attack <0> <2> <6>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <2>: 
+[INFO] attack <0> <2> <3>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <0>: 
+[INFO] attack <0> <2> <2>: 
+[INFO] move <1> <1>: 
+[INFO] attack <1> <1> <1>: 
+[INFO] move <0> <3>: 
+[INFO] flue <0> <3>: 
+[INFO] missile <0> <9>: 
+[INFO] move <1> <3>: 
+[INFO] flue <1> <2>: 
+[INFO] missile <1> <0>: 
+[INFO] move <0> <2>: 
+[INFO] attack <0> <2> <1>: 
+[INFO] move <1> <3>: 
+[INFO] move <0> <2>: 
+[INFO] attack <0> <2> <5>: 
+[INFO] move <1> <3>: 
+[INFO] flue <1> <3>: 
+[INFO] missile <1> <6>: 
+[INFO] move <0> <0>: 
+[INFO] attack <0> <0> <2>: 
+[INFO] move <1> <1>: 
+[INFO] attack <1> <1> <1>: 
+[INFO] attack <0> <2> <1>: 
+[INFO] attack <1> <2> <5>: 
+[INFO] move <0> <3>: 
+[INFO] move <1> <3>: 
+[INFO] move <0> <3>: 
+[INFO] flue <0> <6>: 
+[INFO] missile <0> <4>: 
+[INFO] move <1> <3>: 
+[INFO] flue <1> <3>: 
+[INFO] missile <1> <7>: 
+[INFO] move <0> <2>: 
+[INFO] move <1> <2>: 
+[INFO] move <0> <2>: 
+[INFO] attack <0> <2> <2>: 
+[INFO] move <1> <2>: 
+[INFO] attack <1> <2> <5>: 
+[INFO] move <0> <2>: 
+[INFO] attack <0> <2> <2>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <0>: 
+[INFO] move <1> <1>: 
+[INFO] attack <1> <2> <2>: 
+[INFO] move <0> <3>: 
+[INFO] move <1> <0>: 
+[INFO] move <0> <3>: 
+[INFO] move <1> <0>: 
+[INFO] move <0> <3>: 
+[INFO] flue <0> <2>: 
+[INFO] missile <0> <4>: 
+[INFO] move <1> <0>: 
+[INFO] flue <1> <0>: 
+[INFO] missile <1> <0>: 
+[INFO] move <0> <1>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <1> <0>: 
+[INFO] move <0> <2>: 
+[INFO] move <1> <3>: 
+[INFO] flue <1> <10>: 
+[INFO] missile <1> <1>: 
+[INFO] move <0> <2>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <2>: 
+[INFO] attack <0> <2> <4>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <0>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <0>: 
+[INFO] move <1> <1>: 
+[INFO] move <0> <3>: 
+[INFO] move <1> <2>: 
+[INFO] attack <1> <2> <1>: 
+[INFO] move <0> <3>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <1> <0>: 
+[INFO] move <0> <3>: 
+[INFO] flue <0> <4>: 
+[INFO] missile <0> <9>: 
+[INFO] move <1> <3>: 
+[INFO] move <0> <1>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <1> <3>: 
+[INFO] move <0> <1>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <1> <3>: 
+[INFO] flue <1> <0>: 
+[INFO] missile <1> <0>: 
+[INFO] move <0> <2>: 
+[INFO] move <1> <3>: 
+[INFO] flue <1> <0>: 
+[INFO] missile <1> <8>: 
+[INFO] move <0> <2>: 
+[INFO] move <1> <0>: 
+[INFO] flue <1> <4>: 
+[INFO] missile <1> <9>: 
+[INFO] move <0> <2>: 
+[INFO] attack <0> <2> <1>: 
+[INFO] move <1> <1>: 
+[INFO] flue <1> <0>: 
+[INFO] missile <1> <0>: 
+[INFO] move <0> <1>: 
+[INFO] attack <0> <2> <1>: 
+[INFO] move <1> <2>: 
+[INFO] flue <1> <0>: 
+[INFO] missile <1> <0>: 
+[INFO] move <0> <1>: 
+[INFO] attack <0> <1> <7>: 
+[INFO] move <1> <2>: 
+[INFO] move <0> <3>: 
+[INFO] move <1> <2>: 
+[INFO] move <0> <3>: 
+[INFO] move <1> <2>: 
+[INFO] move <0> <3>: 
+[INFO] move <1> <2>: 
+[INFO] attack <1> <2> <3>: 
+[INFO] move <0> <3>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <0> <3>: 
+[INFO] flue <0> <10>: 
+[INFO] missile <0> <8>: 
+[INFO] move <0> <3>: 
+[INFO] move <0> <3>: 
+[INFO] attack <0> <3> <8>: 
+[INFO] move <0> <1>: 
+[INFO] move <0> <2>: 
+[INFO] flue <0> <7>: 
+[INFO] missile <0> <4>: 
+[INFO] move <0> <0>: 
+[INFO] move <0> <3>: 
+[INFO] attack <0> <3> <2>: 
+[INFO] move <0> <0>: 
+[INFO] move <0> <0>: 
+[INFO] move <0> <3>: 
+[INFO] flue <0> <9>: 
+[INFO] missile <0> <5>: 
+[INFO] move <0> <3>: 
+[INFO] move <0> <3>: 
+[INFO] move <0> <3>: 
+[INFO] attack <0> <3> <7>: 
+[INFO] move <0> <0>: 
+[INFO] move <0> <2>: 
+[INFO] move <0> <2>: 
+[INFO] flue <0> <7>: 
+[INFO] missile <0> <4>: 
+[INFO] move <0> <3>: 
+[INFO] move <0> <3>: 
+[INFO] attack <0> <3> <4>: 
+[INFO] move <0> <0>: 
+[INFO] move <0> <2>: 
+[INFO] move <0> <2>: 
+[INFO] flue <0> <4>: 
+[INFO] missile <0> <3>: 
+[INFO] move <0> <0>: 
+[INFO] flue <0> <1>: 
+[INFO] missile <0> <7>: 
+[INFO] move <0> <0>: 
+[INFO] attack <0> <3> <4>: 
+[INFO] move <0> <0>: 
+[INFO] attack <0> <3> <6>: 
+[INFO] move <0> <2>: 
+[INFO] flue <0> <8>: 
+[INFO] missile <0> <10>: 
+[INFO] move <0> <3>: 
+[INFO] move <0> <3>: 
+[INFO] attack <0> <3> <2>: 
+[INFO] move <0> <1>: 
+[INFO] attack <0> <3> <8>: 
+[INFO] move <0> <1>: 
+[INFO] move <0> <2>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <0> <2>: 
+[INFO] flue <0> <7>: 
+[INFO] missile <0> <8>: 
+[INFO] move <0> <0>: 
+[INFO] move <0> <3>: 
+[INFO] move <0> <3>: 
+[INFO] move <0> <3>: 
+[INFO] attack <0> <3> <8>: 
+[INFO] move <0> <1>: 
+[INFO] move <0> <3>: 
+[INFO] move <0> <3>: 
+[INFO] flue <0> <3>: 
+[INFO] missile <0> <9>: 
+[INFO] move <0> <1>: 
+[INFO] attack <0> <2> <4>: 
+[INFO] move <0> <1>: 
+[INFO] attack <0> <1> <2>: 
+[INFO] attack <0> <2> <3>: 
+[INFO] move <0> <0>: 
+[INFO] move <0> <3>: 
+[INFO] flue <0> <6>: 
+[INFO] missile <0> <2>: 
+[INFO] move <0> <0>: 
+[INFO] move <0> <0>: 
+[INFO] attack <0> <0> <2>: 
+[INFO] move <0> <1>: 
+[INFO] move <0> <3>: 
+[INFO] flue <0> <8>: 
+[INFO] missile <0> <4>: 
+[INFO] move <0> <0>: 
+[INFO] attack <0> <3> <4>: 
+[INFO] move <0> <1>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <0> <1>: 
+[INFO] move <0> <3>: 
+[INFO] flue <0> <10>: 
+[INFO] missile <0> <5>: 
+[INFO] move <0> <0>: 
+[INFO] attack <0> <0> <2>: 
+[INFO] attack <0> <3> <3>: 
+[INFO] move <0> <1>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <0> <1>: 
+[INFO] flue <0> <7>: 
+[INFO] missile <0> <4>: 
+[INFO] move <0> <0>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <0> <0>: 
+[INFO] attack <0> <3> <2>: 
+[INFO] move <0> <0>: 
+[INFO] attack <0> <3> <2>: 
+[INFO] move <0> <1>: 
+[INFO] move <0> <1>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <0> <1>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <0> <1>: 
+[INFO] flue <0> <9>: 
+[INFO] missile <0> <3>: 
+[INFO] move <0> <0>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <0> <0>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <0> <3>: 
+[INFO] attack <0> <3> <3>: 
+[INFO] move <0> <1>: 
+[INFO] flue <0> <1>: 
+[INFO] missile <0> <8>: 
+[INFO] move <0> <0>: 
+[INFO] attack <0> <3> <7>: 
+[INFO] move <0> <0>: 
+[INFO] attack <0> <0> <1>: 
+[INFO] move <0> <1>: 
+[INFO] move <0> <1>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <0> <1>: 
+[INFO] move <0> <1>: 
+[INFO] flue <0> <4>: 
+[INFO] missile <0> <9>: 
+[INFO] move <0> <1>: 
+[INFO] attack <0> <1> <4>: 
+[INFO] move <0> <1>: 
+[INFO] attack <0> <1> <1>: 
+[INFO] move <0> <0>: 
+[INFO] move <0> <2>: 
+[INFO] move <0> <2>: 
+[INFO] attack <0> <2> <4>: 
+[INFO] move <0> <0>: 
+[INFO] move <0> <0>: 
+[INFO] flue <0> <6>: 
+[INFO] missile <0> <4>: 
+[INFO] move <0> <1>: 
+[INFO] move <0> <1>: 
+[INFO] attack <0> <2> <4>: 
+[INFO] move <0> <0>: 
+[INFO] move <0> <3>: 
+[INFO] flue <0> <10>: 
+[INFO] missile <0> <1>: 
+[INFO] move <0> <0>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <0> <2>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <0> <2>: 
+[INFO] move <0> <2>: 
+[INFO] attack <0> <2> <1>: 
+[INFO] move <0> <1>: 
+[INFO] move <0> <1>: 
+[INFO] move <0> <1>: 
+[INFO] flue <0> <6>: 
+[INFO] missile <0> <7>: 
+[INFO] move <0> <1>: 
+[INFO] attack <0> <1> <7>: 
+[INFO] move <0> <2>: 
+[INFO] flue <0> <3>: 
+[INFO] missile <0> <1>: 
+[INFO] move <0> <1>: 
+[INFO] move <0> <1>: 
+[INFO] attack <0> <3> <1>: 
+[INFO] move <0> <0>: 
+[INFO] move <0> <2>: 
+[INFO] flue <0> <9>: 
+[INFO] missile <0> <5>: 
+[INFO] move <0> <1>: 
+[INFO] move <0> <3>: 
+[INFO] attack <0> <3> <4>: 
+[INFO] move <0> <1>: 
+[INFO] move <0> <1>: 
+[INFO] attack <0> <1> <1>: 
+[INFO] move <0> <3>: 
+[INFO] flue <0> <4>: 
+[INFO] missile <0> <8>: 
+[INFO] move <0> <1>: 
+[INFO] attack <0> <2> <8>: 
+[INFO] move <0> <0>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <0> <3>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <7>: 
+[INFO] move <0> <1>: 
+[INFO] move <0> <2>: 
+[INFO] attack <0> <2> <1>: 
+[INFO] move <0> <2>: 
+[INFO] attack <0> <2> <6>: 
+[INFO] move <0> <0>: 
+[INFO] move <0> <0>: 
+[INFO] move <0> <2>: 
+[INFO] flue <0> <10>: 
+[INFO] missile <0> <7>: 
+[INFO] move <0> <1>: 
+[INFO] move <0> <1>: 
+[INFO] attack <0> <1> <2>: 
+[INFO] move <0> <1>: 
+[INFO] move <0> <1>: 
+[INFO] move <0> <1>: 
+[INFO] flue <0> <9>: 
+[INFO] missile <0> <9>: 
+[INFO] move <0> <2>: 
+[INFO] move <0> <2>: 
+[INFO] attack <0> <2> <4>: 
+[INFO] move <0> <0>: 
+[INFO] flue <0> <1>: 
+[INFO] missile <0> <8>: 
+[INFO] move <0> <0>: 
+[INFO] move <0> <0>: 
+[INFO] move <0> <2>: 
+[INFO] move <0> <2>: 
+[INFO] move <0> <2>: 
+[INFO] attack <0> <2> <6>: 
+[INFO] move <0> <0>: 
+[INFO] attack <0> <2> <1>: 
+[INFO] move <0> <0>: 
+[INFO] move <0> <0>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <1>: 
+[INFO] move <0> <0>: 
+[INFO] flue <0> <6>: 
+[INFO] missile <0> <5>: 
+[INFO] move <0> <2>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <0> <2>: 
+[INFO] move <0> <2>: 
+[INFO] attack <0> <2> <2>: 
+[INFO] move <0> <2>: 
+[INFO] attack <0> <2> <7>: 
+[INFO] move <0> <2>: 
+[INFO] attack <0> <2> <6>: 
+[INFO] move <0> <2>: 
+[INFO] attack <0> <2> <2>: 
+[INFO] move <0> <1>: 
+[INFO] move <0> <3>: 
+[INFO] move <0> <3>: 
+[INFO] move <0> <3>: 
+[INFO] move <0> <3>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <0> <3>: 
+[INFO] flue <0> <7>: 
+[INFO] missile <0> <7>: 
+[INFO] move <0> <0>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <0> <2>: 
+[INFO] move <0> <2>: 
+[INFO] move <0> <2>: 
+[INFO] move <0> <2>: 
+[INFO] move <0> <2>: 
+[INFO] attack <0> <2> <4>: 
+[INFO] move <0> <0>: 
+[INFO] attack <0> <0> <3>: 
+[INFO] move <0> <1>: 
+[INFO] move <0> <1>: 
+[INFO] move <0> <1>: 
+[INFO] move <0> <1>: 
+[INFO] move <0> <1>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <0> <1>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <0> <1>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <0> <2>: 
+[INFO] flue <0> <4>: 
+[INFO] missile <0> <1>: 
+[INFO] move <0> <0>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <0> <0>: 
+[INFO] move <0> <0>: 
+[INFO] move <0> <0>: 
+[INFO] move <0> <0>: 
+[INFO] move <0> <0>: 
+[INFO] attack <0> <2> <1>: 
+[INFO] move <0> <1>: 
+[INFO] move <0> <1>: 
+[INFO] move <0> <1>: 
+[INFO] move <0> <1>: 
+[INFO] move <0> <1>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <0> <1>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <0> <1>: 
+[INFO] flue <0> <4>: 
+[INFO] missile <0> <7>: 
+[INFO] move <0> <0>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <0> <0>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <0> <0>: 
+[INFO] move <0> <0>: 
+[INFO] move <0> <0>: 
+[INFO] move <0> <0>: 
+[INFO] move <0> <0>: 
+[INFO] attack <0> <2> <2>: 
+[INFO] move <0> <0>: 
+[INFO] attack <0> <0> <3>: 
+[INFO] attack <0> <2> <1>: 
+[INFO] move <0> <0>: 
+[INFO] attack <0> <0> <1>: 
+[INFO] move <0> <0>: 
+[INFO] move <0> <0>: 
+[INFO] move <0> <0>: 
+[INFO] move <0> <0>: 
+[INFO] move <0> <0>: 
+[INFO] move <0> <0>: 
+[INFO] move <0> <0>: 
+[INFO] move <0> <0>: 
+[INFO] move <0> <0>: 
+[INFO] move <0> <0>: 
+[INFO] flue <0> <10>: 
+[INFO] missile <0> <10>: 
+[INFO] move <0> <1>: 
+[INFO] move <0> <1>: 
+[INFO] move <0> <1>: 
+[INFO] move <0> <1>: 
+[INFO] move <0> <1>: 
+[INFO] move <0> <2>: 
+[INFO] attack <0> <2> <7>: 
+[INFO] move <0> <1>: 
+[INFO] move <0> <1>: 
+[INFO] attack <0> <1> <3>: 
+[INFO] move <0> <0>: 
+[INFO] move <0> <3>: 
+[INFO] move <0> <3>: 
+[INFO] move <0> <3>: 
+[INFO] move <0> <3>: 
+[INFO] move <0> <3>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <0> <3>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <0> <3>: 
+[INFO] flue <0> <2>: 
+[INFO] missile <0> <9>: 
+[INFO] move <0> <3>: 
+[INFO] move <0> <3>: 
+[INFO] move <0> <3>: 
+[INFO] flue <0> <4>: 
+[INFO] missile <0> <3>: 
+[INFO] move <0> <3>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <0> <3>: 
+[INFO] move <0> <3>: 
+[INFO] attack <0> <3> <1>: 
+[INFO] move <0> <1>: 
+[INFO] attack <0> <3> <1>: 
+[INFO] move <0> <0>: 
+[INFO] move <0> <0>: 
+[INFO] move <0> <0>: 
+[INFO] move <0> <0>: 
+[INFO] move <0> <0>: 
+[INFO] move <0> <0>: 
+[INFO] attack <0> <3> <6>: 
+[INFO] move <0> <3>: 
+[INFO] attack <0> <3> <4>: 
+[INFO] move <0> <0>: 
+[INFO] move <0> <0>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <0> <0>: 
+[INFO] move <0> <3>: 
+[INFO] move <0> <3>: 
+[INFO] flue <0> <2>: 
+[INFO] missile <0> <1>: 
+[INFO] move <0> <1>: 
+[INFO] attack <0> <1> <1>: 
+[INFO] move <0> <2>: 
+[INFO] move <0> <1>: 
+[INFO] move <0> <2>: 
+[INFO] move <0> <2>: 
+[INFO] move <0> <2>: 
+[INFO] move <0> <2>: 
+[INFO] move <0> <2>: 
+[INFO] flue <0> <2>: 
+[INFO] missile <0> <4>: 
+[INFO] move <0> <1>: 
+[INFO] move <0> <3>: 
+[INFO] move <0> <3>: 
+[INFO] move <0> <3>: 
+[INFO] move <0> <3>: 
+[INFO] attack <0> <3> <1>: 
+[INFO] move <0> <3>: 
+[INFO] attack <0> <3> <3>: 
+[INFO] move <0> <2>: 
+[INFO] move <0> <2>: 
+[INFO] move <0> <2>: 
+[INFO] move <0> <2>: 
+[INFO] move <0> <2>: 
+[INFO] move <0> <2>: 
+[INFO] flue <0> <4>: 
+[INFO] missile <0> <2>: 
+[INFO] move <0> <3>: 
+[INFO] move <0> <3>: 
+[INFO] move <0> <3>: 
+[INFO] move <0> <3>: 
+[INFO] move <0> <3>: 
+[INFO] move <0> <3>: 
+[INFO] attack <0> <3> <2>: 
+[INFO] move <0> <2>: 
+[INFO] move <0> <2>: 
+[INFO] move <0> <2>: 
+[INFO] move <0> <2>: 
+[INFO] move <0> <2>: 
+[INFO] move <0> <2>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <0> <2>: 
+[INFO] flue <0> <10>: 
+[INFO] missile <0> <6>: 
+[INFO] move <0> <3>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <0> <3>: 
+[INFO] move <0> <3>: 
+[INFO] move <0> <3>: 
+[INFO] move <0> <3>: 
+[INFO] move <0> <3>: 
+[INFO] move <0> <3>: 
+[INFO] attack <0> <3> <2>: 
+[INFO] move <0> <0>: 
+[INFO] attack <0> <3> <4>: 
+[INFO] move <0> <2>: 
+[INFO] move <0> <2>: 
+[INFO] move <0> <2>: 
+[INFO] move <0> <2>: 
+[INFO] move <0> <2>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <0> <2>: 
+[INFO] move <0> <2>: 
+[INFO] flue <0> <2>: 
+[INFO] missile <0> <7>: 
+[INFO] move <0> <3>: 
+[INFO] move <0> <3>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] move <0> <3>: 
+[INFO] move <0> <3>: 
+[INFO] move <0> <3>: 
+[INFO] move <0> <3>: 
+[INFO] move <0> <3>: 
+[INFO] attack <0> <3> <4>: 
+[INFO] move <0> <1>: 
+[INFO] move <0> <1>: 
+[INFO] attack <0> <3> <3>: 
+Total score: 9969/32360
+used time: 0.0490114688873291

@@ -20,6 +20,7 @@ class MilitaryExercise:
         self.moved = []
         self.targets = {}
         self.paths = []
+        self.commands = []
         for _ in range(self.fighters_num):
             self.moved.append(False)
             self.paths.append([-1])
@@ -91,8 +92,11 @@ class MilitaryExercise:
         fight.col = tmp_col
         self.moved[fid] = True
         print("[INFO] move <{}> <{}>: ({},{})".format(fid, dire, tmp_row, tmp_col))
+        self.commands.append("[INFO] move <{}> <{}>: ".format(fid, dire))
+        return
 
-    # 该指令表示战斗机的进攻。第一个参数为进攻的战斗机编号，第二个参数为攻击方向的编号，
+        # 该指令表示战斗机的进攻。第一个参数为进攻的战斗机编号，第二个参数为攻击方向的编号，
+
     # 0 1 2 3 分别表示 “上、下、左、右”，第三个参数为投放导弹数量。
     def attack(self, fid, dire, count):
         fid = int(fid)
@@ -138,6 +142,7 @@ class MilitaryExercise:
                                                                                         red_base.defense))
             if (tmp_row, tmp_col) in self.targets:
                 self.targets[(tmp_row, tmp_col)] -= count
+        self.commands.append("[INFO] attack <{}> <{}> <{}>: ".format(fid, dire, count))
         return
 
     # 该指令表示为战斗机添加燃油。第一个参数为添加燃油的战斗机编号，第二个参数为添加燃油的数量。
@@ -169,6 +174,7 @@ class MilitaryExercise:
         if (fight.row, fight.col) in self.targets:
             del self.targets[(fight.row, fight.col)]
         print("[INFO] flue <{}> <{}>: Fuel added ({}/{})".format(fid, count, fight.fuel, fight.max_fuel))
+        self.commands.append("[INFO] flue <{}> <{}>: ".format(fid, count))
         return
 
     # 该指令表示为战斗机添加导弹。第一个参数为添加导弹的战斗机编号，第二个参数为添加导弹的数量。
@@ -199,7 +205,8 @@ class MilitaryExercise:
         fight.missile += count
         if (fight.row, fight.col) in self.targets:
             del self.targets[(fight.row, fight.col)]
-        print("[INFO]missile <{}> <{}>: Missile added ({}/{})".format(fid, count, fight.missile, fight.max_missile))
+        print("[INFO] missile <{}> <{}>: Missile added ({}/{})".format(fid, count, fight.missile, fight.max_missile))
+        self.commands.append("[INFO] missile <{}> <{}>: ".format(fid, count))
         return
 
     # 检查loc对应位置是否为目标基地，aim为0表示红色基地，1表示燃料库，2表示导弹库
