@@ -30,6 +30,7 @@ move 6 3
 fuel 6 1
 move 7 0
 fuel 7 1
+OK
 move 0 0
 fuel 0 2
 missile 0 4
@@ -46,6 +47,7 @@ move 6 3
 attack 6 3 2
 move 7 0
 fuel 7 1
+OK
 move 0 1
 attack 0 1 4
 attack 1 3 4
@@ -61,6 +63,7 @@ attack 5 2 9
 move 6 0
 attack 6 0 10
 move 7 0
+OK
 move 0 0
 fuel 0 2
 missile 0 4
@@ -76,6 +79,7 @@ move 5 1
 attack 6 3 2
 move 7 0
 attack 7 0 4
+OK
 move 0 1
 attack 0 1 2
 attack 1 3 3
@@ -90,6 +94,7 @@ move 5 2
 move 6 0
 attack 6 0 5
 attack 7 3 7
+OK
 attack 0 2 2
 move 1 0
 attack 1 2 4
@@ -102,6 +107,7 @@ attack 5 2 4
 move 6 0
 move 7 0
 attack 7 0 9
+OK
 move 0 0
 fuel 0 2
 missile 0 4
@@ -118,6 +124,7 @@ attack 5 1 3
 move 6 0
 attack 6 2 10
 move 7 0
+OK
 move 0 1
 attack 0 2 1
 move 1 0
@@ -130,6 +137,7 @@ move 5 1
 attack 5 1 9
 move 6 1
 move 7 0
+OK
 attack 0 3 3
 move 1 2
 attack 1 2 5
@@ -143,6 +151,7 @@ attack 5 2 7
 move 6 1
 move 7 2
 attack 7 2 1
+OK
 move 0 0
 fuel 0 2
 missile 0 4
@@ -157,6 +166,7 @@ move 6 3
 move 7 0
 fuel 7 7
 missile 7 21
+OK
 move 0 1
 attack 0 3 4
 attack 1 2 3
@@ -169,6 +179,7 @@ attack 5 3 2
 move 6 3
 move 7 0
 attack 7 2 5
+OK
 move 0 0
 fuel 0 2
 missile 0 4
@@ -184,6 +195,7 @@ move 5 3
 attack 5 3 4
 move 6 3
 move 7 2
+OK
 move 0 0
 move 1 3
 attack 1 3 1
@@ -197,6 +209,7 @@ move 6 3
 attack 6 3 4
 move 7 2
 attack 7 2 7
+OK
 move 0 3
 attack 0 3 1
 move 1 3
@@ -209,6 +222,7 @@ move 5 2
 move 6 1
 move 7 0
 attack 7 2 9
+OK
 move 0 3
 attack 0 3 2
 move 1 1
@@ -222,6 +236,7 @@ attack 5 2 9
 move 6 1
 move 7 0
 attack 7 2 7
+OK
 move 0 1
 attack 0 3 1
 move 1 1
@@ -235,6 +250,7 @@ attack 4 3 7
 move 5 0
 move 6 1
 move 7 0
+OK
 move 0 2
 move 1 1
 attack 1 3 2
@@ -247,6 +263,7 @@ attack 5 2 8
 move 6 1
 move 7 2
 attack 7 2 3
+OK
 move 0 2
 fuel 0 6
 missile 0 4
@@ -261,6 +278,7 @@ missile 4 9
 move 5 0
 move 6 1
 move 7 0
+OK
 move 0 1
 move 1 0
 move 2 0
@@ -272,6 +290,7 @@ move 6 1
 attack 6 3 1
 move 7 2
 attack 7 2 1
+OK
 move 0 1
 attack 0 3 4
 move 1 3
@@ -286,6 +305,7 @@ attack 5 0 1
 move 6 1
 move 7 2
 attack 7 2 8
+OK
 move 0 0
 move 1 0
 attack 1 3 9
@@ -300,6 +320,7 @@ fuel 6 19
 missile 6 34
 move 7 2
 attack 7 2 2
+OK
 move 0 0
 fuel 0 4
 missile 0 4
@@ -313,6 +334,7 @@ move 5 0
 attack 5 0 1
 move 6 1
 move 7 0
+OK
 move 0 1
 move 1 0
 move 2 3
@@ -325,6 +347,7 @@ move 6 1
 attack 6 2 10
 move 7 0
 attack 7 2 5
+OK
 move 0 1
 attack 0 3 3
 move 1 0
@@ -339,6 +362,7 @@ move 6 1
 attack 6 3 5
 move 7 0
 attack 7 0 2
+OK
 move 0 1
 attack 0 2 1
 attack 1 2 1
@@ -354,6 +378,7 @@ move 6 1
 attack 6 1 2
 move 7 2
 attack 7 2 6
+OK
 move 0 1
 move 1 0
 attack 1 2 5
@@ -368,6 +393,7 @@ missile 5 93
 attack 6 2 5
 move 7 0
 attack 7 2 7
+OK
 move 0 1
 fuel 0 5
 missile 0 4
@@ -382,6 +408,7 @@ move 5 0
 attack 6 3 9
 move 7 2
 attack 7 2 3
+OK
 move 0 3
 attack 0 3 4
 move 1 2
@@ -397,6 +424,7 @@ move 6 1
 attack 6 2 6
 move 7 0
 attack 7 0 5
+OK
 move 0 2
 fuel 0 2
 missile 0 4
@@ -412,6 +440,7 @@ move 5 2
 move 6 0
 move 7 0
 attack 7 0 9
+OK
 move 0 0
 move 1 1
 attack 1 2 1
@@ -425,6 +454,7 @@ move 5 2
 fuel 5 2
 move 6 0
 attack 7 2 9
+OK
 move 0 0
 attack 0 2 4
 move 1 2
@@ -439,6 +469,7 @@ move 6 2
 attack 6 2 4
 move 7 0
 attack 7 0 1
+OK
 move 0 1
 move 1 0
 move 2 0
@@ -447,6 +478,7 @@ move 4 2
 move 5 2
 move 6 0
 attack 7 2 2
+OK
 move 0 1
 fuel 0 4
 missile 0 4
@@ -462,6 +494,7 @@ attack 5 2 3
 move 6 0
 move 7 0
 attack 7 2 4
+OK
 move 0 0
 move 1 2
 attack 1 2 4
@@ -475,6 +508,7 @@ move 5 0
 attack 5 2 1
 move 6 2
 attack 7 3 9
+OK
 move 0 0
 attack 0 3 4
 move 1 2
@@ -486,6 +520,7 @@ move 5 0
 move 6 2
 move 7 0
 attack 7 2 9
+OK
 move 0 1
 move 1 1
 move 2 0
@@ -497,6 +532,7 @@ move 5 0
 move 6 2
 move 7 2
 attack 7 2 9
+OK
 move 0 1
 fuel 0 4
 missile 0 4
@@ -514,6 +550,7 @@ fuel 6 14
 missile 6 41
 move 7 0
 attack 7 0 1
+OK
 move 0 0
 move 1 2
 attack 1 2 5
@@ -524,6 +561,7 @@ move 5 2
 fuel 5 1
 move 6 2
 attack 7 2 5
+OK
 move 0 0
 attack 0 3 2
 move 1 2
@@ -535,6 +573,7 @@ attack 4 2 9
 move 5 2
 move 6 2
 move 7 1
+OK
 move 0 1
 move 1 1
 attack 1 2 6
@@ -547,6 +586,7 @@ move 5 2
 move 6 2
 move 7 1
 attack 7 2 7
+OK
 move 0 2
 attack 0 2 2
 move 1 2
@@ -560,6 +600,7 @@ attack 5 2 6
 move 6 2
 move 7 1
 attack 7 2 10
+OK
 move 0 1
 fuel 0 5
 missile 0 4
@@ -574,6 +615,7 @@ missile 4 9
 move 5 0
 move 6 2
 move 7 1
+OK
 move 0 0
 attack 0 2 4
 move 1 2
@@ -586,6 +628,7 @@ attack 5 0 7
 move 6 2
 move 7 1
 attack 7 2 9
+OK
 move 0 1
 fuel 0 2
 missile 0 4
@@ -599,6 +642,7 @@ attack 5 2 4
 move 6 0
 move 7 1
 attack 7 1 5
+OK
 move 0 0
 attack 0 2 3
 attack 1 2 1
@@ -611,6 +655,7 @@ move 5 0
 attack 5 2 7
 move 6 2
 attack 7 2 4
+OK
 move 0 0
 move 1 0
 attack 1 2 8
@@ -624,6 +669,7 @@ attack 5 3 2
 move 6 2
 move 7 1
 attack 7 1 8
+OK
 move 0 2
 attack 0 2 1
 move 1 2
@@ -635,6 +681,7 @@ move 5 0
 attack 5 0 1
 move 6 2
 attack 7 2 2
+OK
 move 0 0
 move 1 1
 attack 1 2 7
@@ -645,6 +692,7 @@ move 4 2
 attack 5 2 3
 move 6 2
 move 7 0
+OK
 move 0 0
 move 1 1
 attack 1 2 5
@@ -657,6 +705,7 @@ attack 5 0 5
 move 6 2
 fuel 6 12
 move 7 0
+OK
 move 0 2
 fuel 0 6
 missile 0 4
@@ -671,6 +720,7 @@ move 6 2
 fuel 6 1
 move 7 2
 attack 7 2 2
+OK
 move 0 1
 attack 0 1 1
 move 1 2
@@ -682,6 +732,7 @@ fuel 4 1
 move 5 2
 move 6 2
 move 7 1
+OK
 move 0 3
 move 1 1
 attack 1 1 2
@@ -694,6 +745,7 @@ attack 5 2 5
 move 6 2
 fuel 6 2
 move 7 2
+OK
 move 0 3
 move 1 1
 attack 1 1 4
@@ -709,6 +761,7 @@ attack 5 2 10
 move 6 2
 move 7 2
 attack 7 2 3
+OK
 move 0 3
 attack 1 2 6
 move 2 2
@@ -721,6 +774,7 @@ attack 5 2 8
 move 6 2
 move 7 2
 attack 7 2 7
+OK
 move 0 3
 move 1 2
 attack 1 2 9
@@ -737,6 +791,7 @@ move 6 2
 attack 6 2 6
 move 7 0
 attack 7 2 5
+OK
 move 0 3
 attack 0 3 3
 move 1 0
@@ -750,6 +805,7 @@ attack 5 2 10
 move 6 0
 move 7 2
 attack 7 2 1
+OK
 move 0 0
 move 1 0
 move 2 0
@@ -760,6 +816,7 @@ attack 5 2 2
 move 6 2
 move 7 2
 attack 7 2 6
+OK
 move 0 0
 move 1 0
 attack 1 0 4
@@ -772,6 +829,7 @@ attack 5 2 8
 move 6 2
 move 7 0
 attack 7 2 8
+OK
 move 0 2
 move 1 1
 move 2 2
@@ -786,6 +844,7 @@ move 6 2
 attack 6 2 3
 move 7 0
 attack 7 2 10
+OK
 move 0 2
 fuel 0 10
 missile 0 4
@@ -801,6 +860,7 @@ move 6 0
 attack 6 2 4
 move 7 0
 attack 7 2 9
+OK
 move 0 3
 move 1 1
 move 2 2
@@ -813,6 +873,7 @@ move 5 2
 attack 5 2 1
 move 6 2
 move 7 1
+OK
 move 0 3
 attack 0 3 4
 move 1 1
@@ -826,6 +887,7 @@ move 5 0
 move 6 2
 attack 6 2 3
 move 7 1
+OK
 move 0 2
 move 1 1
 attack 1 2 4
@@ -839,6 +901,7 @@ attack 5 2 3
 move 6 1
 move 7 2
 attack 7 2 4
+OK
 move 0 2
 fuel 0 4
 missile 0 4
@@ -855,6 +918,7 @@ move 6 2
 attack 6 1 4
 move 7 1
 attack 7 1 9
+OK
 move 0 3
 move 1 2
 move 2 0
@@ -867,6 +931,7 @@ attack 5 0 6
 attack 6 2 1
 move 7 1
 attack 7 1 1
+OK
 move 0 3
 attack 0 3 4
 move 1 2
@@ -878,6 +943,7 @@ attack 4 2 2
 move 5 1
 move 6 1
 attack 7 2 6
+OK
 move 0 2
 move 1 2
 move 2 2
@@ -889,6 +955,7 @@ move 6 1
 attack 6 1 2
 move 7 1
 attack 7 1 3
+OK
 move 0 2
 fuel 0 4
 missile 0 4
@@ -903,6 +970,7 @@ move 5 1
 move 6 1
 attack 6 1 9
 attack 7 3 3
+OK
 move 0 3
 move 1 2
 attack 1 2 4
@@ -915,6 +983,7 @@ move 6 1
 attack 6 1 7
 move 7 1
 attack 7 1 9
+OK
 move 0 3
 move 1 0
 move 2 2
@@ -925,6 +994,7 @@ move 5 1
 attack 6 2 1
 move 7 1
 attack 7 3 6
+OK
 move 0 3
 attack 0 3 4
 move 1 0
@@ -937,6 +1007,7 @@ move 5 1
 move 6 1
 attack 6 2 9
 move 7 0
+OK
 move 0 2
 move 1 0
 move 2 1
@@ -946,6 +1017,7 @@ move 5 1
 move 6 1
 attack 6 2 10
 move 7 0
+OK
 move 0 2
 move 1 2
 attack 1 2 2
@@ -959,6 +1031,7 @@ missile 5 107
 move 6 0
 move 7 2
 attack 7 2 4
+OK
 move 0 2
 fuel 0 6
 missile 0 4
@@ -972,6 +1045,7 @@ attack 5 3 4
 move 6 0
 move 7 0
 attack 7 2 3
+OK
 move 0 3
 move 1 2
 move 2 1
@@ -984,6 +1058,7 @@ missile 5 4
 move 6 2
 attack 6 2 7
 move 7 1
+OK
 move 0 3
 move 1 2
 move 2 1
@@ -997,6 +1072,7 @@ fuel 5 1
 move 6 0
 move 7 2
 attack 7 2 7
+OK
 move 0 3
 attack 0 3 4
 move 1 2
@@ -1011,6 +1087,7 @@ move 6 2
 attack 6 2 6
 move 7 2
 attack 7 2 9
+OK
 move 0 2
 move 1 1
 attack 1 2 4
@@ -1023,6 +1100,7 @@ move 5 2
 move 6 0
 move 7 2
 attack 7 2 9
+OK
 move 0 2
 move 1 0
 move 2 1
@@ -1036,6 +1114,7 @@ move 6 2
 attack 6 2 5
 move 7 2
 attack 7 2 4
+OK
 move 0 2
 fuel 0 6
 missile 0 4
@@ -1051,6 +1130,7 @@ move 6 0
 attack 6 2 10
 move 7 0
 attack 7 0 8
+OK
 move 0 0
 move 1 3
 fuel 1 75
@@ -1064,6 +1144,7 @@ attack 5 2 4
 move 6 2
 move 7 0
 attack 7 0 7
+OK
 move 0 0
 move 1 2
 move 2 1
@@ -1076,6 +1157,7 @@ missile 5 4
 move 6 2
 attack 6 0 1
 attack 7 2 3
+OK
 move 0 0
 fuel 0 3
 move 1 2
@@ -1090,6 +1172,7 @@ fuel 5 1
 attack 6 2 5
 move 7 0
 attack 7 0 7
+OK
 move 0 0
 fuel 0 1
 move 1 1
@@ -1103,6 +1186,7 @@ move 6 0
 attack 6 2 4
 move 7 0
 attack 7 0 7
+OK
 move 0 3
 attack 0 3 4
 move 1 1
@@ -1119,6 +1203,7 @@ attack 5 2 1
 move 6 2
 attack 6 2 10
 attack 7 3 2
+OK
 move 0 1
 fuel 0 2
 missile 0 4
@@ -1133,6 +1218,7 @@ move 5 1
 move 6 2
 attack 6 2 2
 move 7 2
+OK
 move 0 0
 attack 0 3 4
 move 1 1
@@ -1144,6 +1230,7 @@ move 5 1
 move 6 2
 attack 6 2 2
 move 7 2
+OK
 move 0 1
 fuel 0 2
 missile 0 4
@@ -1157,6 +1244,7 @@ move 5 1
 move 6 0
 attack 6 2 2
 move 7 2
+OK
 move 0 0
 attack 0 3 2
 move 1 1
@@ -1170,6 +1258,7 @@ move 6 2
 attack 6 2 8
 move 7 2
 attack 7 2 5
+OK
 move 0 0
 attack 0 3 2
 move 1 1
@@ -1184,6 +1273,7 @@ move 6 1
 attack 6 1 4
 move 7 2
 attack 7 2 3
+OK
 move 0 1
 move 1 1
 move 2 0
@@ -1194,6 +1284,7 @@ attack 5 1 8
 move 6 1
 attack 6 2 8
 move 7 1
+OK
 move 0 1
 fuel 0 4
 missile 0 4
@@ -1208,6 +1299,7 @@ move 6 1
 attack 6 1 8
 move 7 1
 attack 7 1 7
+OK
 move 0 3
 attack 0 3 4
 move 1 0
@@ -1219,6 +1311,7 @@ attack 5 3 1
 move 6 1
 attack 6 1 7
 move 7 1
+OK
 move 0 2
 fuel 0 2
 missile 0 4
@@ -1232,6 +1325,7 @@ attack 5 3 6
 attack 6 2 3
 move 7 2
 attack 7 2 9
+OK
 move 0 3
 attack 0 3 4
 move 1 2
@@ -1245,6 +1339,7 @@ attack 5 3 5
 move 6 0
 move 7 1
 attack 7 2 2
+OK
 move 0 2
 fuel 0 2
 missile 0 4
@@ -1258,6 +1353,7 @@ attack 4 0 3
 move 5 1
 move 6 2
 move 7 1
+OK
 move 0 0
 move 1 1
 move 2 1
@@ -1269,6 +1365,7 @@ move 6 2
 attack 6 2 2
 move 7 1
 attack 7 2 10
+OK
 move 0 0
 attack 0 3 4
 move 1 1
@@ -1282,6 +1379,7 @@ fuel 5 12
 missile 5 35
 move 6 0
 move 7 0
+OK
 move 0 1
 move 1 1
 move 2 1
@@ -1295,6 +1393,7 @@ move 6 0
 attack 6 2 5
 move 7 2
 attack 7 2 6
+OK
 move 0 1
 fuel 0 4
 missile 0 4
@@ -1308,6 +1407,7 @@ move 5 0
 move 6 0
 move 7 2
 attack 7 2 5
+OK
 move 0 0
 move 1 1
 attack 1 2 8
@@ -1318,6 +1418,7 @@ move 5 0
 move 6 0
 move 7 1
 attack 7 1 8
+OK
 move 0 0
 attack 0 3 4
 move 1 0
@@ -1330,6 +1431,7 @@ move 5 0
 move 6 0
 move 7 1
 attack 7 2 3
+OK
 move 0 1
 move 1 2
 attack 1 2 2
@@ -1342,6 +1444,7 @@ move 5 0
 move 6 0
 move 7 2
 attack 7 2 5
+OK
 move 0 1
 fuel 0 4
 missile 0 4
@@ -1355,6 +1458,7 @@ move 5 0
 move 6 0
 move 7 2
 attack 7 2 3
+OK
 move 0 0
 move 1 1
 attack 1 1 10
@@ -1369,6 +1473,7 @@ move 6 0
 attack 6 3 1
 move 7 0
 attack 7 2 5
+OK
 move 0 3
 attack 0 3 4
 move 1 1
@@ -1382,6 +1487,7 @@ move 5 0
 move 6 0
 attack 6 0 6
 move 7 1
+OK
 move 0 1
 move 1 1
 move 2 3
@@ -1394,6 +1500,7 @@ move 5 0
 attack 6 3 1
 move 7 1
 attack 7 2 8
+OK
 move 0 2
 fuel 0 4
 missile 0 4
@@ -1407,6 +1514,7 @@ move 5 0
 move 6 0
 attack 6 0 10
 move 7 1
+OK
 move 0 3
 move 1 2
 move 2 3
@@ -1420,6 +1528,7 @@ move 6 0
 attack 6 3 5
 move 7 2
 attack 7 2 6
+OK
 move 0 3
 move 1 2
 attack 1 1 9
@@ -1433,6 +1542,7 @@ fuel 5 12
 missile 5 8
 move 6 0
 move 7 1
+OK
 move 0 3
 attack 0 3 4
 move 1 2
@@ -1445,6 +1555,7 @@ move 5 0
 move 6 0
 attack 6 2 3
 move 7 1
+OK
 move 0 2
 move 1 2
 move 2 0
@@ -1458,6 +1569,7 @@ attack 5 2 9
 move 6 1
 move 7 1
 attack 7 3 2
+OK
 move 0 2
 move 1 2
 attack 1 2 3
@@ -1471,6 +1583,7 @@ attack 5 2 1
 move 6 3
 attack 6 3 4
 move 7 2
+OK
 move 0 2
 fuel 0 0
 missile 0 4
@@ -1482,6 +1595,7 @@ move 5 0
 attack 5 2 4
 move 6 0
 move 7 2
+OK
 move 0 0
 move 1 1
 fuel 1 34
@@ -1492,6 +1606,7 @@ move 4 1
 move 5 0
 move 6 0
 move 7 2
+OK
 move 0 0
 move 1 1
 attack 1 2 7
@@ -1503,6 +1618,7 @@ move 5 0
 move 6 0
 move 7 2
 attack 7 2 3
+OK
 move 0 0
 move 1 0
 fuel 1 2
@@ -1515,6 +1631,7 @@ move 6 2
 move 7 0
 fuel 7 17
 missile 7 425
+OK
 move 0 0
 move 1 0
 move 2 0
@@ -1523,6 +1640,7 @@ move 4 0
 move 5 0
 move 6 2
 move 7 0
+OK
 move 0 0
 move 1 0
 move 2 0
@@ -1535,6 +1653,7 @@ fuel 6 62
 missile 6 188
 move 7 0
 fuel 7 82
+OK
 move 0 0
 fuel 0 12
 move 1 0
@@ -1545,6 +1664,7 @@ move 5 0
 move 6 2
 fuel 6 1
 move 7 0
+OK
 move 0 0
 move 1 0
 move 2 0
@@ -1556,6 +1676,7 @@ missile 5 14
 move 6 2
 fuel 6 0
 move 7 0
+OK
 move 0 0
 move 1 0
 move 2 0
@@ -1566,6 +1687,7 @@ missile 4 7
 move 5 0
 move 6 2
 move 7 0
+OK
 move 0 2
 move 1 0
 fuel 1 6
@@ -1576,6 +1698,7 @@ move 5 0
 move 6 2
 attack 6 0 3
 move 7 0
+OK
 move 0 2
 fuel 0 4
 move 1 0
@@ -1586,6 +1709,7 @@ move 4 0
 move 5 0
 move 6 0
 move 7 0
+OK
 move 0 2
 attack 0 2 3
 move 1 0
@@ -1597,6 +1721,7 @@ move 5 0
 move 6 3
 move 7 0
 fuel 7 6
+OK
 move 0 0
 move 1 0
 move 2 0
@@ -1606,6 +1731,7 @@ move 5 0
 move 6 0
 move 7 0
 fuel 7 1
+OK
 move 0 0
 move 1 0
 move 2 0
@@ -1615,6 +1741,7 @@ move 5 0
 move 6 0
 move 7 0
 fuel 7 1
+OK
 move 0 0
 move 1 2
 attack 1 2 4
@@ -1625,6 +1752,7 @@ move 5 0
 fuel 5 7
 move 6 0
 move 7 0
+OK
 move 0 0
 fuel 0 5
 missile 0 3
@@ -1638,6 +1766,7 @@ fuel 4 7
 move 5 0
 move 6 0
 move 7 0
+OK
 move 0 0
 fuel 0 1
 move 1 0
@@ -1649,6 +1778,7 @@ move 6 0
 fuel 6 10
 missile 6 3
 move 7 0
+OK
 move 0 0
 fuel 0 1
 move 1 0
@@ -1661,6 +1791,7 @@ move 6 0
 fuel 6 1
 move 7 0
 attack 7 3 1
+OK
 move 0 0
 move 1 3
 attack 1 3 8
@@ -1671,6 +1802,7 @@ move 5 2
 move 6 0
 fuel 6 1
 move 7 0
+OK
 move 0 0
 move 1 0
 fuel 1 2
@@ -1683,6 +1815,7 @@ move 6 0
 move 7 0
 fuel 7 6
 missile 7 1
+OK
 move 0 0
 fuel 0 3
 move 1 0
@@ -1696,6 +1829,7 @@ attack 5 2 8
 move 6 0
 move 7 3
 attack 7 3 8
+OK
 move 0 0
 move 1 2
 attack 1 2 4
@@ -1707,6 +1841,7 @@ move 6 0
 fuel 6 3
 move 7 0
 attack 7 3 2
+OK
 move 0 0
 fuel 0 2
 move 1 0
@@ -1718,6 +1853,7 @@ attack 4 2 1
 move 5 0
 move 6 0
 move 7 0
+OK
 move 0 0
 move 1 0
 move 2 2
@@ -1728,6 +1864,7 @@ move 6 0
 fuel 6 2
 move 7 3
 attack 7 3 8
+OK
 move 0 0
 fuel 0 2
 move 1 0
@@ -1742,6 +1879,7 @@ attack 5 0 2
 move 6 0
 move 7 3
 attack 7 3 6
+OK
 move 0 3
 move 1 3
 fuel 1 5
@@ -1753,6 +1891,7 @@ move 5 0
 move 6 0
 fuel 6 2
 move 7 0
+OK
 move 0 3
 move 1 3
 move 2 2
@@ -1763,6 +1902,7 @@ attack 5 3 6
 move 6 0
 attack 6 2 2
 move 7 3
+OK
 move 0 3
 move 1 3
 fuel 1 2
@@ -1774,29 +1914,39 @@ move 4 0
 attack 4 0 8
 move 7 3
 attack 7 3 3
+OK
 move 0 3
 move 1 3
 move 3 2
 move 4 0
+OK
 move 0 3
 move 1 3
 attack 1 3 3
 move 3 2
 move 4 3
+OK
 move 0 3
 move 3 2
 attack 3 2 10
 move 4 3
 fuel 4 10
 missile 4 9
+OK
 move 0 0
+OK
 move 0 0
+OK
 move 0 3
+OK
 move 0 0
+OK
 move 0 3
 fuel 0 11
+OK
 move 0 0
+OK
 move 0 0
 attack 0 2 4
 Total score: 28499/28499
-used time: 0.29006481170654297
+used time: 0.29845213890075684

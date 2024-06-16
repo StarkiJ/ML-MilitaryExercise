@@ -7,23 +7,29 @@ missile 2 10
 move 0 1
 move 1 1
 move 2 0
+OK
 move 0 2
 move 1 2
 move 2 0
+OK
 move 0 2
 move 1 2
 move 2 2
+OK
 move 0 2
 attack 0 2 1
 move 1 2
 attack 1 2 3
 move 2 2
+OK
 move 0 2
 move 2 2
+OK
 move 0 2
 attack 0 1 2
 move 2 2
+OK
 move 2 2
 attack 2 2 4
 Total score: 110/110
-used time: 0.001001119613647461
+used time: 0.0010001659393310547

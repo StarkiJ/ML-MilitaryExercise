@@ -63,3 +63,4 @@ def machine_operation(me, output_path):
             file.write(command + '\n')
         file.write("Total score: {}/{}\n".format(me.score, me.max_score))
         file.write("used time: {}\n".format(used_time))
+        me.commands.append("OK")
