@@ -17,13 +17,12 @@ class MilitaryExercise:
         self.fighters_num = len(fighters)
         self.score = 0
         self.frame = 0
-        self.targets = []
-        self.paths = []
         self.moved = []
+        self.targets = {}
+        self.paths = []
         for _ in range(self.fighters_num):
             self.moved.append(False)
-            self.targets.append((-1, -1))
-            self.paths.append([])
+            self.paths.append([-1])
 
     def show_info(self):
         print("map_info:", self.max_row, self.max_col)
@@ -84,7 +83,8 @@ class MilitaryExercise:
                                                                                                  tmp_col))
             # self.move(fid, (dire + 2) % 4)
             # self.targets[fid] = (-1, -1)
-            self.targets[fid] = (-1, 0)
+            # self.targets[fid] = (-1, 0)
+            self.paths[fid] = [-2]
             return
         fight.fuel -= 1
         fight.row = tmp_row
@@ -131,9 +131,13 @@ class MilitaryExercise:
             self.score += red_base.military_value
             print("[INFO] attack <{}> <{}> <{}>: Red base destroyed (Score: {})".format(fid, dire, count,
                                                                                         red_base.military_value))
+            if (tmp_row, tmp_col) in self.targets:
+                del self.targets[(tmp_row, tmp_col)]
         else:
             print("[INFO] attack <{}> <{}> <{}>: Red base damaged (defense: {})".format(fid, dire, count,
                                                                                         red_base.defense))
+            if (tmp_row, tmp_col) in self.targets:
+                self.targets[(tmp_row, tmp_col)] -= count
         return
 
     # 该指令表示为战斗机添加燃油。第一个参数为添加燃油的战斗机编号，第二个参数为添加燃油的数量。
@@ -162,6 +166,8 @@ class MilitaryExercise:
                 return
         blue_base.fuel_reserve -= count
         fight.fuel += count
+        if (fight.row, fight.col) in self.targets:
+            del self.targets[(fight.row, fight.col)]
         print("[INFO] flue <{}> <{}>: Fuel added ({}/{})".format(fid, count, fight.fuel, fight.max_fuel))
         return
 
@@ -191,6 +197,8 @@ class MilitaryExercise:
                 return
         blue_base.missile_reserve -= count
         fight.missile += count
+        if (fight.row, fight.col) in self.targets:
+            del self.targets[(fight.row, fight.col)]
         print("[INFO]missile <{}> <{}>: Missile added ({}/{})".format(fid, count, fight.missile, fight.max_missile))
         return
 
@@ -211,6 +219,16 @@ class MilitaryExercise:
                     return True
         return False
 
+    # 判断预约是否冲突
+    def is_valid_base(self, loc, aim):
+        if aim == 0:
+            if self.red_bases[loc].defense > self.targets.get(loc, -1):
+                return True
+        if aim > 1:
+            if loc not in self.targets:
+                return True
+        return False
+
     # 检查是否越界或者是障碍物
     def is_valid(self, x, y, aim):
         if 0 <= x < self.max_row and 0 <= y < self.max_col:
@@ -221,13 +239,14 @@ class MilitaryExercise:
         return False
 
     def find_base(self, fid, aim):
-        start = (self.fighters[fid].row, self.fighters[fid].col)
+        fight = self.fighters[fid]
+        start = (fight.row, fight.col)
         # BFS队列
         queue = deque([(start[0], start[1], 0)])  # (x, y, steps)
         visited = {start}  # 记录访问过的节点
         parent = {start: ((-1, -1), None)}  # 记录每个节点的前驱节点和方向
-        fuel = self.fighters[fid].fuel
-        target = [(-1, -1), [], -1]  # (x, y), direction_path, value
+        fuel = fight.fuel
+        target = [(-1, -1), 0, [-1], -1]  # (x, y):count, aim+direction_path, value
         change = 0
 
         while queue:
@@ -240,22 +259,23 @@ class MilitaryExercise:
             # 检查燃料是否充足
             if fuel < steps:
                 if aim == 0:
-                    if self.fighters[fid].max_fuel < steps:
-                        return (-1, 0), []
+                    if fight.max_fuel < steps:
+                        return target[0], target[1], [-3]
                     else:
-                        return (0, -1), []
+                        return target[0], target[1], [-2]
                 else:
-                    return (-1, 0), []
+                    return target[0], target[1], [-3]
 
             # 如果到达目标点，构建方向序列
             if self.is_aim_base((x, y), aim):
-                # if (x, y) in self.targets:
-                #     continue
+                if not self.is_valid_base((x, y), aim):
+                    continue
                 dire_path = []
                 (tx, ty) = (x, y)
                 while parent[(tx, ty)][1] is not None:
                     dire_path.append(parent[(tx, ty)][1])
                     (tx, ty) = parent[(tx, ty)][0]
+                dire_path.append(aim)
                 dire_path.reverse()
                 # if aim == 0:
                 #     red_base = self.red_bases[(x, y)]
@@ -264,7 +284,7 @@ class MilitaryExercise:
                 #         target = [(x, y), dire_path, tmp_value]
                 #         change += 1
                 #     continue
-                return (x, y), dire_path
+                return (x, y), fight.missile, dire_path
             else:
                 # 遍历四个方向
                 for i in range(4):
@@ -274,7 +294,7 @@ class MilitaryExercise:
                         queue.append((nx, ny, steps + 1))
                         parent[(nx, ny)] = ((x, y), i)
         # 如果没有找到路径
-        return target[0], target[1]
+        return target[0], target[1], target[2]  # (x, y):count, aim+direction_path
 
     # 该指令表示战斗机寻找目标。第一个参数为战斗机编号。
     def find_target(self, fid):
@@ -286,24 +306,32 @@ class MilitaryExercise:
             if fight.missile < fight.max_missile:
                 self.missile(fid, fight.max_missile - fight.missile)
         # 是否待命
-        if not (self.targets[fid] == (-1, -1)):
+        if not (self.paths[fid][0] == -1):
             return
         # 是否需要补充导弹
         if fight.missile <= 0:
-            target, path = self.find_base(fid, 2)
-            self.targets[fid] = target
+            target, count, path = self.find_base(fid, 2)
+            if path[0] >= 0:
+                if target in self.targets:
+                    self.targets[target] += count
+                else:
+                    self.targets[target] = count
             self.paths[fid] = path
             return
         # 寻找目标敌方基地
-        target, path = self.find_base(fid, 0)
+        target, count, path = self.find_base(fid, 0)
         # 是否需要补充燃料
-        if target == (0, -1):
-            target, path = self.find_base(fid, 1)
-        self.targets[fid] = target
+        if path[0] == -2:
+            target, count, path = self.find_base(fid, 1)
+        if path[0] >= 0:
+            if target in self.targets:
+                self.targets[target] += count
+            else:
+                self.targets[target] = count
         self.paths[fid] = path
 
     def get_targets(self):
         for fid in range(self.fighters_num):
-            if self.targets[fid] == (-1, 0):
+            if self.paths[fid][0] == -2:
                 continue
             self.find_target(fid)
