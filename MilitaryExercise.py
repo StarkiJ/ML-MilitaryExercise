@@ -267,7 +267,7 @@ class MilitaryExercise:
                         queue.append((nx, ny, steps + 1))
                         parent[(nx, ny)] = ((x, y), i)
         # 如果没有找到路径
-        return (-2, -2), []
+        return (-1, -1), []
 
     # # 该指令表示战斗机寻找敌方基地。第一个参数为战斗机编号。
     # def find_red_base(self, fid):

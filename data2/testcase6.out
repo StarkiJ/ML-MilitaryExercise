@@ -6495,10 +6495,12 @@ Score: 20683, Frame: 787
 [INFO] move <1> <1>:
 [INFO] move <2> <0>:
 [INFO] move <3> <0>:
+[INFO] move <4> <1>:
 Score: 20683, Frame: 788
 [INFO] move <1> <1>:
 [INFO] move <2> <0>:
 [INFO] move <3> <0>:
+[INFO] move <4> <2>:
 Score: 20683, Frame: 789
 [INFO] flue <1> <14>: 
 [INFO] missile <1> <0>: 
@@ -6507,58 +6509,74 @@ Score: 20683, Frame: 789
 [INFO] move <1> <1>:
 [INFO] move <2> <0>:
 [INFO] move <3> <0>:
+[INFO] move <4> <2>:
 Score: 20683, Frame: 790
 [INFO] flue <1> <1>: 
 [INFO] missile <1> <0>: 
 [INFO] move <1> <1>:
 [INFO] move <2> <0>:
 [INFO] move <3> <0>:
+[INFO] move <4> <2>:
 Score: 20683, Frame: 791
 [INFO] flue <2> <2>: 
 [INFO] missile <2> <0>: 
 [INFO] move <1> <1>:
 [INFO] move <2> <0>:
 [INFO] move <3> <0>:
+[INFO] move <4> <2>:
 Score: 20683, Frame: 792
 [INFO] flue <3> <6>: 
 [INFO] missile <3> <0>: 
 [INFO] move <1> <1>:
 [INFO] move <2> <0>:
 [INFO] move <3> <0>:
+[INFO] move <4> <2>:
 Score: 20683, Frame: 793
 [INFO] flue <1> <3>: 
 [INFO] missile <1> <0>: 
+[INFO] flue <4> <7>: 
+[INFO] missile <4> <0>: 
 [INFO] move <1> <1>:
 [INFO] move <2> <0>:
 [INFO] move <3> <0>:
+[INFO] move <4> <2>:
+INFO] attack <4> <2> <1>: 
 Score: 20683, Frame: 794
 [INFO] flue <2> <3>: 
 [INFO] missile <2> <0>: 
 [INFO] move <1> <1>:
 [INFO] move <2> <0>:
 [INFO] move <3> <0>:
+[INFO] move <4> <0>:
 Score: 20683, Frame: 795
 [INFO] flue <3> <3>: 
 [INFO] missile <3> <0>: 
 [INFO] move <1> <1>:
 [INFO] move <2> <0>:
 [INFO] move <3> <0>:
+[INFO] move <4> <0>:
 Score: 20683, Frame: 796
 [INFO] move <1> <1>:
 [INFO] move <2> <0>:
 [INFO] move <3> <0>:
+[INFO] move <4> <0>:
 Score: 20683, Frame: 797
 [INFO] move <1> <2>:
 [INFO] move <2> <0>:
 [INFO] move <3> <0>:
+[INFO] move <4> <0>:
 Score: 20683, Frame: 798
 [INFO] move <1> <2>:
 INFO] attack <1> <2> <1>: 
 [INFO] move <2> <0>:
 [INFO] move <3> <0>:
+[INFO] move <4> <0>:
 Score: 20743, Frame: 799
-INFO] attack <1> <1> <2>: 
+[INFO] flue <4> <6>: 
+[INFO] missile <4> <0>: 
+INFO] attack <1> <1> <1>: 
 [INFO] move <2> <0>:
 [INFO] move <3> <0>:
+[INFO] move <4> <0>:
 Total score: 20782/20782
-used time: 0.1900618076324463
+used time: 0.22905445098876953
