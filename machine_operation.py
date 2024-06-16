@@ -1,3 +1,6 @@
+import time
+
+
 # 判断目标方向
 def get_direction(frow, fcol, trow, tcol):
     if frow > trow:
@@ -10,7 +13,8 @@ def get_direction(frow, fcol, trow, tcol):
         return 3
 
 
-def machine_operation(me):
+def machine_operation(me, output_path):
+    start_time = time.time()
     for fid in range(me.fighters_num):
         fight = me.fighters[fid]
         # 抵达蓝色基地则加油和补充弹药
@@ -53,7 +57,12 @@ def machine_operation(me):
             break
         print()
         me.next_frame()
-
+    used_time = time.time() - start_time
     print("Total score: {}/{}".format(me.score, me.max_score))
-    with open('score.txt', 'w') as file:
+    print("used time: {}".format(used_time))
+    print("output path: {}".format(output_path))
+    with open(output_path, 'w') as file:
+        for command in me.commands:
+            file.write(command + '\n')
         file.write("Total score: {}/{}\n".format(me.score, me.max_score))
+        file.write("used time: {}\n".format(used_time))

@@ -1,0 +1,35 @@
+[INFO] flue <0> <100>: 
+[INFO] missile <0> <20>: 
+[INFO] flue <1> <120>: 
+[INFO] missile <1> <18>: 
+[INFO] flue <2> <90>: 
+[INFO] missile <2> <10>: 
+[INFO] flue <0> <0>: 
+[INFO] missile <0> <0>: 
+[INFO] flue <1> <0>: 
+[INFO] missile <1> <0>: 
+[INFO] flue <2> <0>: 
+[INFO] missile <2> <0>: 
+[INFO] move <0> <1>:
+[INFO] move <1> <1>:
+[INFO] move <2> <0>:
+[INFO] move <0> <2>:
+[INFO] move <1> <2>:
+[INFO] move <2> <0>:
+[INFO] move <0> <2>:
+[INFO] move <1> <2>:
+[INFO] move <2> <2>:
+[INFO] move <0> <2>:
+INFO] attack <0> <2> <1>: 
+[INFO] move <1> <2>:
+INFO] attack <1> <2> <3>: 
+[INFO] move <2> <2>:
+[INFO] move <0> <1>:
+[INFO] move <2> <2>:
+INFO] attack <0> <2> <4>: 
+[INFO] move <2> <2>:
+[INFO] move <0> <2>:
+INFO] attack <0> <2> <2>: 
+[INFO] move <2> <2>:
+Total score: 110/110
+used time: 0.0020003318786621094

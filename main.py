@@ -7,32 +7,14 @@ from machine_operation import machine_operation
 
 
 def main():
-    me = MilitaryExercise('./data2/testcase10.in')
+    test_num = input("Enter number of testcase: ")
+    input_path = './data2/testcase' + test_num + '.in'
+    output_path = './data2/testcase' + test_num + '.out'
+
+    me = MilitaryExercise(input_path)
     me.show_info()
 
-    print("Please choose a start mode:")
-    print("1. Manual operation")
-    print("2. Machine operation")
-    print("3. Machine learning")
-    print("q. Quit")
-
-    while True:
-        # choice = input("Enter choice: ")
-        choice = '2'
-        if choice == '1':
-            manual_operation(me)
-            break
-        elif choice == '2':
-            machine_operation(me)
-            break
-        elif choice == '3':
-            # machine_learning()
-            break
-        elif choice == 'q':
-            print("Exiting the program.")
-            break
-        else:
-            print("Invalid choice.")
+    machine_operation(me, output_path)
 
 
 if __name__ == "__main__":

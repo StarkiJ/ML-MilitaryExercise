@@ -5,8 +5,8 @@ import read_data
 class MilitaryExercise:
     direction = [(-1, 0), (1, 0), (0, -1), (0, 1)]
 
-    def __init__(self, file_path):
-        max_row, max_col, map_info, blue_bases, red_bases, fighters, max_score = read_data.read_data(file_path)
+    def __init__(self, input_path):
+        max_row, max_col, map_info, blue_bases, red_bases, fighters, max_score = read_data.read_data(input_path)
         self.max_row = max_row
         self.max_col = max_col
         self.map_info = map_info
@@ -20,6 +20,7 @@ class MilitaryExercise:
         self.targets = []
         self.paths = []
         self.moved = []
+        self.commands = []
         for _ in range(self.fighters_num):
             self.moved.append(False)
             self.targets.append((-1, -1))
@@ -91,6 +92,7 @@ class MilitaryExercise:
         fight.col = tmp_col
         self.moved[fid] = True
         print("[INFO] move <{}> <{}>: ({},{})".format(fid, dire, tmp_row, tmp_col))
+        self.commands.append("[INFO] move <{}> <{}>:".format(fid, dire))
 
     # 该指令表示战斗机的进攻。第一个参数为进攻的战斗机编号，第二个参数为攻击方向的编号，
     # 0 1 2 3 分别表示 “上、下、左、右”，第三个参数为投放导弹数量。
@@ -134,6 +136,7 @@ class MilitaryExercise:
         else:
             print("[INFO] attack <{}> <{}> <{}>: Red base damaged (defense: {})".format(fid, dire, count,
                                                                                         red_base.defense))
+        self.commands.append("INFO] attack <{}> <{}> <{}>: ".format(fid, dire, count))
         return
 
     # 该指令表示为战斗机添加燃油。第一个参数为添加燃油的战斗机编号，第二个参数为添加燃油的数量。
@@ -163,6 +166,7 @@ class MilitaryExercise:
         blue_base.fuel_reserve -= count
         fight.fuel += count
         print("[INFO] flue <{}> <{}>: Fuel added ({}/{})".format(fid, count, fight.fuel, fight.max_fuel))
+        self.commands.append("[INFO] flue <{}> <{}>: ".format(fid, count))
         return
 
     # 该指令表示为战斗机添加导弹。第一个参数为添加导弹的战斗机编号，第二个参数为添加导弹的数量。
@@ -191,7 +195,8 @@ class MilitaryExercise:
                 return
         blue_base.missile_reserve -= count
         fight.missile += count
-        print("[INFO]missile <{}> <{}>: Missile added ({}/{})".format(fid, count, fight.missile, fight.max_missile))
+        print("[INFO] missile <{}> <{}>: Missile added ({}/{})".format(fid, count, fight.missile, fight.max_missile))
+        self.commands.append("[INFO] missile <{}> <{}>: ".format(fid, count))
         return
 
     # 检查loc对应位置是否为目标基地，aim为0表示红色基地，1表示燃料库，2表示导弹库
