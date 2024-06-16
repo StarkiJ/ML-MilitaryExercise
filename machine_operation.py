@@ -40,13 +40,19 @@ def machine_operation(me):
                 dire = me.paths[fid][1]
                 me.move(fid, dire)
                 me.paths[fid].pop(1)
+                # 路过无预约的蓝色基地则加油和补充弹药
+                if me.map_info[fight.row][fight.col] == "*" and (fight.row, fight.col) not in me.targets:
+                    if fight.fuel < fight.max_fuel:
+                        me.flue(fid, fight.max_fuel - fight.fuel)
+                    if fight.missile < fight.max_missile:
+                        me.missile(fid, fight.max_missile - fight.missile)
             # 抵达红色基地隔壁则攻击
             if dis <= 2 and path[0] == 0:
                 dire = me.paths[fid][1]
                 me.attack(fid, dire, fight.max_missile)
                 me.paths[fid] = [-1]
             # 抵达蓝色基地则加油和补充弹药
-            elif dis <= 1 and path[0] > 0:
+            elif dis <= 1 and path[0] >0:
                 me.flue(fid, fight.max_fuel)
                 me.missile(fid, fight.max_missile)
                 me.paths[fid] = [-1]

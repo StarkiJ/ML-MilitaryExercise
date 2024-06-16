@@ -220,14 +220,14 @@ class MilitaryExercise:
         return False
 
     # 判断预约是否冲突
-    def is_valid_base(self, loc, aim):
+    def is_invalid_base(self, loc, aim):
         if aim == 0:
             if self.red_bases[loc].defense > self.targets.get(loc, -1):
-                return True
-        if aim > 1:
+                return False
+        else:
             if loc not in self.targets:
-                return True
-        return False
+                return False
+        return True
 
     # 检查是否越界或者是障碍物
     def is_valid(self, x, y, aim):
@@ -247,18 +247,21 @@ class MilitaryExercise:
         parent = {start: ((-1, -1), None)}  # 记录每个节点的前驱节点和方向
         fuel = fight.fuel
         target = [(-1, -1), 0, [-1], -1]  # (x, y):count, aim+direction_path, value
-        change = 0
+        # change = 0
+        # max_change = min(1, max(0, (len(self.red_bases) - self.fighters_num)))
 
         while queue:
             x, y, steps = queue.popleft()
 
-            # # 比较次数阈值
-            # if change > 0:
-            #     return target[0], target[1]
+            # 比较次数阈值
+            # if change > max_change:
+            #     return target[0], target[1], target[2]
 
             # 检查燃料是否充足
             if fuel < steps:
                 if aim == 0:
+                    if target[3] > 0:
+                        return target[0], target[1], target[2]
                     if fight.max_fuel < steps:
                         return target[0], target[1], [-3]
                     else:
@@ -268,7 +271,7 @@ class MilitaryExercise:
 
             # 如果到达目标点，构建方向序列
             if self.is_aim_base((x, y), aim):
-                if not self.is_valid_base((x, y), aim):
+                if self.is_invalid_base((x, y), aim):
                     continue
                 dire_path = []
                 (tx, ty) = (x, y)
@@ -280,8 +283,8 @@ class MilitaryExercise:
                 # if aim == 0:
                 #     red_base = self.red_bases[(x, y)]
                 #     tmp_value = red_base.military_value / (red_base.defense + steps)
-                #     if target[2] < tmp_value:
-                #         target = [(x, y), dire_path, tmp_value]
+                #     if target[3] < tmp_value:
+                #         target = [(x, y), fight.missile, dire_path, tmp_value]
                 #         change += 1
                 #     continue
                 return (x, y), fight.missile, dire_path
@@ -299,12 +302,6 @@ class MilitaryExercise:
     # 该指令表示战斗机寻找目标。第一个参数为战斗机编号。
     def find_target(self, fid):
         fight = self.fighters[fid]
-        # 路过无预约的蓝色基地则加油和补充弹药
-        if self.map_info[fight.row][fight.col] == "*" and (fight.row, fight.col) not in self.targets:
-            if fight.fuel < fight.max_fuel:
-                self.flue(fid, fight.max_fuel - fight.fuel)
-            if fight.missile < fight.max_missile:
-                self.missile(fid, fight.max_missile - fight.missile)
         # 是否待命
         if not (self.paths[fid][0] == -1):
             return
