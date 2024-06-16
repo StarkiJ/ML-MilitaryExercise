@@ -14,8 +14,8 @@ def main():
     print("q. Quit")
 
     test_num = input("Enter number of testcase: ")
-    input_path = './data2/testcase' + test_num + '.in'
-    output_path = './data2/testcase' + test_num + '.out'
+    input_path = './data/testcase' + test_num + '.in'
+    output_path = './data/testcase' + test_num + '.out'
     me = MilitaryExercise(input_path)
     me.show_info()
 

@@ -47,11 +47,11 @@ def machine_operation(me, output_path):
                 me.fuel(fid, fight.max_fuel)
                 me.missile(fid, fight.max_missile)
                 me.paths[fid] = [-1]
+
         # 如果红色基地已全被摧毁则结束
         if not me.red_bases:
             break
 
-        print()
         me.next_frame()
 
     used_time = time.time() - start_time
@@ -64,3 +64,5 @@ def machine_operation(me, output_path):
         file.write("Total score: {}/{}\n".format(me.score, me.max_score))
         file.write("used time: {}\n".format(used_time))
         me.commands.append("OK")
+    with open('scores.txt', 'a') as file:
+        file.write("{}, {}/{}\n".format(output_path, me.score, me.max_score))
