@@ -52,6 +52,7 @@ class MilitaryExercise:
         for fid in range(self.fighters_num):
             self.moved[fid] = False
         print("Score:", self.score, ", Frame:", self.frame)
+        self.commands.append("Score: {}, Frame: {}".format(self.score, self.frame))
 
     # 该指令表示战斗机的移动。第一个参数为移动的战斗机编号，第二个参数为移动方向的编号。
     # 0 1 2 3 分别表示 “上、下、左、右”。

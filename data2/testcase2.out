@@ -1,3575 +1,5608 @@
 [INFO] flue <0> <69>: 
 [INFO] missile <0> <788>: 
 INFO] attack <0> <0> <2>: 
+Score: 143, Frame: 1
 [INFO] missile <0> <2>: 
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <5>: 
+Score: 192, Frame: 2
 [INFO] flue <0> <1>: 
 [INFO] missile <0> <5>: 
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <9>: 
+Score: 271, Frame: 3
 [INFO] move <0> <2>:
+Score: 271, Frame: 4
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <1>: 
+Score: 388, Frame: 5
 [INFO] move <0> <1>:
+Score: 388, Frame: 6
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <6>: 
+Score: 458, Frame: 7
 [INFO] flue <0> <5>: 
 [INFO] missile <0> <16>: 
 [INFO] move <0> <1>:
+Score: 458, Frame: 8
 [INFO] move <0> <1>:
+Score: 458, Frame: 9
 [INFO] move <0> <1>:
 INFO] attack <0> <3> <9>: 
+Score: 610, Frame: 10
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <2>: 
+Score: 726, Frame: 11
 [INFO] move <0> <0>:
+Score: 726, Frame: 12
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <6>: 
+Score: 759, Frame: 13
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <8>: 
+Score: 874, Frame: 14
 [INFO] move <0> <0>:
 INFO] attack <0> <3> <5>: 
+Score: 891, Frame: 15
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <3>: 
+Score: 1048, Frame: 16
 [INFO] move <0> <0>:
 INFO] attack <0> <3> <10>: 
+Score: 1239, Frame: 17
 [INFO] move <0> <0>:
+Score: 1239, Frame: 18
 [INFO] move <0> <0>:
 INFO] attack <0> <3> <8>: 
+Score: 1259, Frame: 19
 [INFO] flue <0> <12>: 
 [INFO] missile <0> <51>: 
 [INFO] move <0> <0>:
+Score: 1259, Frame: 20
 [INFO] move <0> <0>:
 INFO] attack <0> <3> <4>: 
+Score: 1283, Frame: 21
 [INFO] move <0> <1>:
+Score: 1283, Frame: 22
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <3>: 
+Score: 1283, Frame: 23
 [INFO] move <0> <0>:
+Score: 1283, Frame: 24
 [INFO] move <0> <0>:
+Score: 1283, Frame: 25
 [INFO] flue <0> <6>: 
 [INFO] missile <0> <7>: 
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <8>: 
+Score: 1455, Frame: 26
 [INFO] move <0> <0>:
 INFO] attack <0> <0> <7>: 
+Score: 1585, Frame: 27
 [INFO] move <0> <0>:
+Score: 1585, Frame: 28
 [INFO] move <0> <0>:
 INFO] attack <0> <3> <5>: 
+Score: 1785, Frame: 29
 [INFO] move <0> <2>:
+Score: 1785, Frame: 30
 [INFO] flue <0> <5>: 
 [INFO] missile <0> <20>: 
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <5>: 
+Score: 1965, Frame: 31
 [INFO] flue <0> <1>: 
 [INFO] missile <0> <5>: 
 [INFO] move <0> <0>:
+Score: 1965, Frame: 32
 [INFO] flue <0> <1>: 
 [INFO] move <0> <0>:
+Score: 1965, Frame: 33
 [INFO] flue <0> <1>: 
 [INFO] move <0> <0>:
 INFO] attack <0> <0> <4>: 
+Score: 2032, Frame: 34
 INFO] attack <0> <2> <7>: 
+Score: 2169, Frame: 35
 INFO] attack <0> <3> <8>: 
+Score: 2306, Frame: 36
 [INFO] move <0> <0>:
 INFO] attack <0> <2> <7>: 
+Score: 2504, Frame: 37
 [INFO] move <0> <0>:
 INFO] attack <0> <3> <9>: 
+Score: 2699, Frame: 38
 [INFO] flue <0> <3>: 
 [INFO] missile <0> <35>: 
 [INFO] move <0> <1>:
+Score: 2699, Frame: 39
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <6>: 
+Score: 2779, Frame: 40
 [INFO] move <0> <0>:
+Score: 2779, Frame: 41
 [INFO] move <0> <0>:
+Score: 2779, Frame: 42
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <7>: 
+Score: 2899, Frame: 43
 [INFO] move <0> <0>:
 INFO] attack <0> <0> <8>: 
+Score: 2938, Frame: 44
 [INFO] move <0> <0>:
+Score: 2938, Frame: 45
 [INFO] move <0> <0>:
 INFO] attack <0> <0> <8>: 
+Score: 3124, Frame: 46
 INFO] attack <0> <2> <2>: 
+Score: 3247, Frame: 47
 INFO] attack <0> <3> <6>: 
+Score: 3257, Frame: 48
 [INFO] move <0> <0>:
 INFO] attack <0> <3> <6>: 
+Score: 3307, Frame: 49
 [INFO] move <0> <1>:
+Score: 3307, Frame: 50
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <7>: 
+Score: 3382, Frame: 51
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <2>: 
+Score: 3480, Frame: 52
 [INFO] move <0> <0>:
+Score: 3480, Frame: 53
 [INFO] move <0> <2>:
+Score: 3480, Frame: 54
 [INFO] move <0> <2>:
+Score: 3480, Frame: 55
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <5>: 
+Score: 3538, Frame: 56
 [INFO] move <0> <1>:
+Score: 3538, Frame: 57
 [INFO] move <0> <1>:
+Score: 3538, Frame: 58
 [INFO] move <0> <1>:
+Score: 3538, Frame: 59
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <9>: 
+Score: 3685, Frame: 60
 [INFO] move <0> <1>:
+Score: 3685, Frame: 61
 [INFO] move <0> <1>:
+Score: 3685, Frame: 62
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <8>: 
+Score: 3740, Frame: 63
 [INFO] move <0> <2>:
+Score: 3740, Frame: 64
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <2>: 
+Score: 3764, Frame: 65
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <7>: 
+Score: 3822, Frame: 66
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <6>: 
+Score: 4015, Frame: 67
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <5>: 
+Score: 4215, Frame: 68
 [INFO] move <0> <1>:
+Score: 4215, Frame: 69
 [INFO] flue <0> <29>: 
 [INFO] missile <0> <94>: 
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <1>: 
+Score: 4394, Frame: 70
 [INFO] move <0> <1>:
+Score: 4394, Frame: 71
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <3>: 
+Score: 4515, Frame: 72
 [INFO] move <0> <1>:
+Score: 4515, Frame: 73
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <2>: 
+Score: 4706, Frame: 74
 [INFO] move <0> <1>:
+Score: 4706, Frame: 75
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <10>: 
+Score: 4848, Frame: 76
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <1>: 
+Score: 4921, Frame: 77
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <4>: 
+Score: 4988, Frame: 78
 [INFO] move <0> <0>:
+Score: 4988, Frame: 79
 [INFO] move <0> <0>:
+Score: 4988, Frame: 80
 [INFO] move <0> <0>:
 INFO] attack <0> <0> <5>: 
+Score: 5121, Frame: 81
 [INFO] move <0> <0>:
 INFO] attack <0> <0> <9>: 
+Score: 5201, Frame: 82
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <4>: 
+Score: 5398, Frame: 83
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <4>: 
+Score: 5453, Frame: 84
 [INFO] move <0> <0>:
 INFO] attack <0> <0> <9>: 
+Score: 5468, Frame: 85
 [INFO] flue <0> <16>: 
 [INFO] missile <0> <52>: 
 [INFO] move <0> <0>:
+Score: 5468, Frame: 86
 [INFO] move <0> <0>:
 INFO] attack <0> <0> <4>: 
+Score: 5501, Frame: 87
 [INFO] flue <0> <2>: 
 [INFO] missile <0> <4>: 
 [INFO] move <0> <0>:
+Score: 5501, Frame: 88
 [INFO] move <0> <0>:
+Score: 5501, Frame: 89
 [INFO] move <0> <0>:
 INFO] attack <0> <2> <3>: 
+Score: 5694, Frame: 90
 [INFO] move <0> <0>:
+Score: 5694, Frame: 91
 [INFO] move <0> <0>:
 INFO] attack <0> <2> <8>: 
+Score: 5843, Frame: 92
 [INFO] flue <0> <5>: 
 [INFO] missile <0> <11>: 
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <3>: 
+Score: 5846, Frame: 93
 [INFO] move <0> <2>:
+Score: 5846, Frame: 94
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <10>: 
+Score: 5914, Frame: 95
 [INFO] move <0> <1>:
+Score: 5914, Frame: 96
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <3>: 
+Score: 5924, Frame: 97
 [INFO] flue <0> <5>: 
 [INFO] missile <0> <16>: 
 [INFO] move <0> <1>:
+Score: 5924, Frame: 98
 [INFO] flue <0> <1>: 
 [INFO] move <0> <1>:
+Score: 5924, Frame: 99
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <3>: 
+Score: 6054, Frame: 100
 [INFO] move <0> <2>:
+Score: 6054, Frame: 101
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <10>: 
+Score: 6228, Frame: 102
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <8>: 
+Score: 6243, Frame: 103
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <8>: 
+Score: 6308, Frame: 104
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <9>: 
+Score: 6505, Frame: 105
 [INFO] flue <0> <7>: 
 [INFO] missile <0> <38>: 
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <10>: 
+Score: 6685, Frame: 106
 [INFO] move <0> <1>:
+Score: 6685, Frame: 107
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <2>: 
+Score: 6738, Frame: 108
 INFO] attack <0> <3> <9>: 
+Score: 6899, Frame: 109
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <3>: 
+Score: 7008, Frame: 110
 [INFO] move <0> <0>:
+Score: 7008, Frame: 111
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <9>: 
+Score: 7108, Frame: 112
 [INFO] move <0> <0>:
+Score: 7108, Frame: 113
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <3>: 
+Score: 7300, Frame: 114
 [INFO] move <0> <1>:
+Score: 7300, Frame: 115
 [INFO] move <0> <1>:
+Score: 7300, Frame: 116
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <10>: 
+Score: 7492, Frame: 117
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <5>: 
+Score: 7549, Frame: 118
 INFO] attack <0> <3> <5>: 
+Score: 7570, Frame: 119
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <1>: 
+Score: 7585, Frame: 120
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <3>: 
+Score: 7753, Frame: 121
 INFO] attack <0> <3> <3>: 
+Score: 7841, Frame: 122
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <6>: 
+Score: 8040, Frame: 123
 [INFO] flue <0> <15>: 
 [INFO] missile <0> <69>: 
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <8>: 
+Score: 8195, Frame: 124
 [INFO] move <0> <0>:
+Score: 8195, Frame: 125
 [INFO] move <0> <2>:
+Score: 8195, Frame: 126
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <4>: 
+Score: 8308, Frame: 127
 [INFO] move <0> <1>:
+Score: 8308, Frame: 128
 [INFO] move <0> <1>:
+Score: 8308, Frame: 129
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <1>: 
+Score: 8365, Frame: 130
 [INFO] move <0> <1>:
+Score: 8365, Frame: 131
 [INFO] move <0> <1>:
 INFO] attack <0> <3> <8>: 
+Score: 8395, Frame: 132
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <10>: 
+Score: 8478, Frame: 133
 [INFO] move <0> <1>:
+Score: 8478, Frame: 134
 [INFO] move <0> <1>:
+Score: 8478, Frame: 135
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <5>: 
+Score: 8644, Frame: 136
 [INFO] flue <0> <13>: 
 [INFO] missile <0> <36>: 
 [INFO] move <0> <1>:
 INFO] attack <0> <3> <7>: 
+Score: 8648, Frame: 137
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <3>: 
+Score: 8790, Frame: 138
 [INFO] move <0> <1>:
 INFO] attack <0> <3> <5>: 
+Score: 8837, Frame: 139
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <8>: 
+Score: 8981, Frame: 140
 INFO] attack <0> <2> <5>: 
+Score: 9180, Frame: 141
 [INFO] move <0> <1>:
+Score: 9180, Frame: 142
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <8>: 
+Score: 9271, Frame: 143
 [INFO] move <0> <1>:
+Score: 9271, Frame: 144
 [INFO] flue <0> <7>: 
 [INFO] missile <0> <36>: 
 [INFO] move <0> <1>:
+Score: 9271, Frame: 145
 [INFO] move <0> <1>:
 INFO] attack <0> <3> <4>: 
+Score: 9348, Frame: 146
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <6>: 
+Score: 9448, Frame: 147
 [INFO] move <0> <1>:
+Score: 9448, Frame: 148
 [INFO] flue <0> <4>: 
 [INFO] missile <0> <10>: 
 [INFO] move <0> <3>:
+Score: 9448, Frame: 149
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <1>: 
+Score: 9578, Frame: 150
 [INFO] flue <0> <2>: 
 [INFO] missile <0> <1>: 
 [INFO] move <0> <1>:
+Score: 9578, Frame: 151
 [INFO] flue <0> <1>: 
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <2>: 
+Score: 9675, Frame: 152
 [INFO] move <0> <3>:
+Score: 9675, Frame: 153
 [INFO] move <0> <3>:
+Score: 9675, Frame: 154
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <9>: 
+Score: 9744, Frame: 155
 [INFO] move <0> <0>:
+Score: 9744, Frame: 156
 [INFO] move <0> <0>:
 INFO] attack <0> <0> <6>: 
+Score: 9865, Frame: 157
 [INFO] flue <0> <6>: 
 [INFO] missile <0> <17>: 
 [INFO] move <0> <0>:
+Score: 9865, Frame: 158
 [INFO] move <0> <0>:
 INFO] attack <0> <2> <9>: 
+Score: 10010, Frame: 159
 [INFO] move <0> <0>:
+Score: 10010, Frame: 160
 [INFO] move <0> <0>:
+Score: 10010, Frame: 161
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <5>: 
+Score: 10151, Frame: 162
 [INFO] flue <0> <5>: 
 [INFO] missile <0> <14>: 
 [INFO] move <0> <3>:
+Score: 10151, Frame: 163
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <1>: 
+Score: 10232, Frame: 164
 [INFO] move <0> <0>:
+Score: 10232, Frame: 165
 [INFO] move <0> <3>:
+Score: 10232, Frame: 166
 [INFO] move <0> <3>:
+Score: 10232, Frame: 167
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <2>: 
+Score: 10329, Frame: 168
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <6>: 
+Score: 10403, Frame: 169
 [INFO] move <0> <0>:
+Score: 10403, Frame: 170
 [INFO] move <0> <0>:
 INFO] attack <0> <3> <4>: 
+Score: 10483, Frame: 171
 [INFO] move <0> <0>:
+Score: 10483, Frame: 172
 [INFO] flue <0> <10>: 
 [INFO] missile <0> <13>: 
 [INFO] move <0> <0>:
 INFO] attack <0> <0> <9>: 
+Score: 10490, Frame: 173
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <6>: 
+Score: 10539, Frame: 174
 [INFO] move <0> <0>:
+Score: 10539, Frame: 175
 [INFO] flue <0> <3>: 
 [INFO] missile <0> <15>: 
 [INFO] move <0> <0>:
+Score: 10539, Frame: 176
 [INFO] flue <0> <1>: 
 [INFO] move <0> <0>:
 INFO] attack <0> <0> <4>: 
+Score: 10695, Frame: 177
 [INFO] flue <0> <1>: 
 [INFO] missile <0> <4>: 
 INFO] attack <0> <2> <5>: 
+Score: 10743, Frame: 178
 [INFO] missile <0> <5>: 
 [INFO] move <0> <0>:
 INFO] attack <0> <0> <8>: 
+Score: 10774, Frame: 179
 [INFO] move <0> <0>:
+Score: 10774, Frame: 180
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <7>: 
+Score: 10962, Frame: 181
 [INFO] move <0> <1>:
+Score: 10962, Frame: 182
 [INFO] move <0> <1>:
+Score: 10962, Frame: 183
 [INFO] move <0> <2>:
+Score: 10962, Frame: 184
 [INFO] flue <0> <6>: 
 [INFO] missile <0> <15>: 
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <2>: 
+Score: 11047, Frame: 185
 [INFO] flue <0> <1>: 
 [INFO] missile <0> <2>: 
 [INFO] move <0> <1>:
+Score: 11047, Frame: 186
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <5>: 
+Score: 11246, Frame: 187
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <7>: 
+Score: 11438, Frame: 188
 [INFO] move <0> <2>:
+Score: 11438, Frame: 189
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <5>: 
+Score: 11478, Frame: 190
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <8>: 
+Score: 11596, Frame: 191
 [INFO] move <0> <0>:
+Score: 11596, Frame: 192
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <7>: 
+Score: 11605, Frame: 193
 [INFO] move <0> <0>:
+Score: 11605, Frame: 194
 [INFO] move <0> <0>:
 INFO] attack <0> <2> <8>: 
+Score: 11698, Frame: 195
 [INFO] move <0> <0>:
+Score: 11698, Frame: 196
 [INFO] move <0> <0>:
+Score: 11698, Frame: 197
 [INFO] move <0> <0>:
 INFO] attack <0> <2> <1>: 
+Score: 11778, Frame: 198
 [INFO] flue <0> <13>: 
 [INFO] missile <0> <41>: 
 INFO] attack <0> <3> <3>: 
+Score: 11858, Frame: 199
 [INFO] missile <0> <3>: 
 [INFO] move <0> <0>:
 INFO] attack <0> <0> <6>: 
+Score: 11861, Frame: 200
 [INFO] move <0> <0>:
+Score: 11861, Frame: 201
 [INFO] move <0> <0>:
 INFO] attack <0> <0> <3>: 
+Score: 11885, Frame: 202
 [INFO] move <0> <0>:
 INFO] attack <0> <3> <5>: 
+Score: 11919, Frame: 203
 [INFO] move <0> <0>:
 INFO] attack <0> <0> <6>: 
+Score: 11958, Frame: 204
 [INFO] move <0> <0>:
+Score: 11958, Frame: 205
 [INFO] move <0> <0>:
 INFO] attack <0> <0> <7>: 
+Score: 12029, Frame: 206
 [INFO] flue <0> <7>: 
 [INFO] missile <0> <27>: 
 [INFO] move <0> <0>:
+Score: 12029, Frame: 207
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <8>: 
+Score: 12113, Frame: 208
 [INFO] move <0> <1>:
+Score: 12113, Frame: 209
 [INFO] move <0> <1>:
+Score: 12113, Frame: 210
 [INFO] flue <0> <4>: 
 [INFO] missile <0> <8>: 
 [INFO] move <0> <1>:
+Score: 12113, Frame: 211
 [INFO] flue <0> <1>: 
 [INFO] move <0> <1>:
+Score: 12113, Frame: 212
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <4>: 
+Score: 12258, Frame: 213
 [INFO] move <0> <1>:
+Score: 12258, Frame: 214
 [INFO] move <0> <3>:
+Score: 12258, Frame: 215
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <6>: 
+Score: 12260, Frame: 216
 [INFO] flue <0> <5>: 
 [INFO] missile <0> <10>: 
 [INFO] move <0> <2>:
+Score: 12260, Frame: 217
 [INFO] move <0> <2>:
+Score: 12260, Frame: 218
 [INFO] move <0> <2>:
+Score: 12260, Frame: 219
 [INFO] move <0> <2>:
+Score: 12260, Frame: 220
 [INFO] move <0> <2>:
+Score: 12260, Frame: 221
 [INFO] move <0> <2>:
+Score: 12260, Frame: 222
 [INFO] move <0> <2>:
+Score: 12260, Frame: 223
 [INFO] move <0> <2>:
+Score: 12260, Frame: 224
 [INFO] move <0> <2>:
+Score: 12260, Frame: 225
 [INFO] move <0> <2>:
+Score: 12260, Frame: 226
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <3>: 
+Score: 12275, Frame: 227
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <8>: 
+Score: 12306, Frame: 228
 [INFO] move <0> <1>:
+Score: 12306, Frame: 229
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <2>: 
+Score: 12491, Frame: 230
 [INFO] move <0> <0>:
+Score: 12491, Frame: 231
 [INFO] move <0> <0>:
+Score: 12491, Frame: 232
 [INFO] move <0> <0>:
+Score: 12491, Frame: 233
 [INFO] move <0> <0>:
+Score: 12491, Frame: 234
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <5>: 
+Score: 12541, Frame: 235
 [INFO] move <0> <0>:
+Score: 12541, Frame: 236
 [INFO] flue <0> <20>: 
 [INFO] missile <0> <18>: 
 [INFO] move <0> <0>:
+Score: 12541, Frame: 237
 [INFO] flue <0> <1>: 
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <5>: 
+Score: 12673, Frame: 238
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <4>: 
+Score: 12829, Frame: 239
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <5>: 
+Score: 12910, Frame: 240
 [INFO] move <0> <0>:
+Score: 12910, Frame: 241
 [INFO] move <0> <0>:
 INFO] attack <0> <0> <2>: 
+Score: 13049, Frame: 242
 [INFO] move <0> <0>:
 INFO] attack <0> <0> <10>: 
+Score: 13154, Frame: 243
 INFO] attack <0> <2> <10>: 
+Score: 13314, Frame: 244
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <2>: 
+Score: 13341, Frame: 245
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <1>: 
+Score: 13538, Frame: 246
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <8>: 
+Score: 13650, Frame: 247
 [INFO] move <0> <1>:
+Score: 13650, Frame: 248
 [INFO] move <0> <1>:
+Score: 13650, Frame: 249
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <10>: 
+Score: 13703, Frame: 250
 [INFO] move <0> <1>:
 INFO] attack <0> <3> <10>: 
+Score: 13842, Frame: 251
 [INFO] move <0> <0>:
+Score: 13842, Frame: 252
 [INFO] move <0> <0>:
+Score: 13842, Frame: 253
 [INFO] move <0> <0>:
+Score: 13842, Frame: 254
 [INFO] move <0> <0>:
+Score: 13842, Frame: 255
 [INFO] flue <0> <17>: 
 [INFO] missile <0> <67>: 
 [INFO] move <0> <0>:
+Score: 13842, Frame: 256
 [INFO] move <0> <0>:
+Score: 13842, Frame: 257
 [INFO] move <0> <0>:
 INFO] attack <0> <0> <6>: 
+Score: 14007, Frame: 258
 INFO] attack <0> <3> <6>: 
+Score: 14115, Frame: 259
 [INFO] move <0> <3>:
+Score: 14115, Frame: 260
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <8>: 
+Score: 14152, Frame: 261
 [INFO] move <0> <0>:
+Score: 14152, Frame: 262
 [INFO] move <0> <0>:
+Score: 14152, Frame: 263
 [INFO] move <0> <0>:
 INFO] attack <0> <2> <9>: 
+Score: 14202, Frame: 264
 INFO] attack <0> <3> <5>: 
+Score: 14286, Frame: 265
 [INFO] move <0> <0>:
+Score: 14286, Frame: 266
 [INFO] move <0> <0>:
 INFO] attack <0> <2> <10>: 
+Score: 14399, Frame: 267
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <1>: 
+Score: 14427, Frame: 268
 [INFO] move <0> <1>:
+Score: 14427, Frame: 269
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <5>: 
+Score: 14493, Frame: 270
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <2>: 
+Score: 14591, Frame: 271
 [INFO] move <0> <1>:
+Score: 14591, Frame: 272
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <7>: 
+Score: 14619, Frame: 273
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <8>: 
+Score: 14642, Frame: 274
 [INFO] move <0> <1>:
+Score: 14642, Frame: 275
 [INFO] move <0> <1>:
+Score: 14642, Frame: 276
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <3>: 
+Score: 14685, Frame: 277
 [INFO] move <0> <0>:
+Score: 14685, Frame: 278
 [INFO] move <0> <2>:
+Score: 14685, Frame: 279
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <9>: 
+Score: 14883, Frame: 280
 [INFO] move <0> <0>:
 INFO] attack <0> <2> <6>: 
+Score: 14930, Frame: 281
 [INFO] move <0> <1>:
+Score: 14930, Frame: 282
 [INFO] move <0> <1>:
+Score: 14930, Frame: 283
 [INFO] flue <0> <26>: 
 [INFO] missile <0> <85>: 
 [INFO] move <0> <1>:
+Score: 14930, Frame: 284
 [INFO] flue <0> <1>: 
 [INFO] move <0> <1>:
+Score: 14930, Frame: 285
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <4>: 
+Score: 14980, Frame: 286
 [INFO] move <0> <2>:
+Score: 14980, Frame: 287
 [INFO] move <0> <2>:
+Score: 14980, Frame: 288
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <10>: 
+Score: 15173, Frame: 289
 [INFO] move <0> <1>:
+Score: 15173, Frame: 290
 [INFO] flue <0> <6>: 
 [INFO] missile <0> <14>: 
 [INFO] move <0> <1>:
+Score: 15173, Frame: 291
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <1>: 
+Score: 15223, Frame: 292
 [INFO] move <0> <0>:
+Score: 15223, Frame: 293
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <3>: 
+Score: 15375, Frame: 294
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <10>: 
+Score: 15442, Frame: 295
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <5>: 
+Score: 15475, Frame: 296
 [INFO] flue <0> <6>: 
 [INFO] missile <0> <19>: 
 [INFO] move <0> <1>:
+Score: 15475, Frame: 297
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <8>: 
+Score: 15512, Frame: 298
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <9>: 
+Score: 15605, Frame: 299
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <7>: 
+Score: 15711, Frame: 300
 [INFO] flue <0> <4>: 
 [INFO] missile <0> <24>: 
 [INFO] move <0> <1>:
+Score: 15711, Frame: 301
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <5>: 
+Score: 15842, Frame: 302
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <6>: 
+Score: 16006, Frame: 303
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <5>: 
+Score: 16134, Frame: 304
 [INFO] move <0> <1>:
+Score: 16134, Frame: 305
 [INFO] move <0> <1>:
+Score: 16134, Frame: 306
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <8>: 
+Score: 16284, Frame: 307
 [INFO] move <0> <1>:
+Score: 16284, Frame: 308
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <8>: 
+Score: 16436, Frame: 309
 [INFO] move <0> <3>:
+Score: 16436, Frame: 310
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <4>: 
+Score: 16551, Frame: 311
 [INFO] move <0> <0>:
 INFO] attack <0> <0> <5>: 
+Score: 16652, Frame: 312
 [INFO] flue <0> <12>: 
 [INFO] missile <0> <41>: 
 [INFO] move <0> <0>:
+Score: 16652, Frame: 313
 [INFO] move <0> <0>:
+Score: 16652, Frame: 314
 [INFO] move <0> <3>:
+Score: 16652, Frame: 315
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <2>: 
+Score: 16823, Frame: 316
 [INFO] flue <0> <4>: 
 [INFO] missile <0> <2>: 
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <8>: 
+Score: 16922, Frame: 317
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <10>: 
+Score: 16963, Frame: 318
 [INFO] move <0> <0>:
 INFO] attack <0> <0> <10>: 
+Score: 16974, Frame: 319
 [INFO] move <0> <0>:
+Score: 16974, Frame: 320
 [INFO] move <0> <0>:
 INFO] attack <0> <2> <2>: 
+Score: 17116, Frame: 321
 [INFO] move <0> <1>:
+Score: 17116, Frame: 322
 [INFO] move <0> <1>:
+Score: 17116, Frame: 323
 [INFO] move <0> <1>:
+Score: 17116, Frame: 324
 [INFO] move <0> <1>:
+Score: 17116, Frame: 325
 [INFO] move <0> <1>:
+Score: 17116, Frame: 326
 [INFO] move <0> <1>:
 INFO] attack <0> <3> <1>: 
+Score: 17145, Frame: 327
 [INFO] flue <0> <11>: 
 [INFO] missile <0> <31>: 
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <7>: 
+Score: 17185, Frame: 328
 [INFO] flue <0> <1>: 
 [INFO] missile <0> <7>: 
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <2>: 
+Score: 17373, Frame: 329
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <10>: 
+Score: 17396, Frame: 330
 [INFO] move <0> <0>:
+Score: 17396, Frame: 331
 [INFO] move <0> <3>:
+Score: 17396, Frame: 332
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <10>: 
+Score: 17594, Frame: 333
 [INFO] move <0> <1>:
+Score: 17594, Frame: 334
 [INFO] move <0> <1>:
+Score: 17594, Frame: 335
 [INFO] move <0> <1>:
+Score: 17594, Frame: 336
 [INFO] flue <0> <8>: 
 [INFO] missile <0> <22>: 
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <8>: 
+Score: 17692, Frame: 337
 INFO] attack <0> <3> <10>: 
+Score: 17709, Frame: 338
 [INFO] move <0> <1>:
+Score: 17709, Frame: 339
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <5>: 
+Score: 17779, Frame: 340
 INFO] attack <0> <2> <5>: 
+Score: 17900, Frame: 341
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <8>: 
+Score: 17979, Frame: 342
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <5>: 
+Score: 18098, Frame: 343
 [INFO] flue <0> <5>: 
 [INFO] missile <0> <41>: 
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <4>: 
+Score: 18221, Frame: 344
 [INFO] move <0> <0>:
 INFO] attack <0> <2> <8>: 
+Score: 18299, Frame: 345
 [INFO] move <0> <0>:
+Score: 18299, Frame: 346
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <1>: 
+Score: 18312, Frame: 347
 [INFO] flue <0> <4>: 
 [INFO] missile <0> <13>: 
 [INFO] move <0> <1>:
+Score: 18312, Frame: 348
 [INFO] move <0> <1>:
+Score: 18312, Frame: 349
 [INFO] move <0> <2>:
+Score: 18312, Frame: 350
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <3>: 
+Score: 18498, Frame: 351
 [INFO] move <0> <0>:
+Score: 18498, Frame: 352
 [INFO] flue <0> <5>: 
 [INFO] missile <0> <3>: 
 [INFO] move <0> <0>:
+Score: 18498, Frame: 353
 [INFO] move <0> <2>:
+Score: 18498, Frame: 354
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <9>: 
+Score: 18571, Frame: 355
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <4>: 
+Score: 18727, Frame: 356
 [INFO] move <0> <0>:
 INFO] attack <0> <0> <6>: 
+Score: 18828, Frame: 357
 [INFO] move <0> <2>:
+Score: 18828, Frame: 358
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <6>: 
+Score: 18835, Frame: 359
 [INFO] flue <0> <7>: 
 [INFO] missile <0> <25>: 
 [INFO] move <0> <0>:
+Score: 18835, Frame: 360
 [INFO] move <0> <0>:
 INFO] attack <0> <2> <3>: 
+Score: 18873, Frame: 361
 [INFO] flue <0> <2>: 
 [INFO] missile <0> <3>: 
 [INFO] move <0> <0>:
+Score: 18873, Frame: 362
 [INFO] move <0> <2>:
+Score: 18873, Frame: 363
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <1>: 
+Score: 18985, Frame: 364
 [INFO] flue <0> <3>: 
 [INFO] missile <0> <1>: 
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <8>: 
+Score: 19109, Frame: 365
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <2>: 
+Score: 19222, Frame: 366
 [INFO] move <0> <1>:
+Score: 19222, Frame: 367
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <6>: 
+Score: 19280, Frame: 368
 [INFO] move <0> <1>:
+Score: 19280, Frame: 369
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <9>: 
+Score: 19347, Frame: 370
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <3>: 
+Score: 19490, Frame: 371
 [INFO] move <0> <1>:
+Score: 19490, Frame: 372
 [INFO] flue <0> <8>: 
 [INFO] missile <0> <28>: 
 [INFO] move <0> <1>:
+Score: 19490, Frame: 373
 [INFO] flue <0> <1>: 
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <7>: 
+Score: 19561, Frame: 374
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <9>: 
+Score: 19635, Frame: 375
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <4>: 
+Score: 19792, Frame: 376
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <4>: 
+Score: 19878, Frame: 377
 [INFO] move <0> <0>:
+Score: 19878, Frame: 378
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <4>: 
+Score: 20061, Frame: 379
 [INFO] move <0> <0>:
 INFO] attack <0> <2> <8>: 
+Score: 20196, Frame: 380
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <7>: 
+Score: 20300, Frame: 381
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <9>: 
+Score: 20439, Frame: 382
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <9>: 
+Score: 20451, Frame: 383
 [INFO] move <0> <2>:
+Score: 20451, Frame: 384
 [INFO] flue <0> <11>: 
 [INFO] missile <0> <61>: 
 [INFO] move <0> <2>:
+Score: 20451, Frame: 385
 [INFO] move <0> <2>:
+Score: 20451, Frame: 386
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <6>: 
+Score: 20642, Frame: 387
 [INFO] move <0> <0>:
 INFO] attack <0> <2> <5>: 
+Score: 20689, Frame: 388
 [INFO] flue <0> <4>: 
 [INFO] missile <0> <11>: 
 [INFO] move <0> <0>:
+Score: 20689, Frame: 389
 [INFO] flue <0> <1>: 
 [INFO] move <0> <0>:
 INFO] attack <0> <2> <4>: 
+Score: 20734, Frame: 390
 [INFO] move <0> <0>:
 INFO] attack <0> <0> <6>: 
+Score: 20868, Frame: 391
 [INFO] flue <0> <2>: 
 [INFO] missile <0> <10>: 
 INFO] attack <0> <2> <1>: 
+Score: 20921, Frame: 392
 [INFO] missile <0> <1>: 
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <1>: 
+Score: 21024, Frame: 393
 [INFO] move <0> <0>:
 INFO] attack <0> <0> <2>: 
+Score: 21046, Frame: 394
 [INFO] flue <0> <2>: 
 [INFO] missile <0> <3>: 
 [INFO] move <0> <0>:
 INFO] attack <0> <0> <10>: 
+Score: 21142, Frame: 395
 INFO] attack <0> <2> <4>: 
+Score: 21158, Frame: 396
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <6>: 
+Score: 21339, Frame: 397
 [INFO] move <0> <0>:
 INFO] attack <0> <0> <3>: 
+Score: 21375, Frame: 398
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <3>: 
+Score: 21522, Frame: 399
 [INFO] move <0> <0>:
+Score: 21522, Frame: 400
 [INFO] move <0> <0>:
+Score: 21522, Frame: 401
 [INFO] move <0> <0>:
 INFO] attack <0> <2> <6>: 
+Score: 21698, Frame: 402
 [INFO] flue <0> <7>: 
 [INFO] missile <0> <32>: 
 [INFO] move <0> <0>:
 INFO] attack <0> <2> <4>: 
+Score: 21752, Frame: 403
 [INFO] move <0> <0>:
 INFO] attack <0> <3> <5>: 
+Score: 21752, Frame: 404
 [INFO] move <0> <0>:
 INFO] attack <0> <2> <6>: 
+Score: 21824, Frame: 405
 [INFO] move <0> <0>:
 INFO] attack <0> <0> <8>: 
+Score: 21951, Frame: 406
 [INFO] move <0> <0>:
 INFO] attack <0> <2> <10>: 
+Score: 22085, Frame: 407
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <6>: 
+Score: 22262, Frame: 408
 [INFO] move <0> <0>:
+Score: 22262, Frame: 409
 [INFO] move <0> <0>:
+Score: 22262, Frame: 410
 [INFO] move <0> <0>:
+Score: 22262, Frame: 411
 [INFO] move <0> <0>:
 INFO] attack <0> <2> <9>: 
+Score: 22303, Frame: 412
 [INFO] move <0> <0>:
 INFO] attack <0> <2> <8>: 
+Score: 22412, Frame: 413
 [INFO] move <0> <3>:
+Score: 22412, Frame: 414
 [INFO] flue <0> <12>: 
 [INFO] missile <0> <32>: 
 [INFO] move <0> <3>:
+Score: 22412, Frame: 415
 [INFO] flue <0> <1>: 
 [INFO] missile <0> <24>: 
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <7>: 
+Score: 22553, Frame: 416
 [INFO] move <0> <0>:
 INFO] attack <0> <3> <2>: 
+Score: 22688, Frame: 417
 [INFO] move <0> <1>:
+Score: 22688, Frame: 418
 [INFO] move <0> <1>:
+Score: 22688, Frame: 419
 [INFO] flue <0> <4>: 
 [INFO] missile <0> <9>: 
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <10>: 
+Score: 22764, Frame: 420
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <2>: 
+Score: 22771, Frame: 421
 [INFO] move <0> <1>:
+Score: 22771, Frame: 422
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <2>: 
+Score: 22844, Frame: 423
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <4>: 
+Score: 22908, Frame: 424
 [INFO] move <0> <0>:
 INFO] attack <0> <3> <1>: 
+Score: 22948, Frame: 425
 [INFO] move <0> <0>:
+Score: 22948, Frame: 426
 [INFO] move <0> <0>:
+Score: 22948, Frame: 427
 [INFO] move <0> <0>:
+Score: 22948, Frame: 428
 [INFO] flue <0> <9>: 
 [INFO] missile <0> <19>: 
 [INFO] move <0> <0>:
 INFO] attack <0> <0> <2>: 
+Score: 23031, Frame: 429
 [INFO] move <0> <0>:
+Score: 23031, Frame: 430
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <3>: 
+Score: 23180, Frame: 431
 [INFO] move <0> <0>:
+Score: 23180, Frame: 432
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <3>: 
+Score: 23187, Frame: 433
 [INFO] move <0> <1>:
+Score: 23187, Frame: 434
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <4>: 
+Score: 23236, Frame: 435
 [INFO] move <0> <0>:
+Score: 23236, Frame: 436
 [INFO] move <0> <0>:
+Score: 23236, Frame: 437
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <9>: 
+Score: 23322, Frame: 438
 [INFO] move <0> <0>:
 INFO] attack <0> <3> <7>: 
+Score: 23497, Frame: 439
 [INFO] move <0> <0>:
 INFO] attack <0> <3> <10>: 
+Score: 23513, Frame: 440
 [INFO] move <0> <0>:
+Score: 23513, Frame: 441
 [INFO] move <0> <0>:
+Score: 23513, Frame: 442
 [INFO] flue <0> <14>: 
 [INFO] missile <0> <38>: 
 [INFO] move <0> <0>:
 INFO] attack <0> <3> <8>: 
+Score: 23639, Frame: 443
 [INFO] flue <0> <1>: 
 [INFO] missile <0> <8>: 
 [INFO] move <0> <0>:
+Score: 23639, Frame: 444
 [INFO] flue <0> <1>: 
 [INFO] move <0> <0>:
 INFO] attack <0> <2> <9>: 
+Score: 23810, Frame: 445
 [INFO] move <0> <0>:
 INFO] attack <0> <0> <7>: 
+Score: 23833, Frame: 446
 [INFO] move <0> <0>:
 INFO] attack <0> <3> <2>: 
+Score: 24007, Frame: 447
 [INFO] move <0> <1>:
+Score: 24007, Frame: 448
 [INFO] move <0> <3>:
+Score: 24007, Frame: 449
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <9>: 
+Score: 24170, Frame: 450
 [INFO] flue <0> <6>: 
 [INFO] missile <0> <27>: 
 [INFO] move <0> <3>:
+Score: 24170, Frame: 451
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <1>: 
+Score: 24328, Frame: 452
 [INFO] move <0> <1>:
+Score: 24328, Frame: 453
 [INFO] move <0> <1>:
+Score: 24328, Frame: 454
 [INFO] flue <0> <4>: 
 [INFO] missile <0> <1>: 
 [INFO] move <0> <1>:
+Score: 24328, Frame: 455
 [INFO] move <0> <1>:
+Score: 24328, Frame: 456
 [INFO] move <0> <1>:
+Score: 24328, Frame: 457
 [INFO] move <0> <1>:
+Score: 24328, Frame: 458
 [INFO] move <0> <1>:
+Score: 24328, Frame: 459
 [INFO] move <0> <1>:
+Score: 24328, Frame: 460
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <4>: 
+Score: 24496, Frame: 461
 [INFO] move <0> <0>:
+Score: 24496, Frame: 462
 [INFO] flue <0> <8>: 
 [INFO] missile <0> <4>: 
 [INFO] move <0> <0>:
+Score: 24496, Frame: 463
 [INFO] flue <0> <1>: 
 [INFO] move <0> <0>:
+Score: 24496, Frame: 464
 [INFO] move <0> <2>:
+Score: 24496, Frame: 465
 [INFO] move <0> <2>:
+Score: 24496, Frame: 466
 [INFO] move <0> <2>:
+Score: 24496, Frame: 467
 [INFO] move <0> <2>:
+Score: 24496, Frame: 468
 [INFO] move <0> <2>:
+Score: 24496, Frame: 469
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <7>: 
+Score: 24508, Frame: 470
 [INFO] flue <0> <7>: 
 [INFO] missile <0> <7>: 
 [INFO] move <0> <0>:
 INFO] attack <0> <0> <10>: 
+Score: 24685, Frame: 471
 [INFO] flue <0> <1>: 
 [INFO] missile <0> <10>: 
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <3>: 
+Score: 24850, Frame: 472
 [INFO] flue <0> <1>: 
 [INFO] missile <0> <3>: 
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <9>: 
+Score: 24983, Frame: 473
 [INFO] move <0> <1>:
+Score: 24983, Frame: 474
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <4>: 
+Score: 25136, Frame: 475
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <7>: 
+Score: 25145, Frame: 476
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <6>: 
+Score: 25173, Frame: 477
 [INFO] move <0> <0>:
+Score: 25173, Frame: 478
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <9>: 
+Score: 25252, Frame: 479
 [INFO] move <0> <1>:
+Score: 25252, Frame: 480
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <5>: 
+Score: 25266, Frame: 481
 [INFO] flue <0> <9>: 
 [INFO] missile <0> <40>: 
 [INFO] move <0> <0>:
+Score: 25266, Frame: 482
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <5>: 
+Score: 25398, Frame: 483
 [INFO] flue <0> <2>: 
 [INFO] missile <0> <5>: 
 [INFO] move <0> <0>:
+Score: 25398, Frame: 484
 [INFO] move <0> <2>:
+Score: 25398, Frame: 485
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <9>: 
+Score: 25547, Frame: 486
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <6>: 
+Score: 25632, Frame: 487
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <1>: 
+Score: 25640, Frame: 488
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <1>: 
+Score: 25643, Frame: 489
 [INFO] move <0> <1>:
 INFO] attack <0> <3> <9>: 
+Score: 25741, Frame: 490
 [INFO] move <0> <0>:
+Score: 25741, Frame: 491
 [INFO] move <0> <2>:
+Score: 25741, Frame: 492
 [INFO] move <0> <2>:
+Score: 25741, Frame: 493
 [INFO] flue <0> <10>: 
 [INFO] missile <0> <26>: 
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <9>: 
+Score: 25913, Frame: 494
 [INFO] move <0> <0>:
 INFO] attack <0> <2> <6>: 
+Score: 26003, Frame: 495
 [INFO] flue <0> <2>: 
 [INFO] missile <0> <15>: 
 [INFO] move <0> <0>:
+Score: 26003, Frame: 496
 [INFO] flue <0> <1>: 
 [INFO] move <0> <0>:
 INFO] attack <0> <3> <7>: 
+Score: 26007, Frame: 497
 [INFO] move <0> <0>:
 INFO] attack <0> <2> <5>: 
+Score: 26034, Frame: 498
 [INFO] flue <0> <2>: 
 [INFO] missile <0> <12>: 
 [INFO] move <0> <0>:
 INFO] attack <0> <2> <8>: 
+Score: 26160, Frame: 499
 [INFO] flue <0> <1>: 
 [INFO] missile <0> <8>: 
 [INFO] move <0> <0>:
 INFO] attack <0> <2> <7>: 
+Score: 26205, Frame: 500
 [INFO] move <0> <0>:
+Score: 26205, Frame: 501
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <6>: 
+Score: 26245, Frame: 502
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <2>: 
+Score: 26357, Frame: 503
 [INFO] move <0> <0>:
+Score: 26357, Frame: 504
 [INFO] move <0> <3>:
+Score: 26357, Frame: 505
 [INFO] move <0> <3>:
+Score: 26357, Frame: 506
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <3>: 
+Score: 26449, Frame: 507
 [INFO] move <0> <1>:
+Score: 26449, Frame: 508
 [INFO] flue <0> <9>: 
 [INFO] missile <0> <18>: 
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <4>: 
+Score: 26638, Frame: 509
 [INFO] move <0> <1>:
+Score: 26638, Frame: 510
 [INFO] flue <0> <2>: 
 [INFO] missile <0> <4>: 
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <5>: 
+Score: 26666, Frame: 511
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <3>: 
+Score: 26807, Frame: 512
 [INFO] move <0> <0>:
+Score: 26807, Frame: 513
 [INFO] move <0> <0>:
 INFO] attack <0> <3> <5>: 
+Score: 26892, Frame: 514
 [INFO] move <0> <1>:
+Score: 26892, Frame: 515
 [INFO] move <0> <2>:
+Score: 26892, Frame: 516
 [INFO] move <0> <2>:
+Score: 26892, Frame: 517
 [INFO] move <0> <2>:
+Score: 26892, Frame: 518
 [INFO] flue <0> <8>: 
 [INFO] missile <0> <13>: 
 [INFO] move <0> <2>:
+Score: 26892, Frame: 519
 [INFO] flue <0> <1>: 
 [INFO] move <0> <2>:
+Score: 26892, Frame: 520
 [INFO] move <0> <2>:
+Score: 26892, Frame: 521
 [INFO] move <0> <2>:
+Score: 26892, Frame: 522
 [INFO] move <0> <2>:
+Score: 26892, Frame: 523
 [INFO] move <0> <2>:
+Score: 26892, Frame: 524
 [INFO] flue <0> <5>: 
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <10>: 
+Score: 26973, Frame: 525
 [INFO] flue <0> <1>: 
 [INFO] missile <0> <10>: 
 [INFO] move <0> <1>:
+Score: 26973, Frame: 526
 [INFO] move <0> <2>:
+Score: 26973, Frame: 527
 [INFO] flue <0> <2>: 
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <6>: 
+Score: 27097, Frame: 528
 [INFO] flue <0> <1>: 
 [INFO] missile <0> <6>: 
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <10>: 
+Score: 27167, Frame: 529
 [INFO] flue <0> <1>: 
 [INFO] missile <0> <10>: 
 [INFO] move <0> <0>:
+Score: 27167, Frame: 530
 [INFO] flue <0> <1>: 
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <10>: 
+Score: 27304, Frame: 531
 [INFO] move <0> <2>:
+Score: 27304, Frame: 532
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <10>: 
+Score: 27479, Frame: 533
 [INFO] move <0> <0>:
+Score: 27479, Frame: 534
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <6>: 
+Score: 27590, Frame: 535
 [INFO] move <0> <0>:
+Score: 27590, Frame: 536
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <3>: 
+Score: 27652, Frame: 537
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <5>: 
+Score: 27686, Frame: 538
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <8>: 
+Score: 27817, Frame: 539
 INFO] attack <0> <2> <5>: 
+Score: 27956, Frame: 540
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <7>: 
+Score: 28134, Frame: 541
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <10>: 
+Score: 28217, Frame: 542
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <1>: 
+Score: 28364, Frame: 543
 [INFO] flue <0> <12>: 
 [INFO] missile <0> <65>: 
 INFO] attack <0> <3> <9>: 
+Score: 28536, Frame: 544
 [INFO] missile <0> <9>: 
 [INFO] move <0> <1>:
 INFO] attack <0> <3> <5>: 
+Score: 28575, Frame: 545
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <1>: 
+Score: 28684, Frame: 546
 [INFO] move <0> <1>:
+Score: 28684, Frame: 547
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <7>: 
+Score: 28832, Frame: 548
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <5>: 
+Score: 28918, Frame: 549
 INFO] attack <0> <2> <6>: 
+Score: 28967, Frame: 550
 [INFO] move <0> <1>:
 INFO] attack <0> <3> <7>: 
+Score: 29000, Frame: 551
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <1>: 
+Score: 29002, Frame: 552
 [INFO] flue <0> <7>: 
 [INFO] missile <0> <32>: 
 [INFO] move <0> <0>:
+Score: 29002, Frame: 553
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <3>: 
+Score: 29107, Frame: 554
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <10>: 
+Score: 29275, Frame: 555
 [INFO] move <0> <0>:
 INFO] attack <0> <2> <6>: 
+Score: 29316, Frame: 556
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <9>: 
+Score: 29387, Frame: 557
 [INFO] move <0> <0>:
+Score: 29387, Frame: 558
 [INFO] move <0> <0>:
 INFO] attack <0> <2> <5>: 
+Score: 29559, Frame: 559
 [INFO] move <0> <0>:
+Score: 29559, Frame: 560
 [INFO] move <0> <0>:
+Score: 29559, Frame: 561
 [INFO] move <0> <0>:
 INFO] attack <0> <2> <3>: 
+Score: 29722, Frame: 562
 [INFO] move <0> <0>:
 INFO] attack <0> <3> <1>: 
+Score: 29827, Frame: 563
 [INFO] move <0> <0>:
+Score: 29827, Frame: 564
 [INFO] flue <0> <12>: 
 [INFO] missile <0> <37>: 
 [INFO] move <0> <2>:
+Score: 29827, Frame: 565
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <9>: 
+Score: 30015, Frame: 566
 [INFO] flue <0> <2>: 
 [INFO] missile <0> <9>: 
 [INFO] move <0> <2>:
+Score: 30015, Frame: 567
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <4>: 
+Score: 30048, Frame: 568
 [INFO] flue <0> <2>: 
 [INFO] missile <0> <4>: 
 [INFO] move <0> <0>:
+Score: 30048, Frame: 569
 [INFO] move <0> <0>:
+Score: 30048, Frame: 570
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <3>: 
+Score: 30111, Frame: 571
 [INFO] move <0> <1>:
+Score: 30111, Frame: 572
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <10>: 
+Score: 30214, Frame: 573
 [INFO] flue <0> <5>: 
 [INFO] missile <0> <13>: 
 [INFO] move <0> <0>:
+Score: 30214, Frame: 574
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <1>: 
+Score: 30383, Frame: 575
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <10>: 
+Score: 30555, Frame: 576
 [INFO] move <0> <1>:
+Score: 30555, Frame: 577
 [INFO] move <0> <1>:
+Score: 30555, Frame: 578
 [INFO] flue <0> <5>: 
 [INFO] missile <0> <11>: 
 [INFO] move <0> <1>:
+Score: 30555, Frame: 579
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <7>: 
+Score: 30720, Frame: 580
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <1>: 
+Score: 30798, Frame: 581
 [INFO] move <0> <0>:
 INFO] attack <0> <2> <8>: 
+Score: 30822, Frame: 582
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <7>: 
+Score: 30871, Frame: 583
 [INFO] move <0> <1>:
+Score: 30871, Frame: 584
 [INFO] move <0> <1>:
+Score: 30871, Frame: 585
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <1>: 
+Score: 30928, Frame: 586
 [INFO] move <0> <1>:
+Score: 30928, Frame: 587
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <6>: 
+Score: 31094, Frame: 588
 [INFO] move <0> <0>:
+Score: 31094, Frame: 589
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <10>: 
+Score: 31282, Frame: 590
 [INFO] flue <0> <12>: 
 [INFO] missile <0> <40>: 
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <5>: 
+Score: 31289, Frame: 591
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <2>: 
+Score: 31333, Frame: 592
 [INFO] move <0> <1>:
+Score: 31333, Frame: 593
 [INFO] flue <0> <3>: 
 [INFO] missile <0> <7>: 
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <4>: 
+Score: 31415, Frame: 594
 [INFO] move <0> <1>:
+Score: 31415, Frame: 595
 [INFO] flue <0> <2>: 
 [INFO] missile <0> <4>: 
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <5>: 
+Score: 31431, Frame: 596
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <7>: 
+Score: 31545, Frame: 597
 INFO] attack <0> <3> <9>: 
+Score: 31695, Frame: 598
 [INFO] move <0> <1>:
+Score: 31695, Frame: 599
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <10>: 
+Score: 31786, Frame: 600
 INFO] attack <0> <2> <2>: 
+Score: 31810, Frame: 601
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <9>: 
+Score: 31937, Frame: 602
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <8>: 
+Score: 32133, Frame: 603
 INFO] attack <0> <3> <9>: 
+Score: 32268, Frame: 604
 [INFO] move <0> <1>:
+Score: 32268, Frame: 605
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <6>: 
+Score: 32270, Frame: 606
 [INFO] move <0> <0>:
+Score: 32270, Frame: 607
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <9>: 
+Score: 32290, Frame: 608
 [INFO] flue <0> <10>: 
 [INFO] missile <0> <74>: 
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <8>: 
+Score: 32331, Frame: 609
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <5>: 
+Score: 32413, Frame: 610
 [INFO] move <0> <1>:
+Score: 32413, Frame: 611
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <2>: 
+Score: 32482, Frame: 612
 [INFO] move <0> <1>:
+Score: 32482, Frame: 613
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <1>: 
+Score: 32559, Frame: 614
 INFO] attack <0> <2> <3>: 
+Score: 32695, Frame: 615
 [INFO] move <0> <0>:
+Score: 32695, Frame: 616
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <2>: 
+Score: 32699, Frame: 617
 [INFO] move <0> <0>:
+Score: 32699, Frame: 618
 [INFO] move <0> <2>:
+Score: 32699, Frame: 619
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <9>: 
+Score: 32709, Frame: 620
 [INFO] move <0> <0>:
+Score: 32709, Frame: 621
 [INFO] move <0> <0>:
+Score: 32709, Frame: 622
 [INFO] flue <0> <13>: 
 [INFO] missile <0> <30>: 
 [INFO] move <0> <0>:
 INFO] attack <0> <0> <1>: 
+Score: 32835, Frame: 623
 [INFO] flue <0> <1>: 
 [INFO] missile <0> <1>: 
 [INFO] move <0> <0>:
 INFO] attack <0> <2> <6>: 
+Score: 32893, Frame: 624
 [INFO] move <0> <0>:
 INFO] attack <0> <3> <5>: 
+Score: 33029, Frame: 625
 [INFO] move <0> <0>:
 INFO] attack <0> <0> <8>: 
+Score: 33137, Frame: 626
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <6>: 
+Score: 33244, Frame: 627
 [INFO] flue <0> <4>: 
 [INFO] missile <0> <25>: 
 [INFO] move <0> <0>:
+Score: 33244, Frame: 628
 [INFO] move <0> <0>:
+Score: 33244, Frame: 629
 [INFO] move <0> <0>:
 INFO] attack <0> <2> <8>: 
+Score: 33260, Frame: 630
 INFO] attack <0> <3> <10>: 
+Score: 33346, Frame: 631
 [INFO] move <0> <0>:
 INFO] attack <0> <2> <6>: 
+Score: 33544, Frame: 632
 [INFO] move <0> <2>:
+Score: 33544, Frame: 633
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <9>: 
+Score: 33643, Frame: 634
 [INFO] move <0> <1>:
+Score: 33643, Frame: 635
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <6>: 
+Score: 33668, Frame: 636
 [INFO] flue <0> <8>: 
 [INFO] missile <0> <39>: 
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <4>: 
+Score: 33760, Frame: 637
 [INFO] move <0> <0>:
+Score: 33760, Frame: 638
 [INFO] move <0> <0>:
 INFO] attack <0> <0> <4>: 
+Score: 33919, Frame: 639
 [INFO] flue <0> <3>: 
 [INFO] missile <0> <8>: 
 [INFO] move <0> <0>:
+Score: 33919, Frame: 640
 [INFO] move <0> <2>:
+Score: 33919, Frame: 641
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <7>: 
+Score: 33945, Frame: 642
 [INFO] move <0> <0>:
 INFO] attack <0> <0> <8>: 
+Score: 34103, Frame: 643
 INFO] attack <0> <2> <2>: 
+Score: 34211, Frame: 644
 [INFO] move <0> <0>:
+Score: 34211, Frame: 645
 [INFO] move <0> <0>:
+Score: 34211, Frame: 646
 [INFO] move <0> <0>:
 INFO] attack <0> <2> <10>: 
+Score: 34215, Frame: 647
 INFO] attack <0> <3> <2>: 
+Score: 34393, Frame: 648
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <4>: 
+Score: 34543, Frame: 649
 [INFO] move <0> <0>:
 INFO] attack <0> <3> <2>: 
+Score: 34682, Frame: 650
 [INFO] flue <0> <9>: 
 [INFO] missile <0> <12>: 
 [INFO] move <0> <0>:
+Score: 34682, Frame: 651
 [INFO] move <0> <0>:
 INFO] attack <0> <2> <9>: 
+Score: 34682, Frame: 652
 [INFO] move <0> <1>:
+Score: 34682, Frame: 653
 [INFO] move <0> <2>:
+Score: 34682, Frame: 654
 [INFO] flue <0> <4>: 
 [INFO] missile <0> <32>: 
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <1>: 
+Score: 34866, Frame: 655
 [INFO] move <0> <2>:
+Score: 34866, Frame: 656
 [INFO] move <0> <2>:
+Score: 34866, Frame: 657
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <2>: 
+Score: 35024, Frame: 658
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <3>: 
+Score: 35118, Frame: 659
 [INFO] flue <0> <5>: 
 [INFO] missile <0> <6>: 
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <9>: 
+Score: 35213, Frame: 660
 [INFO] move <0> <1>:
+Score: 35213, Frame: 661
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <3>: 
+Score: 35331, Frame: 662
 [INFO] move <0> <1>:
 INFO] attack <0> <3> <7>: 
+Score: 35415, Frame: 663
 [INFO] move <0> <1>:
 INFO] attack <0> <3> <9>: 
+Score: 35593, Frame: 664
 [INFO] flue <0> <5>: 
 [INFO] missile <0> <28>: 
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <3>: 
+Score: 35733, Frame: 665
 [INFO] flue <0> <1>: 
 [INFO] missile <0> <3>: 
 [INFO] move <0> <1>:
+Score: 35733, Frame: 666
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <5>: 
+Score: 35924, Frame: 667
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <8>: 
+Score: 36056, Frame: 668
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <6>: 
+Score: 36235, Frame: 669
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <7>: 
+Score: 36258, Frame: 670
 [INFO] move <0> <1>:
+Score: 36258, Frame: 671
 [INFO] move <0> <1>:
 INFO] attack <0> <3> <1>: 
+Score: 36451, Frame: 672
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <6>: 
+Score: 36582, Frame: 673
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <2>: 
+Score: 36761, Frame: 674
 [INFO] move <0> <1>:
+Score: 36761, Frame: 675
 [INFO] move <0> <1>:
 INFO] attack <0> <3> <10>: 
+Score: 36948, Frame: 676
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <8>: 
+Score: 37016, Frame: 677
 [INFO] flue <0> <12>: 
 [INFO] missile <0> <53>: 
 [INFO] move <0> <1>:
+Score: 37016, Frame: 678
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <1>: 
+Score: 37084, Frame: 679
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <6>: 
+Score: 37143, Frame: 680
 [INFO] move <0> <2>:
+Score: 37143, Frame: 681
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <8>: 
+Score: 37305, Frame: 682
 [INFO] flue <0> <5>: 
 [INFO] missile <0> <15>: 
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <5>: 
+Score: 37453, Frame: 683
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <4>: 
+Score: 37605, Frame: 684
 [INFO] move <0> <1>:
 INFO] attack <0> <3> <6>: 
+Score: 37609, Frame: 685
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <8>: 
+Score: 37707, Frame: 686
 INFO] attack <0> <3> <1>: 
+Score: 37813, Frame: 687
 [INFO] move <0> <1>:
+Score: 37813, Frame: 688
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <4>: 
+Score: 37959, Frame: 689
 [INFO] move <0> <1>:
 INFO] attack <0> <3> <7>: 
+Score: 38045, Frame: 690
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <10>: 
+Score: 38134, Frame: 691
 [INFO] move <0> <1>:
 INFO] attack <0> <3> <7>: 
+Score: 38309, Frame: 692
 [INFO] move <0> <1>:
 INFO] attack <0> <3> <3>: 
+Score: 38477, Frame: 693
 [INFO] flue <0> <10>: 
 [INFO] missile <0> <55>: 
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <6>: 
+Score: 38552, Frame: 694
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <9>: 
+Score: 38727, Frame: 695
 [INFO] move <0> <0>:
+Score: 38727, Frame: 696
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <7>: 
+Score: 38849, Frame: 697
 [INFO] move <0> <1>:
+Score: 38849, Frame: 698
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <1>: 
+Score: 38940, Frame: 699
 [INFO] flue <0> <6>: 
 [INFO] missile <0> <23>: 
 [INFO] move <0> <1>:
+Score: 38940, Frame: 700
 [INFO] flue <0> <1>: 
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <6>: 
+Score: 39127, Frame: 701
 [INFO] move <0> <0>:
+Score: 39127, Frame: 702
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <1>: 
+Score: 39313, Frame: 703
 [INFO] flue <0> <3>: 
 [INFO] missile <0> <7>: 
 [INFO] move <0> <0>:
+Score: 39313, Frame: 704
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <1>: 
+Score: 39447, Frame: 705
 [INFO] move <0> <0>:
 INFO] attack <0> <0> <8>: 
+Score: 39624, Frame: 706
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <7>: 
+Score: 39730, Frame: 707
 [INFO] move <0> <0>:
 INFO] attack <0> <0> <9>: 
+Score: 39756, Frame: 708
 [INFO] flue <0> <5>: 
 [INFO] missile <0> <25>: 
 [INFO] move <0> <0>:
 INFO] attack <0> <3> <8>: 
+Score: 39807, Frame: 709
 [INFO] move <0> <0>:
+Score: 39807, Frame: 710
 [INFO] move <0> <0>:
 INFO] attack <0> <2> <10>: 
+Score: 39897, Frame: 711
 [INFO] flue <0> <3>: 
 [INFO] missile <0> <18>: 
 [INFO] move <0> <3>:
+Score: 39897, Frame: 712
 [INFO] flue <0> <1>: 
 [INFO] move <0> <3>:
+Score: 39897, Frame: 713
 [INFO] move <0> <3>:
+Score: 39897, Frame: 714
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <8>: 
+Score: 39914, Frame: 715
 [INFO] move <0> <0>:
 INFO] attack <0> <0> <5>: 
+Score: 40033, Frame: 716
 [INFO] move <0> <1>:
+Score: 40033, Frame: 717
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <9>: 
+Score: 40204, Frame: 718
 INFO] attack <0> <3> <6>: 
+Score: 40344, Frame: 719
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <6>: 
+Score: 40526, Frame: 720
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <1>: 
+Score: 40625, Frame: 721
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <7>: 
+Score: 40692, Frame: 722
 [INFO] flue <0> <9>: 
 [INFO] missile <0> <42>: 
 [INFO] move <0> <0>:
 INFO] attack <0> <3> <1>: 
+Score: 40824, Frame: 723
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <5>: 
+Score: 40883, Frame: 724
 [INFO] move <0> <1>:
 INFO] attack <0> <3> <9>: 
+Score: 40916, Frame: 725
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <9>: 
+Score: 40954, Frame: 726
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <2>: 
+Score: 41148, Frame: 727
 [INFO] move <0> <3>:
+Score: 41148, Frame: 728
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <7>: 
+Score: 41335, Frame: 729
 [INFO] move <0> <0>:
 INFO] attack <0> <3> <5>: 
+Score: 41501, Frame: 730
 [INFO] flue <0> <8>: 
 [INFO] missile <0> <38>: 
 [INFO] move <0> <0>:
+Score: 41501, Frame: 731
 [INFO] move <0> <0>:
 INFO] attack <0> <0> <8>: 
+Score: 41630, Frame: 732
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <8>: 
+Score: 41745, Frame: 733
 [INFO] move <0> <0>:
+Score: 41745, Frame: 734
 [INFO] flue <0> <4>: 
 [INFO] missile <0> <16>: 
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <4>: 
+Score: 41910, Frame: 735
 [INFO] move <0> <0>:
+Score: 41910, Frame: 736
 [INFO] flue <0> <2>: 
 [INFO] missile <0> <4>: 
 [INFO] move <0> <0>:
+Score: 41910, Frame: 737
 [INFO] move <0> <0>:
 INFO] attack <0> <3> <1>: 
+Score: 42084, Frame: 738
 [INFO] move <0> <0>:
+Score: 42084, Frame: 739
 [INFO] flue <0> <3>: 
 [INFO] missile <0> <1>: 
 [INFO] move <0> <0>:
 INFO] attack <0> <3> <10>: 
+Score: 42271, Frame: 740
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <4>: 
+Score: 42381, Frame: 741
 [INFO] move <0> <3>:
+Score: 42381, Frame: 742
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <9>: 
+Score: 42433, Frame: 743
 [INFO] move <0> <1>:
 INFO] attack <0> <3> <6>: 
+Score: 42482, Frame: 744
 [INFO] move <0> <1>:
+Score: 42482, Frame: 745
 [INFO] flue <0> <6>: 
 [INFO] missile <0> <29>: 
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <5>: 
+Score: 42573, Frame: 746
 INFO] attack <0> <3> <7>: 
+Score: 42624, Frame: 747
 [INFO] move <0> <1>:
+Score: 42624, Frame: 748
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <8>: 
+Score: 42753, Frame: 749
 [INFO] move <0> <1>:
 INFO] attack <0> <3> <7>: 
+Score: 42761, Frame: 750
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <7>: 
+Score: 42795, Frame: 751
 [INFO] move <0> <1>:
 INFO] attack <0> <3> <3>: 
+Score: 42867, Frame: 752
 [INFO] move <0> <0>:
+Score: 42867, Frame: 753
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <10>: 
+Score: 42901, Frame: 754
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <8>: 
+Score: 43032, Frame: 755
 [INFO] move <0> <0>:
+Score: 43032, Frame: 756
 [INFO] move <0> <0>:
+Score: 43032, Frame: 757
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <2>: 
+Score: 43084, Frame: 758
 [INFO] move <0> <0>:
+Score: 43084, Frame: 759
 [INFO] flue <0> <13>: 
 [INFO] missile <0> <57>: 
 [INFO] move <0> <3>:
+Score: 43084, Frame: 760
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <1>: 
+Score: 43090, Frame: 761
 [INFO] flue <0> <2>: 
 [INFO] missile <0> <1>: 
 [INFO] move <0> <0>:
 INFO] attack <0> <0> <5>: 
+Score: 43275, Frame: 762
 [INFO] flue <0> <1>: 
 [INFO] missile <0> <5>: 
 [INFO] move <0> <0>:
 INFO] attack <0> <0> <4>: 
+Score: 43290, Frame: 763
 [INFO] move <0> <0>:
 INFO] attack <0> <3> <2>: 
+Score: 43319, Frame: 764
 [INFO] move <0> <0>:
 INFO] attack <0> <2> <4>: 
+Score: 43485, Frame: 765
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <2>: 
+Score: 43569, Frame: 766
 [INFO] move <0> <0>:
 INFO] attack <0> <0> <5>: 
+Score: 43670, Frame: 767
 INFO] attack <0> <3> <8>: 
+Score: 43838, Frame: 768
 [INFO] move <0> <1>:
+Score: 43838, Frame: 769
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <5>: 
+Score: 43975, Frame: 770
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <6>: 
+Score: 44073, Frame: 771
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <8>: 
+Score: 44250, Frame: 772
 INFO] attack <0> <3> <4>: 
+Score: 44418, Frame: 773
 [INFO] move <0> <0>:
+Score: 44418, Frame: 774
 [INFO] move <0> <0>:
+Score: 44418, Frame: 775
 [INFO] move <0> <0>:
+Score: 44418, Frame: 776
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <1>: 
+Score: 44468, Frame: 777
 [INFO] flue <0> <13>: 
 [INFO] missile <0> <49>: 
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <9>: 
+Score: 44662, Frame: 778
 [INFO] move <0> <0>:
+Score: 44662, Frame: 779
 [INFO] flue <0> <2>: 
 [INFO] missile <0> <9>: 
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <3>: 
+Score: 44778, Frame: 780
 [INFO] move <0> <0>:
 INFO] attack <0> <3> <5>: 
+Score: 44867, Frame: 781
 [INFO] move <0> <0>:
+Score: 44867, Frame: 782
 [INFO] move <0> <0>:
 INFO] attack <0> <0> <7>: 
+Score: 44934, Frame: 783
 [INFO] move <0> <0>:
+Score: 44934, Frame: 784
 [INFO] move <0> <0>:
 INFO] attack <0> <2> <2>: 
+Score: 45001, Frame: 785
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <5>: 
+Score: 45040, Frame: 786
 [INFO] move <0> <0>:
+Score: 45040, Frame: 787
 [INFO] flue <0> <8>: 
 [INFO] missile <0> <22>: 
 [INFO] move <0> <0>:
 INFO] attack <0> <0> <5>: 
+Score: 45101, Frame: 788
 [INFO] move <0> <0>:
+Score: 45101, Frame: 789
 [INFO] move <0> <2>:
+Score: 45101, Frame: 790
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <8>: 
+Score: 45141, Frame: 791
 [INFO] move <0> <0>:
+Score: 45141, Frame: 792
 [INFO] move <0> <2>:
+Score: 45141, Frame: 793
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <10>: 
+Score: 45330, Frame: 794
 [INFO] move <0> <1>:
+Score: 45330, Frame: 795
 [INFO] move <0> <1>:
+Score: 45330, Frame: 796
 [INFO] move <0> <1>:
+Score: 45330, Frame: 797
 [INFO] flue <0> <10>: 
 [INFO] missile <0> <23>: 
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <9>: 
+Score: 45401, Frame: 798
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <2>: 
+Score: 45560, Frame: 799
 INFO] attack <0> <2> <10>: 
+Score: 45710, Frame: 800
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <10>: 
+Score: 45834, Frame: 801
 [INFO] move <0> <1>:
+Score: 45834, Frame: 802
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <6>: 
+Score: 45875, Frame: 803
 [INFO] move <0> <0>:
+Score: 45875, Frame: 804
 [INFO] move <0> <3>:
+Score: 45875, Frame: 805
 [INFO] move <0> <3>:
+Score: 45875, Frame: 806
 [INFO] move <0> <3>:
+Score: 45875, Frame: 807
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <10>: 
+Score: 46064, Frame: 808
 [INFO] move <0> <3>:
+Score: 46064, Frame: 809
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <5>: 
+Score: 46251, Frame: 810
 [INFO] move <0> <1>:
+Score: 46251, Frame: 811
 [INFO] move <0> <3>:
+Score: 46251, Frame: 812
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <2>: 
+Score: 46294, Frame: 813
 [INFO] move <0> <1>:
 INFO] attack <0> <3> <8>: 
+Score: 46388, Frame: 814
 [INFO] move <0> <1>:
 INFO] attack <0> <3> <10>: 
+Score: 46511, Frame: 815
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <4>: 
+Score: 46695, Frame: 816
 [INFO] move <0> <1>:
 INFO] attack <0> <3> <7>: 
+Score: 46762, Frame: 817
 [INFO] flue <0> <19>: 
 [INFO] missile <0> <83>: 
 [INFO] move <0> <1>:
 INFO] attack <0> <3> <9>: 
+Score: 46778, Frame: 818
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <7>: 
+Score: 46869, Frame: 819
 [INFO] flue <0> <2>: 
 [INFO] missile <0> <16>: 
 [INFO] move <0> <0>:
+Score: 46869, Frame: 820
 [INFO] move <0> <3>:
+Score: 46869, Frame: 821
 [INFO] move <0> <3>:
+Score: 46869, Frame: 822
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <7>: 
+Score: 46895, Frame: 823
 [INFO] move <0> <0>:
+Score: 46895, Frame: 824
 [INFO] move <0> <0>:
 INFO] attack <0> <3> <10>: 
+Score: 46991, Frame: 825
 [INFO] move <0> <0>:
+Score: 46991, Frame: 826
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <9>: 
+Score: 47026, Frame: 827
 [INFO] move <0> <0>:
+Score: 47026, Frame: 828
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <5>: 
+Score: 47092, Frame: 829
 [INFO] flue <0> <10>: 
 [INFO] missile <0> <31>: 
 [INFO] move <0> <0>:
+Score: 47092, Frame: 830
 [INFO] move <0> <0>:
 INFO] attack <0> <3> <3>: 
+Score: 47116, Frame: 831
 [INFO] move <0> <0>:
+Score: 47116, Frame: 832
 [INFO] flue <0> <3>: 
 [INFO] missile <0> <3>: 
 [INFO] move <0> <0>:
 INFO] attack <0> <0> <8>: 
+Score: 47196, Frame: 833
 [INFO] move <0> <0>:
+Score: 47196, Frame: 834
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <1>: 
+Score: 47362, Frame: 835
 [INFO] flue <0> <3>: 
 [INFO] missile <0> <9>: 
 [INFO] move <0> <0>:
+Score: 47362, Frame: 836
 [INFO] move <0> <0>:
+Score: 47362, Frame: 837
 [INFO] flue <0> <2>: 
 [INFO] move <0> <0>:
+Score: 47362, Frame: 838
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <1>: 
+Score: 47503, Frame: 839
 [INFO] move <0> <0>:
+Score: 47503, Frame: 840
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <3>: 
+Score: 47525, Frame: 841
 [INFO] move <0> <0>:
+Score: 47525, Frame: 842
 [INFO] move <0> <0>:
+Score: 47525, Frame: 843
 [INFO] move <0> <3>:
+Score: 47525, Frame: 844
 [INFO] flue <0> <7>: 
 [INFO] missile <0> <4>: 
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <7>: 
+Score: 47691, Frame: 845
 [INFO] move <0> <3>:
+Score: 47691, Frame: 846
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <1>: 
+Score: 47834, Frame: 847
 [INFO] move <0> <1>:
+Score: 47834, Frame: 848
 [INFO] move <0> <1>:
+Score: 47834, Frame: 849
 [INFO] move <0> <1>:
+Score: 47834, Frame: 850
 [INFO] flue <0> <6>: 
 [INFO] missile <0> <8>: 
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <1>: 
+Score: 47860, Frame: 851
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <4>: 
+Score: 47980, Frame: 852
 [INFO] move <0> <0>:
+Score: 47980, Frame: 853
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <3>: 
+Score: 48122, Frame: 854
 [INFO] flue <0> <4>: 
 [INFO] missile <0> <8>: 
 [INFO] move <0> <0>:
+Score: 48122, Frame: 855
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <10>: 
+Score: 48168, Frame: 856
 [INFO] move <0> <1>:
+Score: 48168, Frame: 857
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <2>: 
+Score: 48329, Frame: 858
 [INFO] move <0> <1>:
+Score: 48329, Frame: 859
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <2>: 
+Score: 48456, Frame: 860
 INFO] attack <0> <3> <7>: 
+Score: 48507, Frame: 861
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <1>: 
+Score: 48646, Frame: 862
 [INFO] flue <0> <7>: 
 [INFO] missile <0> <22>: 
 [INFO] move <0> <1>:
+Score: 48646, Frame: 863
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <4>: 
+Score: 48833, Frame: 864
 [INFO] flue <0> <2>: 
 [INFO] missile <0> <4>: 
 [INFO] move <0> <1>:
+Score: 48833, Frame: 865
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <2>: 
+Score: 48899, Frame: 866
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <8>: 
+Score: 48994, Frame: 867
 [INFO] move <0> <1>:
+Score: 48994, Frame: 868
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <1>: 
+Score: 49016, Frame: 869
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <3>: 
+Score: 49149, Frame: 870
 [INFO] move <0> <2>:
+Score: 49149, Frame: 871
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <5>: 
+Score: 49229, Frame: 872
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <9>: 
+Score: 49245, Frame: 873
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <7>: 
+Score: 49260, Frame: 874
 [INFO] move <0> <1>:
+Score: 49260, Frame: 875
 [INFO] move <0> <1>:
+Score: 49260, Frame: 876
 [INFO] move <0> <1>:
+Score: 49260, Frame: 877
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <6>: 
+Score: 49331, Frame: 878
 [INFO] flue <0> <14>: 
 [INFO] missile <0> <41>: 
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <1>: 
+Score: 49437, Frame: 879
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <1>: 
+Score: 49592, Frame: 880
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <7>: 
+Score: 49595, Frame: 881
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <4>: 
+Score: 49686, Frame: 882
 INFO] attack <0> <3> <10>: 
+Score: 49838, Frame: 883
 [INFO] move <0> <2>:
+Score: 49838, Frame: 884
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <2>: 
+Score: 49934, Frame: 885
 [INFO] move <0> <0>:
 INFO] attack <0> <0> <2>: 
+Score: 50059, Frame: 886
 [INFO] move <0> <1>:
+Score: 50059, Frame: 887
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <6>: 
+Score: 50127, Frame: 888
 [INFO] flue <0> <9>: 
 [INFO] missile <0> <33>: 
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <8>: 
+Score: 50276, Frame: 889
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <6>: 
+Score: 50456, Frame: 890
 [INFO] move <0> <1>:
+Score: 50456, Frame: 891
 [INFO] flue <0> <3>: 
 [INFO] missile <0> <14>: 
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <7>: 
+Score: 50495, Frame: 892
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <10>: 
+Score: 50672, Frame: 893
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <10>: 
+Score: 50726, Frame: 894
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <9>: 
+Score: 50866, Frame: 895
 [INFO] flue <0> <4>: 
 [INFO] missile <0> <36>: 
 INFO] attack <0> <2> <5>: 
+Score: 51062, Frame: 896
 [INFO] missile <0> <0>: 
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <7>: 
+Score: 51182, Frame: 897
 INFO] attack <0> <3> <9>: 
+Score: 51253, Frame: 898
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <2>: 
+Score: 51294, Frame: 899
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <2>: 
+Score: 51486, Frame: 900
 [INFO] move <0> <0>:
+Score: 51486, Frame: 901
 [INFO] move <0> <0>:
+Score: 51486, Frame: 902
 [INFO] move <0> <0>:
+Score: 51486, Frame: 903
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <5>: 
+Score: 51535, Frame: 904
 [INFO] move <0> <3>:
+Score: 51535, Frame: 905
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <2>: 
+Score: 51668, Frame: 906
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <5>: 
+Score: 51840, Frame: 907
 [INFO] move <0> <0>:
+Score: 51840, Frame: 908
 [INFO] move <0> <0>:
 INFO] attack <0> <3> <10>: 
+Score: 51985, Frame: 909
 [INFO] flue <0> <12>: 
 [INFO] missile <0> <47>: 
 [INFO] move <0> <0>:
+Score: 51985, Frame: 910
 [INFO] move <0> <0>:
+Score: 51985, Frame: 911
 [INFO] flue <0> <2>: 
 [INFO] move <0> <0>:
+Score: 51985, Frame: 912
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <4>: 
+Score: 52175, Frame: 913
 [INFO] move <0> <0>:
 INFO] attack <0> <3> <8>: 
+Score: 52279, Frame: 914
 [INFO] move <0> <3>:
+Score: 52279, Frame: 915
 [INFO] move <0> <3>:
+Score: 52279, Frame: 916
 [INFO] flue <0> <5>: 
 [INFO] missile <0> <12>: 
 [INFO] move <0> <3>:
+Score: 52279, Frame: 917
 [INFO] flue <0> <1>: 
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <7>: 
+Score: 52376, Frame: 918
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <10>: 
+Score: 52476, Frame: 919
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <4>: 
+Score: 52547, Frame: 920
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <9>: 
+Score: 52706, Frame: 921
 [INFO] flue <0> <4>: 
 [INFO] missile <0> <30>: 
 [INFO] move <0> <0>:
 INFO] attack <0> <3> <2>: 
+Score: 52712, Frame: 922
 [INFO] move <0> <0>:
+Score: 52712, Frame: 923
 [INFO] move <0> <0>:
+Score: 52712, Frame: 924
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <5>: 
+Score: 52793, Frame: 925
 [INFO] move <0> <0>:
 INFO] attack <0> <0> <8>: 
+Score: 52872, Frame: 926
 [INFO] move <0> <1>:
+Score: 52872, Frame: 927
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <5>: 
+Score: 53048, Frame: 928
 [INFO] move <0> <0>:
+Score: 53048, Frame: 929
 [INFO] flue <0> <8>: 
 [INFO] missile <0> <20>: 
 [INFO] move <0> <0>:
+Score: 53048, Frame: 930
 [INFO] flue <0> <1>: 
 [INFO] move <0> <0>:
 INFO] attack <0> <0> <7>: 
+Score: 53150, Frame: 931
 [INFO] move <0> <0>:
 INFO] attack <0> <3> <7>: 
+Score: 53176, Frame: 932
 [INFO] move <0> <0>:
+Score: 53176, Frame: 933
 [INFO] move <0> <0>:
+Score: 53176, Frame: 934
 [INFO] move <0> <0>:
 INFO] attack <0> <0> <6>: 
+Score: 53254, Frame: 935
 [INFO] flue <0> <5>: 
 [INFO] missile <0> <20>: 
 [INFO] move <0> <1>:
+Score: 53254, Frame: 936
 [INFO] move <0> <1>:
+Score: 53254, Frame: 937
 [INFO] move <0> <2>:
+Score: 53254, Frame: 938
 [INFO] flue <0> <3>: 
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <5>: 
+Score: 53260, Frame: 939
 [INFO] flue <0> <1>: 
 [INFO] missile <0> <5>: 
 [INFO] move <0> <3>:
+Score: 53260, Frame: 940
 [INFO] flue <0> <1>: 
 [INFO] move <0> <3>:
+Score: 53260, Frame: 941
 [INFO] move <0> <3>:
+Score: 53260, Frame: 942
 [INFO] flue <0> <2>: 
 [INFO] move <0> <3>:
+Score: 53260, Frame: 943
 [INFO] move <0> <3>:
+Score: 53260, Frame: 944
 [INFO] move <0> <3>:
+Score: 53260, Frame: 945
 [INFO] move <0> <3>:
+Score: 53260, Frame: 946
 [INFO] move <0> <3>:
+Score: 53260, Frame: 947
 [INFO] flue <0> <5>: 
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <4>: 
+Score: 53281, Frame: 948
 [INFO] move <0> <1>:
 INFO] attack <0> <3> <7>: 
+Score: 53454, Frame: 949
 [INFO] flue <0> <2>: 
 [INFO] missile <0> <11>: 
 [INFO] move <0> <1>:
+Score: 53454, Frame: 950
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <8>: 
+Score: 53589, Frame: 951
 [INFO] flue <0> <2>: 
 [INFO] missile <0> <8>: 
 [INFO] move <0> <1>:
+Score: 53589, Frame: 952
 [INFO] move <0> <1>:
+Score: 53589, Frame: 953
 [INFO] flue <0> <2>: 
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <9>: 
+Score: 53648, Frame: 954
 [INFO] flue <0> <1>: 
 [INFO] missile <0> <9>: 
 [INFO] move <0> <1>:
+Score: 53648, Frame: 955
 [INFO] move <0> <1>:
+Score: 53648, Frame: 956
 [INFO] flue <0> <2>: 
 [INFO] move <0> <1>:
 INFO] attack <0> <3> <7>: 
+Score: 53789, Frame: 957
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <5>: 
+Score: 53989, Frame: 958
 [INFO] move <0> <1>:
+Score: 53989, Frame: 959
 [INFO] flue <0> <3>: 
 [INFO] missile <0> <12>: 
 [INFO] move <0> <3>:
+Score: 53989, Frame: 960
 [INFO] flue <0> <1>: 
 [INFO] move <0> <3>:
+Score: 53989, Frame: 961
 [INFO] move <0> <3>:
+Score: 53989, Frame: 962
 [INFO] flue <0> <2>: 
 [INFO] move <0> <3>:
+Score: 53989, Frame: 963
 [INFO] flue <0> <1>: 
 [INFO] move <0> <3>:
+Score: 53989, Frame: 964
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <4>: 
+Score: 54109, Frame: 965
 [INFO] move <0> <1>:
+Score: 54109, Frame: 966
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <7>: 
+Score: 54277, Frame: 967
 [INFO] move <0> <1>:
+Score: 54277, Frame: 968
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <7>: 
+Score: 54418, Frame: 969
 [INFO] move <0> <0>:
+Score: 54418, Frame: 970
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <5>: 
+Score: 54492, Frame: 971
 [INFO] move <0> <1>:
+Score: 54492, Frame: 972
 [INFO] move <0> <1>:
 INFO] attack <0> <3> <8>: 
+Score: 54498, Frame: 973
 [INFO] flue <0> <10>: 
 [INFO] missile <0> <31>: 
 [INFO] move <0> <0>:
+Score: 54498, Frame: 974
 [INFO] move <0> <3>:
+Score: 54498, Frame: 975
 [INFO] move <0> <3>:
+Score: 54498, Frame: 976
 [INFO] move <0> <3>:
+Score: 54498, Frame: 977
 [INFO] flue <0> <4>: 
 [INFO] move <0> <3>:
+Score: 54498, Frame: 978
 [INFO] flue <0> <1>: 
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <7>: 
+Score: 54694, Frame: 979
 [INFO] move <0> <1>:
+Score: 54694, Frame: 980
 [INFO] flue <0> <2>: 
 [INFO] missile <0> <7>: 
 [INFO] move <0> <1>:
 INFO] attack <0> <3> <2>: 
+Score: 54740, Frame: 981
 [INFO] flue <0> <1>: 
 [INFO] missile <0> <2>: 
 [INFO] move <0> <0>:
+Score: 54740, Frame: 982
 [INFO] flue <0> <1>: 
 [INFO] move <0> <0>:
+Score: 54740, Frame: 983
 [INFO] move <0> <0>:
+Score: 54740, Frame: 984
 [INFO] move <0> <3>:
+Score: 54740, Frame: 985
 [INFO] move <0> <3>:
+Score: 54740, Frame: 986
 [INFO] flue <0> <4>: 
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <5>: 
+Score: 54856, Frame: 987
 [INFO] flue <0> <1>: 
 [INFO] missile <0> <5>: 
 [INFO] move <0> <3>:
+Score: 54856, Frame: 988
 [INFO] move <0> <3>:
+Score: 54856, Frame: 989
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <10>: 
+Score: 54884, Frame: 990
 [INFO] move <0> <0>:
+Score: 54884, Frame: 991
 [INFO] move <0> <0>:
+Score: 54884, Frame: 992
 [INFO] move <0> <0>:
+Score: 54884, Frame: 993
 [INFO] move <0> <0>:
 INFO] attack <0> <0> <6>: 
+Score: 55083, Frame: 994
 [INFO] move <0> <0>:
+Score: 55083, Frame: 995
 [INFO] move <0> <0>:
 INFO] attack <0> <3> <8>: 
+Score: 55265, Frame: 996
 [INFO] move <0> <0>:
+Score: 55265, Frame: 997
 [INFO] move <0> <0>:
+Score: 55265, Frame: 998
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <4>: 
+Score: 55314, Frame: 999
 [INFO] flue <0> <12>: 
 [INFO] missile <0> <28>: 
 [INFO] move <0> <3>:
+Score: 55314, Frame: 1000
 [INFO] move <0> <3>:
+Score: 55314, Frame: 1001
 [INFO] move <0> <3>:
+Score: 55314, Frame: 1002
 [INFO] flue <0> <3>: 
 [INFO] move <0> <3>:
+Score: 55314, Frame: 1003
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <1>: 
+Score: 55441, Frame: 1004
 [INFO] move <0> <1>:
+Score: 55441, Frame: 1005
 [INFO] move <0> <1>:
+Score: 55441, Frame: 1006
 [INFO] flue <0> <4>: 
 [INFO] missile <0> <1>: 
 [INFO] move <0> <1>:
+Score: 55441, Frame: 1007
 [INFO] move <0> <3>:
+Score: 55441, Frame: 1008
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <5>: 
+Score: 55522, Frame: 1009
 [INFO] move <0> <1>:
+Score: 55522, Frame: 1010
 [INFO] move <0> <1>:
 INFO] attack <0> <3> <7>: 
+Score: 55706, Frame: 1011
 [INFO] move <0> <1>:
+Score: 55706, Frame: 1012
 [INFO] move <0> <1>:
+Score: 55706, Frame: 1013
 [INFO] move <0> <3>:
+Score: 55706, Frame: 1014
 [INFO] move <0> <3>:
+Score: 55706, Frame: 1015
 [INFO] move <0> <3>:
+Score: 55706, Frame: 1016
 [INFO] flue <0> <10>: 
 [INFO] missile <0> <12>: 
 [INFO] move <0> <3>:
+Score: 55706, Frame: 1017
 [INFO] move <0> <3>:
+Score: 55706, Frame: 1018
 [INFO] move <0> <3>:
+Score: 55706, Frame: 1019
 [INFO] move <0> <3>:
+Score: 55706, Frame: 1020
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <2>: 
+Score: 55874, Frame: 1021
 [INFO] move <0> <1>:
+Score: 55874, Frame: 1022
 [INFO] move <0> <1>:
+Score: 55874, Frame: 1023
 [INFO] move <0> <1>:
 INFO] attack <0> <3> <5>: 
+Score: 56033, Frame: 1024
 [INFO] flue <0> <8>: 
 [INFO] missile <0> <7>: 
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <6>: 
+Score: 56128, Frame: 1025
 [INFO] flue <0> <1>: 
 [INFO] missile <0> <6>: 
 INFO] attack <0> <3> <8>: 
+Score: 56326, Frame: 1026
 [INFO] missile <0> <8>: 
 [INFO] move <0> <0>:
+Score: 56326, Frame: 1027
 [INFO] flue <0> <1>: 
 [INFO] move <0> <0>:
+Score: 56326, Frame: 1028
 [INFO] move <0> <0>:
+Score: 56326, Frame: 1029
 [INFO] move <0> <0>:
+Score: 56326, Frame: 1030
 [INFO] move <0> <3>:
+Score: 56326, Frame: 1031
 [INFO] move <0> <3>:
+Score: 56326, Frame: 1032
 [INFO] move <0> <3>:
+Score: 56326, Frame: 1033
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <4>: 
+Score: 56493, Frame: 1034
 [INFO] move <0> <0>:
+Score: 56493, Frame: 1035
 [INFO] move <0> <0>:
+Score: 56493, Frame: 1036
 [INFO] move <0> <0>:
 INFO] attack <0> <3> <2>: 
+Score: 56669, Frame: 1037
 [INFO] move <0> <0>:
+Score: 56669, Frame: 1038
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <5>: 
+Score: 56827, Frame: 1039
 [INFO] flue <0> <12>: 
 [INFO] missile <0> <11>: 
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <6>: 
+Score: 56964, Frame: 1040
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <8>: 
+Score: 57114, Frame: 1041
 [INFO] move <0> <1>:
 INFO] attack <0> <3> <5>: 
+Score: 57255, Frame: 1042
 [INFO] flue <0> <3>: 
 [INFO] missile <0> <19>: 
 [INFO] move <0> <0>:
+Score: 57255, Frame: 1043
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <9>: 
+Score: 57316, Frame: 1044
 [INFO] move <0> <3>:
+Score: 57316, Frame: 1045
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <3>: 
+Score: 57463, Frame: 1046
 [INFO] flue <0> <4>: 
 [INFO] missile <0> <12>: 
 [INFO] move <0> <0>:
+Score: 57463, Frame: 1047
 [INFO] move <0> <0>:
+Score: 57463, Frame: 1048
 [INFO] move <0> <0>:
 INFO] attack <0> <0> <10>: 
+Score: 57482, Frame: 1049
 INFO] attack <0> <3> <2>: 
+Score: 57498, Frame: 1050
 [INFO] move <0> <0>:
+Score: 57498, Frame: 1051
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <8>: 
+Score: 57632, Frame: 1052
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <1>: 
+Score: 57795, Frame: 1053
 [INFO] move <0> <3>:
+Score: 57795, Frame: 1054
 [INFO] move <0> <3>:
+Score: 57795, Frame: 1055
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <7>: 
+Score: 57861, Frame: 1056
 [INFO] flue <0> <9>: 
 [INFO] missile <0> <28>: 
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <4>: 
+Score: 57928, Frame: 1057
 [INFO] move <0> <3>:
+Score: 57928, Frame: 1058
 [INFO] flue <0> <2>: 
 [INFO] missile <0> <4>: 
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <8>: 
+Score: 58052, Frame: 1059
 [INFO] move <0> <1>:
 INFO] attack <0> <3> <4>: 
+Score: 58209, Frame: 1060
 [INFO] flue <0> <2>: 
 [INFO] missile <0> <12>: 
 [INFO] move <0> <1>:
+Score: 58209, Frame: 1061
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <8>: 
+Score: 58271, Frame: 1062
 [INFO] flue <0> <2>: 
 [INFO] missile <0> <8>: 
 [INFO] move <0> <1>:
+Score: 58271, Frame: 1063
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <5>: 
+Score: 58345, Frame: 1064
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <4>: 
+Score: 58391, Frame: 1065
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <8>: 
+Score: 58582, Frame: 1066
 [INFO] move <0> <1>:
+Score: 58582, Frame: 1067
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <3>: 
+Score: 58745, Frame: 1068
 [INFO] move <0> <1>:
+Score: 58745, Frame: 1069
 [INFO] flue <0> <7>: 
 [INFO] missile <0> <20>: 
 [INFO] move <0> <1>:
 INFO] attack <0> <3> <10>: 
+Score: 58775, Frame: 1070
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <7>: 
+Score: 58972, Frame: 1071
 [INFO] flue <0> <2>: 
 [INFO] missile <0> <17>: 
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <2>: 
+Score: 59107, Frame: 1072
 INFO] attack <0> <3> <1>: 
+Score: 59160, Frame: 1073
 [INFO] move <0> <0>:
+Score: 59160, Frame: 1074
 [INFO] flue <0> <2>: 
 [INFO] missile <0> <3>: 
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <8>: 
+Score: 59255, Frame: 1075
 [INFO] move <0> <0>:
 INFO] attack <0> <2> <1>: 
+Score: 59281, Frame: 1076
 [INFO] move <0> <3>:
+Score: 59281, Frame: 1077
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <7>: 
+Score: 59418, Frame: 1078
 [INFO] move <0> <1>:
 INFO] attack <0> <3> <10>: 
+Score: 59485, Frame: 1079
 [INFO] move <0> <3>:
+Score: 59485, Frame: 1080
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <4>: 
+Score: 59622, Frame: 1081
 [INFO] move <0> <1>:
+Score: 59622, Frame: 1082
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <2>: 
+Score: 59792, Frame: 1083
 [INFO] move <0> <1>:
 INFO] attack <0> <3> <3>: 
+Score: 59876, Frame: 1084
 [INFO] move <0> <0>:
+Score: 59876, Frame: 1085
 [INFO] move <0> <3>:
+Score: 59876, Frame: 1086
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <10>: 
+Score: 60075, Frame: 1087
 [INFO] move <0> <0>:
+Score: 60075, Frame: 1088
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <2>: 
+Score: 60092, Frame: 1089
 [INFO] flue <0> <15>: 
 [INFO] missile <0> <34>: 
 [INFO] move <0> <0>:
+Score: 60092, Frame: 1090
 [INFO] move <0> <0>:
+Score: 60092, Frame: 1091
 [INFO] move <0> <0>:
 INFO] attack <0> <3> <2>: 
+Score: 60243, Frame: 1092
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <2>: 
+Score: 60270, Frame: 1093
 [INFO] move <0> <0>:
+Score: 60270, Frame: 1094
 [INFO] flue <0> <5>: 
 [INFO] missile <0> <17>: 
 [INFO] move <0> <0>:
+Score: 60270, Frame: 1095
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <7>: 
+Score: 60355, Frame: 1096
 [INFO] move <0> <0>:
 INFO] attack <0> <2> <5>: 
+Score: 60439, Frame: 1097
 [INFO] move <0> <0>:
 INFO] attack <0> <2> <10>: 
+Score: 60446, Frame: 1098
 [INFO] move <0> <0>:
 INFO] attack <0> <0> <4>: 
+Score: 60475, Frame: 1099
 [INFO] move <0> <0>:
+Score: 60475, Frame: 1100
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <4>: 
+Score: 60542, Frame: 1101
 [INFO] move <0> <0>:
 INFO] attack <0> <0> <9>: 
+Score: 60631, Frame: 1102
 [INFO] move <0> <0>:
 INFO] attack <0> <0> <8>: 
+Score: 60733, Frame: 1103
 INFO] attack <0> <3> <3>: 
+Score: 60808, Frame: 1104
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <10>: 
+Score: 60820, Frame: 1105
 [INFO] flue <0> <10>: 
 [INFO] missile <0> <60>: 
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <6>: 
+Score: 60852, Frame: 1106
 [INFO] move <0> <0>:
 INFO] attack <0> <2> <3>: 
+Score: 61041, Frame: 1107
 [INFO] move <0> <0>:
 INFO] attack <0> <2> <1>: 
+Score: 61191, Frame: 1108
 [INFO] move <0> <0>:
+Score: 61191, Frame: 1109
 [INFO] flue <0> <4>: 
 [INFO] missile <0> <10>: 
 [INFO] move <0> <0>:
 INFO] attack <0> <3> <6>: 
+Score: 61285, Frame: 1110
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <7>: 
+Score: 61480, Frame: 1111
 [INFO] flue <0> <2>: 
 [INFO] missile <0> <13>: 
 [INFO] move <0> <0>:
+Score: 61480, Frame: 1112
 [INFO] flue <0> <1>: 
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <8>: 
+Score: 61614, Frame: 1113
 [INFO] flue <0> <1>: 
 [INFO] missile <0> <8>: 
 [INFO] move <0> <0>:
+Score: 61614, Frame: 1114
 [INFO] move <0> <2>:
+Score: 61614, Frame: 1115
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <7>: 
+Score: 61685, Frame: 1116
 [INFO] flue <0> <3>: 
 [INFO] missile <0> <7>: 
 [INFO] move <0> <1>:
+Score: 61685, Frame: 1117
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <1>: 
+Score: 61878, Frame: 1118
 [INFO] move <0> <1>:
+Score: 61878, Frame: 1119
 [INFO] move <0> <1>:
+Score: 61878, Frame: 1120
 [INFO] flue <0> <4>: 
 [INFO] missile <0> <1>: 
 [INFO] move <0> <1>:
 INFO] attack <0> <3> <1>: 
+Score: 61927, Frame: 1121
 [INFO] flue <0> <1>: 
 [INFO] missile <0> <1>: 
 [INFO] move <0> <2>:
+Score: 61927, Frame: 1122
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <8>: 
+Score: 61995, Frame: 1123
 [INFO] flue <0> <2>: 
 [INFO] missile <0> <8>: 
 [INFO] move <0> <0>:
+Score: 61995, Frame: 1124
 [INFO] move <0> <2>:
+Score: 61995, Frame: 1125
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <1>: 
+Score: 62067, Frame: 1126
 [INFO] flue <0> <3>: 
 [INFO] missile <0> <1>: 
 [INFO] move <0> <0>:
+Score: 62067, Frame: 1127
 [INFO] move <0> <0>:
+Score: 62067, Frame: 1128
 [INFO] move <0> <0>:
 INFO] attack <0> <0> <2>: 
+Score: 62242, Frame: 1129
 [INFO] flue <0> <3>: 
 [INFO] missile <0> <2>: 
 [INFO] move <0> <0>:
+Score: 62242, Frame: 1130
 [INFO] move <0> <0>:
 INFO] attack <0> <0> <8>: 
+Score: 62364, Frame: 1131
 [INFO] move <0> <0>:
 INFO] attack <0> <3> <10>: 
+Score: 62526, Frame: 1132
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <7>: 
+Score: 62637, Frame: 1133
 [INFO] move <0> <0>:
+Score: 62637, Frame: 1134
 [INFO] move <0> <0>:
+Score: 62637, Frame: 1135
 [INFO] flue <0> <6>: 
 [INFO] missile <0> <25>: 
 [INFO] move <0> <0>:
+Score: 62637, Frame: 1136
 [INFO] move <0> <0>:
+Score: 62637, Frame: 1137
 [INFO] move <0> <0>:
 INFO] attack <0> <3> <10>: 
+Score: 62787, Frame: 1138
 [INFO] flue <0> <3>: 
 [INFO] missile <0> <10>: 
 [INFO] move <0> <0>:
 INFO] attack <0> <2> <6>: 
+Score: 62938, Frame: 1139
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <8>: 
+Score: 62964, Frame: 1140
 [INFO] move <0> <0>:
 INFO] attack <0> <3> <2>: 
+Score: 63016, Frame: 1141
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <10>: 
+Score: 63214, Frame: 1142
 [INFO] move <0> <3>:
+Score: 63214, Frame: 1143
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <4>: 
+Score: 63402, Frame: 1144
 [INFO] flue <0> <6>: 
 [INFO] missile <0> <30>: 
 [INFO] move <0> <0>:
 INFO] attack <0> <0> <4>: 
+Score: 63508, Frame: 1145
 [INFO] move <0> <0>:
+Score: 63508, Frame: 1146
 [INFO] move <0> <0>:
 INFO] attack <0> <3> <10>: 
+Score: 63589, Frame: 1147
 [INFO] move <0> <0>:
 INFO] attack <0> <0> <1>: 
+Score: 63602, Frame: 1148
 [INFO] flue <0> <4>: 
 [INFO] missile <0> <15>: 
 [INFO] move <0> <0>:
 INFO] attack <0> <3> <7>: 
+Score: 63774, Frame: 1149
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <7>: 
+Score: 63921, Frame: 1150
 [INFO] move <0> <0>:
 INFO] attack <0> <3> <8>: 
+Score: 64008, Frame: 1151
 [INFO] move <0> <0>:
 INFO] attack <0> <3> <10>: 
+Score: 64101, Frame: 1152
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <1>: 
+Score: 64272, Frame: 1153
 [INFO] move <0> <3>:
+Score: 64272, Frame: 1154
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <9>: 
+Score: 64348, Frame: 1155
 [INFO] move <0> <3>:
+Score: 64348, Frame: 1156
 [INFO] move <0> <3>:
+Score: 64348, Frame: 1157
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <3>: 
+Score: 64471, Frame: 1158
 [INFO] flue <0> <10>: 
 [INFO] missile <0> <45>: 
 [INFO] move <0> <1>:
+Score: 64471, Frame: 1159
 [INFO] move <0> <1>:
+Score: 64471, Frame: 1160
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <8>: 
+Score: 64512, Frame: 1161
 [INFO] flue <0> <3>: 
 [INFO] missile <0> <8>: 
 [INFO] move <0> <1>:
+Score: 64512, Frame: 1162
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <6>: 
+Score: 64534, Frame: 1163
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <10>: 
+Score: 64611, Frame: 1164
 [INFO] move <0> <0>:
+Score: 64611, Frame: 1165
 [INFO] move <0> <3>:
+Score: 64611, Frame: 1166
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <4>: 
+Score: 64699, Frame: 1167
 [INFO] move <0> <1>:
+Score: 64699, Frame: 1168
 [INFO] flue <0> <7>: 
 [INFO] missile <0> <20>: 
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <6>: 
+Score: 64714, Frame: 1169
 [INFO] flue <0> <1>: 
 [INFO] missile <0> <6>: 
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <8>: 
+Score: 64790, Frame: 1170
 [INFO] move <0> <0>:
+Score: 64790, Frame: 1171
 [INFO] flue <0> <2>: 
 [INFO] missile <0> <8>: 
 [INFO] move <0> <0>:
+Score: 64790, Frame: 1172
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <6>: 
+Score: 64791, Frame: 1173
 [INFO] flue <0> <2>: 
 [INFO] missile <0> <6>: 
 [INFO] move <0> <1>:
+Score: 64791, Frame: 1174
 [INFO] move <0> <1>:
+Score: 64791, Frame: 1175
 [INFO] move <0> <1>:
+Score: 64791, Frame: 1176
 [INFO] flue <0> <3>: 
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <8>: 
+Score: 64896, Frame: 1177
 [INFO] move <0> <1>:
 INFO] attack <0> <3> <9>: 
+Score: 65053, Frame: 1178
 [INFO] move <0> <1>:
+Score: 65053, Frame: 1179
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <9>: 
+Score: 65102, Frame: 1180
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <6>: 
+Score: 65278, Frame: 1181
 [INFO] move <0> <0>:
+Score: 65278, Frame: 1182
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <9>: 
+Score: 65346, Frame: 1183
 [INFO] move <0> <0>:
+Score: 65346, Frame: 1184
 [INFO] flue <0> <8>: 
 [INFO] missile <0> <41>: 
 [INFO] move <0> <0>:
+Score: 65346, Frame: 1185
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <6>: 
+Score: 65389, Frame: 1186
 [INFO] move <0> <1>:
+Score: 65389, Frame: 1187
 [INFO] move <0> <2>:
+Score: 65389, Frame: 1188
 [INFO] flue <0> <4>: 
 [INFO] missile <0> <6>: 
 [INFO] move <0> <2>:
+Score: 65389, Frame: 1189
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <2>: 
+Score: 65460, Frame: 1190
 [INFO] move <0> <1>:
+Score: 65460, Frame: 1191
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <1>: 
+Score: 65461, Frame: 1192
 [INFO] move <0> <2>:
+Score: 65461, Frame: 1193
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <3>: 
+Score: 65610, Frame: 1194
 [INFO] move <0> <1>:
+Score: 65610, Frame: 1195
 [INFO] move <0> <1>:
+Score: 65610, Frame: 1196
 [INFO] flue <0> <8>: 
 [INFO] missile <0> <6>: 
 [INFO] move <0> <1>:
+Score: 65610, Frame: 1197
 [INFO] flue <0> <1>: 
 [INFO] move <0> <3>:
+Score: 65610, Frame: 1198
 [INFO] flue <0> <1>: 
 [INFO] move <0> <3>:
+Score: 65610, Frame: 1199
 [INFO] flue <0> <1>: 
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <6>: 
+Score: 65728, Frame: 1200
 [INFO] move <0> <3>:
+Score: 65728, Frame: 1201
 [INFO] move <0> <3>:
+Score: 65728, Frame: 1202
 [INFO] move <0> <3>:
+Score: 65728, Frame: 1203
 [INFO] move <0> <3>:
+Score: 65728, Frame: 1204
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <6>: 
+Score: 65810, Frame: 1205
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <1>: 
+Score: 65954, Frame: 1206
 [INFO] flue <0> <7>: 
 [INFO] missile <0> <13>: 
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <5>: 
+Score: 66128, Frame: 1207
 [INFO] move <0> <0>:
 INFO] attack <0> <3> <9>: 
+Score: 66294, Frame: 1208
 [INFO] move <0> <3>:
+Score: 66294, Frame: 1209
 [INFO] move <0> <3>:
+Score: 66294, Frame: 1210
 [INFO] flue <0> <4>: 
 [INFO] missile <0> <14>: 
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <7>: 
+Score: 66321, Frame: 1211
 [INFO] flue <0> <1>: 
 [INFO] missile <0> <7>: 
 [INFO] move <0> <3>:
+Score: 66321, Frame: 1212
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <3>: 
+Score: 66359, Frame: 1213
 [INFO] move <0> <0>:
 INFO] attack <0> <3> <5>: 
+Score: 66432, Frame: 1214
 [INFO] move <0> <0>:
 INFO] attack <0> <0> <9>: 
+Score: 66569, Frame: 1215
 [INFO] flue <0> <4>: 
 [INFO] missile <0> <17>: 
 [INFO] move <0> <0>:
+Score: 66569, Frame: 1216
 [INFO] move <0> <0>:
+Score: 66569, Frame: 1217
 [INFO] move <0> <0>:
 INFO] attack <0> <0> <6>: 
+Score: 66676, Frame: 1218
 INFO] attack <0> <3> <10>: 
+Score: 66818, Frame: 1219
 [INFO] move <0> <0>:
 INFO] attack <0> <0> <5>: 
+Score: 66994, Frame: 1220
 [INFO] move <0> <0>:
 INFO] attack <0> <0> <7>: 
+Score: 67182, Frame: 1221
 [INFO] move <0> <0>:
+Score: 67182, Frame: 1222
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <5>: 
+Score: 67330, Frame: 1223
 [INFO] move <0> <0>:
 INFO] attack <0> <2> <1>: 
+Score: 67435, Frame: 1224
 [INFO] move <0> <0>:
+Score: 67435, Frame: 1225
 [INFO] move <0> <0>:
 INFO] attack <0> <3> <9>: 
+Score: 67466, Frame: 1226
 [INFO] move <0> <1>:
+Score: 67466, Frame: 1227
 [INFO] move <0> <1>:
+Score: 67466, Frame: 1228
 [INFO] move <0> <1>:
+Score: 67466, Frame: 1229
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <5>: 
+Score: 67483, Frame: 1230
 [INFO] move <0> <1>:
+Score: 67483, Frame: 1231
 [INFO] move <0> <1>:
+Score: 67483, Frame: 1232
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <4>: 
+Score: 67664, Frame: 1233
 [INFO] flue <0> <8>: 
 [INFO] missile <0> <52>: 
 INFO] attack <0> <2> <3>: 
+Score: 67738, Frame: 1234
 [INFO] flue <0> <0>: 
 [INFO] missile <0> <3>: 
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <7>: 
+Score: 67771, Frame: 1235
 [INFO] move <0> <0>:
+Score: 67771, Frame: 1236
 [INFO] flue <0> <0>: 
 [INFO] missile <0> <7>: 
 [INFO] move <0> <0>:
+Score: 67771, Frame: 1237
 [INFO] move <0> <0>:
+Score: 67771, Frame: 1238
 [INFO] move <0> <0>:
+Score: 67771, Frame: 1239
 [INFO] move <0> <3>:
+Score: 67771, Frame: 1240
 [INFO] move <0> <3>:
+Score: 67771, Frame: 1241
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <5>: 
+Score: 67934, Frame: 1242
 [INFO] move <0> <0>:
+Score: 67934, Frame: 1243
 [INFO] flue <0> <18>: 
 [INFO] missile <0> <5>: 
 [INFO] move <0> <3>:
+Score: 67934, Frame: 1244
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <10>: 
+Score: 68104, Frame: 1245
 [INFO] move <0> <0>:
+Score: 68104, Frame: 1246
 [INFO] move <0> <0>:
+Score: 68104, Frame: 1247
 [INFO] move <0> <0>:
 INFO] attack <0> <0> <3>: 
+Score: 68154, Frame: 1248
 [INFO] move <0> <0>:
+Score: 68154, Frame: 1249
 [INFO] move <0> <0>:
+Score: 68154, Frame: 1250
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <6>: 
+Score: 68285, Frame: 1251
 [INFO] move <0> <3>:
+Score: 68285, Frame: 1252
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <4>: 
+Score: 68305, Frame: 1253
 [INFO] move <0> <1>:
+Score: 68305, Frame: 1254
 [INFO] move <0> <1>:
+Score: 68305, Frame: 1255
 [INFO] move <0> <1>:
+Score: 68305, Frame: 1256
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <7>: 
+Score: 68351, Frame: 1257
 [INFO] flue <0> <14>: 
 [INFO] missile <0> <30>: 
 [INFO] move <0> <1>:
 INFO] attack <0> <3> <7>: 
+Score: 68508, Frame: 1258
 [INFO] move <0> <1>:
 INFO] attack <0> <3> <2>: 
+Score: 68665, Frame: 1259
 [INFO] flue <0> <2>: 
 [INFO] missile <0> <9>: 
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <8>: 
+Score: 68865, Frame: 1260
 [INFO] flue <0> <1>: 
 [INFO] missile <0> <8>: 
 INFO] attack <0> <3> <10>: 
+Score: 68996, Frame: 1261
 [INFO] missile <0> <10>: 
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <5>: 
+Score: 69179, Frame: 1262
 [INFO] flue <0> <1>: 
 [INFO] missile <0> <5>: 
 INFO] attack <0> <3> <3>: 
+Score: 69348, Frame: 1263
 [INFO] missile <0> <3>: 
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <8>: 
+Score: 69435, Frame: 1264
 [INFO] move <0> <1>:
+Score: 69435, Frame: 1265
 [INFO] flue <0> <2>: 
 [INFO] missile <0> <8>: 
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <8>: 
+Score: 69617, Frame: 1266
 [INFO] move <0> <3>:
+Score: 69617, Frame: 1267
 [INFO] flue <0> <2>: 
 [INFO] missile <0> <8>: 
 [INFO] move <0> <3>:
+Score: 69617, Frame: 1268
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <7>: 
+Score: 69700, Frame: 1269
 [INFO] flue <0> <2>: 
 [INFO] missile <0> <7>: 
 [INFO] move <0> <0>:
 INFO] attack <0> <3> <7>: 
+Score: 69867, Frame: 1270
 [INFO] move <0> <0>:
 INFO] attack <0> <3> <5>: 
+Score: 69969, Frame: 1271
 [INFO] move <0> <0>:
 INFO] attack <0> <3> <2>: 
+Score: 70000, Frame: 1272
 [INFO] move <0> <3>:
+Score: 70000, Frame: 1273
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <6>: 
+Score: 70139, Frame: 1274
 [INFO] move <0> <0>:
 INFO] attack <0> <0> <3>: 
+Score: 70258, Frame: 1275
 [INFO] move <0> <1>:
+Score: 70258, Frame: 1276
 [INFO] move <0> <1>:
+Score: 70258, Frame: 1277
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <8>: 
+Score: 70316, Frame: 1278
 [INFO] flue <0> <9>: 
 [INFO] missile <0> <31>: 
 [INFO] move <0> <1>:
+Score: 70316, Frame: 1279
 [INFO] move <0> <1>:
 INFO] attack <0> <3> <10>: 
+Score: 70444, Frame: 1280
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <8>: 
+Score: 70447, Frame: 1281
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <8>: 
+Score: 70539, Frame: 1282
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <5>: 
+Score: 70605, Frame: 1283
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <7>: 
+Score: 70787, Frame: 1284
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <3>: 
+Score: 70986, Frame: 1285
 [INFO] move <0> <0>:
+Score: 70986, Frame: 1286
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <10>: 
+Score: 71080, Frame: 1287
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <1>: 
+Score: 71181, Frame: 1288
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <10>: 
+Score: 71277, Frame: 1289
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <4>: 
+Score: 71305, Frame: 1290
 [INFO] flue <0> <12>: 
 [INFO] missile <0> <66>: 
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <8>: 
+Score: 71417, Frame: 1291
 [INFO] move <0> <1>:
 INFO] attack <0> <3> <9>: 
+Score: 71580, Frame: 1292
 [INFO] move <0> <1>:
 INFO] attack <0> <3> <5>: 
+Score: 71617, Frame: 1293
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <3>: 
+Score: 71716, Frame: 1294
 INFO] attack <0> <3> <6>: 
+Score: 71751, Frame: 1295
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <7>: 
+Score: 71914, Frame: 1296
 INFO] attack <0> <2> <7>: 
+Score: 71984, Frame: 1297
 [INFO] move <0> <0>:
+Score: 71984, Frame: 1298
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <5>: 
+Score: 72168, Frame: 1299
 [INFO] move <0> <0>:
+Score: 72168, Frame: 1300
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <10>: 
+Score: 72340, Frame: 1301
 [INFO] move <0> <0>:
+Score: 72340, Frame: 1302
 [INFO] move <0> <0>:
+Score: 72340, Frame: 1303
 [INFO] flue <0> <11>: 
 [INFO] missile <0> <60>: 
 [INFO] move <0> <0>:
 INFO] attack <0> <0> <4>: 
+Score: 72401, Frame: 1304
 [INFO] move <0> <1>:
+Score: 72401, Frame: 1305
 [INFO] flue <0> <2>: 
 [INFO] missile <0> <4>: 
 [INFO] move <0> <1>:
+Score: 72401, Frame: 1306
 [INFO] move <0> <3>:
+Score: 72401, Frame: 1307
 [INFO] flue <0> <2>: 
 [INFO] move <0> <3>:
+Score: 72401, Frame: 1308
 [INFO] move <0> <3>:
+Score: 72401, Frame: 1309
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <3>: 
+Score: 72507, Frame: 1310
 [INFO] move <0> <1>:
+Score: 72507, Frame: 1311
 [INFO] move <0> <1>:
+Score: 72507, Frame: 1312
 [INFO] move <0> <1>:
+Score: 72507, Frame: 1313
 [INFO] move <0> <1>:
 INFO] attack <0> <3> <3>: 
+Score: 72596, Frame: 1314
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <6>: 
+Score: 72674, Frame: 1315
 INFO] attack <0> <3> <3>: 
+Score: 72863, Frame: 1316
 [INFO] move <0> <1>:
+Score: 72863, Frame: 1317
 [INFO] move <0> <1>:
+Score: 72863, Frame: 1318
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <10>: 
+Score: 72941, Frame: 1319
 [INFO] flue <0> <11>: 
 [INFO] missile <0> <25>: 
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <7>: 
+Score: 73033, Frame: 1320
 INFO] attack <0> <3> <8>: 
+Score: 73222, Frame: 1321
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <1>: 
+Score: 73260, Frame: 1322
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <4>: 
+Score: 73367, Frame: 1323
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <1>: 
+Score: 73444, Frame: 1324
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <6>: 
+Score: 73629, Frame: 1325
 INFO] attack <0> <3> <4>: 
+Score: 73798, Frame: 1326
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <6>: 
+Score: 73946, Frame: 1327
 [INFO] move <0> <1>:
+Score: 73946, Frame: 1328
 [INFO] flue <0> <7>: 
 [INFO] missile <0> <37>: 
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <4>: 
+Score: 74092, Frame: 1329
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <7>: 
+Score: 74275, Frame: 1330
 [INFO] move <0> <1>:
+Score: 74275, Frame: 1331
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <1>: 
+Score: 74432, Frame: 1332
 [INFO] move <0> <1>:
+Score: 74432, Frame: 1333
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <8>: 
+Score: 74562, Frame: 1334
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <10>: 
+Score: 74707, Frame: 1335
 [INFO] move <0> <1>:
 INFO] attack <0> <3> <9>: 
+Score: 74801, Frame: 1336
 [INFO] move <0> <1>:
 INFO] attack <0> <3> <9>: 
+Score: 74928, Frame: 1337
 [INFO] flue <0> <9>: 
 [INFO] missile <0> <48>: 
 [INFO] move <0> <0>:
+Score: 74928, Frame: 1338
 [INFO] move <0> <0>:
+Score: 74928, Frame: 1339
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <10>: 
+Score: 75036, Frame: 1340
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <6>: 
+Score: 75221, Frame: 1341
 [INFO] move <0> <0>:
 INFO] attack <0> <2> <9>: 
+Score: 75257, Frame: 1342
 [INFO] move <0> <0>:
+Score: 75257, Frame: 1343
 [INFO] move <0> <0>:
 INFO] attack <0> <2> <2>: 
+Score: 75350, Frame: 1344
 [INFO] flue <0> <7>: 
 [INFO] missile <0> <27>: 
 [INFO] move <0> <0>:
 INFO] attack <0> <2> <3>: 
+Score: 75516, Frame: 1345
 [INFO] move <0> <0>:
+Score: 75516, Frame: 1346
 [INFO] move <0> <0>:
 INFO] attack <0> <3> <10>: 
+Score: 75676, Frame: 1347
 [INFO] move <0> <0>:
+Score: 75676, Frame: 1348
 [INFO] move <0> <0>:
 INFO] attack <0> <2> <3>: 
+Score: 75758, Frame: 1349
 [INFO] move <0> <0>:
+Score: 75758, Frame: 1350
 [INFO] move <0> <0>:
 INFO] attack <0> <2> <10>: 
+Score: 75942, Frame: 1351
 INFO] attack <0> <3> <4>: 
+Score: 75956, Frame: 1352
 [INFO] move <0> <0>:
 INFO] attack <0> <3> <10>: 
+Score: 76109, Frame: 1353
 [INFO] flue <0> <8>: 
 [INFO] missile <0> <40>: 
 [INFO] move <0> <1>:
+Score: 76109, Frame: 1354
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <8>: 
+Score: 76232, Frame: 1355
 [INFO] move <0> <0>:
+Score: 76232, Frame: 1356
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <4>: 
+Score: 76412, Frame: 1357
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <6>: 
+Score: 76573, Frame: 1358
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <8>: 
+Score: 76629, Frame: 1359
 [INFO] move <0> <0>:
+Score: 76629, Frame: 1360
 [INFO] move <0> <0>:
 INFO] attack <0> <2> <7>: 
+Score: 76810, Frame: 1361
 [INFO] move <0> <0>:
 INFO] attack <0> <0> <4>: 
+Score: 76833, Frame: 1362
 [INFO] flue <0> <9>: 
 [INFO] missile <0> <37>: 
 [INFO] move <0> <0>:
+Score: 76833, Frame: 1363
 [INFO] move <0> <0>:
 INFO] attack <0> <0> <8>: 
+Score: 76939, Frame: 1364
 [INFO] move <0> <1>:
+Score: 76939, Frame: 1365
 [INFO] move <0> <2>:
+Score: 76939, Frame: 1366
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <7>: 
+Score: 76958, Frame: 1367
 [INFO] move <0> <1>:
+Score: 76958, Frame: 1368
 [INFO] flue <0> <6>: 
 [INFO] missile <0> <15>: 
 [INFO] move <0> <2>:
+Score: 76958, Frame: 1369
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <6>: 
+Score: 77093, Frame: 1370
 [INFO] move <0> <0>:
+Score: 77093, Frame: 1371
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <3>: 
+Score: 77197, Frame: 1372
 [INFO] flue <0> <4>: 
 [INFO] missile <0> <9>: 
 [INFO] move <0> <1>:
+Score: 77197, Frame: 1373
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <10>: 
+Score: 77394, Frame: 1374
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <9>: 
+Score: 77504, Frame: 1375
 INFO] attack <0> <2> <2>: 
+Score: 77618, Frame: 1376
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <8>: 
+Score: 77731, Frame: 1377
 [INFO] move <0> <1>:
+Score: 77731, Frame: 1378
 [INFO] move <0> <1>:
+Score: 77731, Frame: 1379
 [INFO] move <0> <1>:
+Score: 77731, Frame: 1380
 [INFO] flue <0> <7>: 
 [INFO] missile <0> <29>: 
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <8>: 
+Score: 77763, Frame: 1381
 [INFO] flue <0> <1>: 
 [INFO] missile <0> <8>: 
 [INFO] move <0> <0>:
+Score: 77763, Frame: 1382
 [INFO] flue <0> <1>: 
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <8>: 
+Score: 77775, Frame: 1383
 [INFO] flue <0> <1>: 
 [INFO] missile <0> <8>: 
 [INFO] move <0> <1>:
+Score: 77775, Frame: 1384
 [INFO] move <0> <1>:
 INFO] attack <0> <3> <10>: 
+Score: 77883, Frame: 1385
 [INFO] flue <0> <2>: 
 [INFO] missile <0> <10>: 
 [INFO] move <0> <1>:
+Score: 77883, Frame: 1386
 [INFO] move <0> <1>:
+Score: 77883, Frame: 1387
 [INFO] move <0> <1>:
+Score: 77883, Frame: 1388
 [INFO] move <0> <1>:
+Score: 77883, Frame: 1389
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <7>: 
+Score: 77907, Frame: 1390
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <4>: 
+Score: 77928, Frame: 1391
 INFO] attack <0> <3> <6>: 
+Score: 78013, Frame: 1392
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <1>: 
+Score: 78190, Frame: 1393
 [INFO] move <0> <1>:
 INFO] attack <0> <3> <10>: 
+Score: 78220, Frame: 1394
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <7>: 
+Score: 78220, Frame: 1395
 [INFO] move <0> <1>:
 INFO] attack <0> <3> <7>: 
+Score: 78318, Frame: 1396
 [INFO] move <0> <0>:
+Score: 78318, Frame: 1397
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <7>: 
+Score: 78457, Frame: 1398
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <8>: 
+Score: 78534, Frame: 1399
 [INFO] move <0> <0>:
 INFO] attack <0> <3> <8>: 
+Score: 78588, Frame: 1400
 [INFO] move <0> <0>:
 INFO] attack <0> <3> <9>: 
+Score: 78639, Frame: 1401
 [INFO] move <0> <0>:
+Score: 78639, Frame: 1402
 [INFO] move <0> <0>:
 INFO] attack <0> <2> <4>: 
+Score: 78663, Frame: 1403
 [INFO] move <0> <1>:
+Score: 78663, Frame: 1404
 [INFO] move <0> <1>:
+Score: 78663, Frame: 1405
 [INFO] move <0> <1>:
+Score: 78663, Frame: 1406
 [INFO] move <0> <1>:
+Score: 78663, Frame: 1407
 [INFO] move <0> <1>:
+Score: 78663, Frame: 1408
 [INFO] move <0> <1>:
 INFO] attack <0> <3> <3>: 
+Score: 78782, Frame: 1409
 [INFO] flue <0> <23>: 
 [INFO] missile <0> <81>: 
 [INFO] move <0> <2>:
+Score: 78782, Frame: 1410
 [INFO] flue <0> <1>: 
 [INFO] move <0> <2>:
+Score: 78782, Frame: 1411
 [INFO] flue <0> <1>: 
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <4>: 
+Score: 78957, Frame: 1412
 [INFO] move <0> <1>:
+Score: 78957, Frame: 1413
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <2>: 
+Score: 79103, Frame: 1414
 [INFO] move <0> <1>:
+Score: 79103, Frame: 1415
 [INFO] flue <0> <4>: 
 [INFO] missile <0> <6>: 
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <4>: 
+Score: 79209, Frame: 1416
 [INFO] move <0> <3>:
+Score: 79209, Frame: 1417
 [INFO] flue <0> <2>: 
 [INFO] missile <0> <4>: 
 [INFO] move <0> <3>:
+Score: 79209, Frame: 1418
 [INFO] move <0> <3>:
+Score: 79209, Frame: 1419
 [INFO] move <0> <3>:
+Score: 79209, Frame: 1420
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <1>: 
+Score: 79325, Frame: 1421
 [INFO] move <0> <3>:
+Score: 79325, Frame: 1422
 [INFO] move <0> <3>:
+Score: 79325, Frame: 1423
 [INFO] move <0> <3>:
+Score: 79325, Frame: 1424
 [INFO] move <0> <3>:
+Score: 79325, Frame: 1425
 [INFO] move <0> <3>:
+Score: 79325, Frame: 1426
 [INFO] flue <0> <9>: 
 [INFO] missile <0> <1>: 
 [INFO] move <0> <3>:
+Score: 79325, Frame: 1427
 [INFO] move <0> <3>:
+Score: 79325, Frame: 1428
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <6>: 
+Score: 79382, Frame: 1429
 [INFO] flue <0> <3>: 
 [INFO] missile <0> <6>: 
 [INFO] move <0> <0>:
+Score: 79382, Frame: 1430
 [INFO] move <0> <0>:
+Score: 79382, Frame: 1431
 [INFO] move <0> <0>:
+Score: 79382, Frame: 1432
 [INFO] move <0> <0>:
+Score: 79382, Frame: 1433
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <8>: 
+Score: 79426, Frame: 1434
 [INFO] move <0> <0>:
+Score: 79426, Frame: 1435
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <9>: 
+Score: 79626, Frame: 1436
 [INFO] move <0> <1>:
+Score: 79626, Frame: 1437
 [INFO] move <0> <1>:
 INFO] attack <0> <3> <9>: 
+Score: 79732, Frame: 1438
 [INFO] flue <0> <9>: 
 [INFO] missile <0> <26>: 
 [INFO] move <0> <0>:
+Score: 79732, Frame: 1439
 [INFO] move <0> <0>:
+Score: 79732, Frame: 1440
 [INFO] move <0> <0>:
+Score: 79732, Frame: 1441
 [INFO] move <0> <0>:
+Score: 79732, Frame: 1442
 [INFO] move <0> <0>:
+Score: 79732, Frame: 1443
 [INFO] move <0> <0>:
+Score: 79732, Frame: 1444
 [INFO] move <0> <0>:
+Score: 79732, Frame: 1445
 [INFO] move <0> <2>:
+Score: 79732, Frame: 1446
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <2>: 
+Score: 79808, Frame: 1447
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <7>: 
+Score: 79827, Frame: 1448
 [INFO] move <0> <0>:
+Score: 79827, Frame: 1449
 [INFO] flue <0> <11>: 
 [INFO] missile <0> <9>: 
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <3>: 
+Score: 79905, Frame: 1450
 [INFO] move <0> <0>:
 INFO] attack <0> <0> <2>: 
+Score: 79952, Frame: 1451
 [INFO] move <0> <0>:
+Score: 79952, Frame: 1452
 [INFO] move <0> <0>:
+Score: 79952, Frame: 1453
 [INFO] move <0> <0>:
+Score: 79952, Frame: 1454
 [INFO] move <0> <0>:
+Score: 79952, Frame: 1455
 [INFO] move <0> <0>:
+Score: 79952, Frame: 1456
 [INFO] move <0> <0>:
+Score: 79952, Frame: 1457
 [INFO] move <0> <0>:
+Score: 79952, Frame: 1458
 [INFO] move <0> <0>:
+Score: 79952, Frame: 1459
 [INFO] flue <0> <10>: 
 [INFO] missile <0> <5>: 
 [INFO] move <0> <0>:
+Score: 79952, Frame: 1460
 [INFO] flue <0> <1>: 
 [INFO] move <0> <0>:
+Score: 79952, Frame: 1461
 [INFO] move <0> <0>:
+Score: 79952, Frame: 1462
 [INFO] move <0> <0>:
+Score: 79952, Frame: 1463
 [INFO] move <0> <3>:
+Score: 79952, Frame: 1464
 [INFO] move <0> <3>:
+Score: 79952, Frame: 1465
 [INFO] move <0> <3>:
+Score: 79952, Frame: 1466
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <8>: 
+Score: 79983, Frame: 1467
 [INFO] move <0> <0>:
+Score: 79983, Frame: 1468
 [INFO] move <0> <0>:
+Score: 79983, Frame: 1469
 [INFO] move <0> <0>:
+Score: 79983, Frame: 1470
 [INFO] move <0> <0>:
+Score: 79983, Frame: 1471
 [INFO] move <0> <0>:
+Score: 79983, Frame: 1472
 [INFO] flue <0> <12>: 
 [INFO] missile <0> <8>: 
 [INFO] move <0> <0>:
+Score: 79983, Frame: 1473
 [INFO] move <0> <0>:
+Score: 79983, Frame: 1474
 [INFO] move <0> <0>:
+Score: 79983, Frame: 1475
 [INFO] move <0> <0>:
+Score: 79983, Frame: 1476
 [INFO] move <0> <0>:
 INFO] attack <0> <0> <2>: 
+Score: 80117, Frame: 1477
 [INFO] move <0> <1>:
+Score: 80117, Frame: 1478
 [INFO] move <0> <2>:
+Score: 80117, Frame: 1479
 [INFO] move <0> <2>:
+Score: 80117, Frame: 1480
 [INFO] move <0> <2>:
+Score: 80117, Frame: 1481
 [INFO] move <0> <2>:
+Score: 80117, Frame: 1482
 [INFO] move <0> <2>:
+Score: 80117, Frame: 1483
 [INFO] move <0> <2>:
+Score: 80117, Frame: 1484
 [INFO] move <0> <2>:
+Score: 80117, Frame: 1485
 [INFO] move <0> <2>:
+Score: 80117, Frame: 1486
 [INFO] move <0> <2>:
+Score: 80117, Frame: 1487
 [INFO] move <0> <2>:
+Score: 80117, Frame: 1488
 [INFO] move <0> <2>:
+Score: 80117, Frame: 1489
 [INFO] move <0> <2>:
+Score: 80117, Frame: 1490
 [INFO] flue <0> <18>: 
 [INFO] missile <0> <2>: 
 [INFO] move <0> <2>:
+Score: 80117, Frame: 1491
 [INFO] move <0> <2>:
+Score: 80117, Frame: 1492
 [INFO] move <0> <2>:
+Score: 80117, Frame: 1493
 [INFO] move <0> <2>:
+Score: 80117, Frame: 1494
 [INFO] move <0> <2>:
+Score: 80117, Frame: 1495
 [INFO] move <0> <2>:
+Score: 80117, Frame: 1496
 [INFO] flue <0> <6>: 
 [INFO] move <0> <2>:
+Score: 80117, Frame: 1497
 [INFO] move <0> <2>:
+Score: 80117, Frame: 1498
 [INFO] move <0> <2>:
+Score: 80117, Frame: 1499
 [INFO] move <0> <2>:
+Score: 80117, Frame: 1500
 [INFO] move <0> <2>:
+Score: 80117, Frame: 1501
 [INFO] move <0> <2>:
+Score: 80117, Frame: 1502
 [INFO] move <0> <2>:
+Score: 80117, Frame: 1503
 [INFO] move <0> <2>:
+Score: 80117, Frame: 1504
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <4>: 
+Score: 80306, Frame: 1505
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <5>: 
+Score: 80378, Frame: 1506
 [INFO] move <0> <1>:
+Score: 80378, Frame: 1507
 [INFO] move <0> <1>:
+Score: 80378, Frame: 1508
 [INFO] move <0> <2>:
+Score: 80378, Frame: 1509
 [INFO] flue <0> <13>: 
 [INFO] missile <0> <9>: 
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <1>: 
+Score: 80569, Frame: 1510
 [INFO] move <0> <0>:
+Score: 80569, Frame: 1511
 [INFO] move <0> <0>:
+Score: 80569, Frame: 1512
 [INFO] move <0> <2>:
+Score: 80569, Frame: 1513
 [INFO] move <0> <2>:
+Score: 80569, Frame: 1514
 [INFO] flue <0> <5>: 
 [INFO] missile <0> <1>: 
 [INFO] move <0> <2>:
+Score: 80569, Frame: 1515
 [INFO] move <0> <2>:
+Score: 80569, Frame: 1516
 [INFO] move <0> <2>:
+Score: 80569, Frame: 1517
 [INFO] flue <0> <3>: 
 [INFO] move <0> <2>:
+Score: 80569, Frame: 1518
 [INFO] move <0> <2>:
+Score: 80569, Frame: 1519
 [INFO] move <0> <2>:
+Score: 80569, Frame: 1520
 [INFO] move <0> <2>:
+Score: 80569, Frame: 1521
 [INFO] move <0> <2>:
+Score: 80569, Frame: 1522
 [INFO] move <0> <2>:
+Score: 80569, Frame: 1523
 [INFO] move <0> <2>:
+Score: 80569, Frame: 1524
 [INFO] move <0> <2>:
+Score: 80569, Frame: 1525
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <3>: 
+Score: 80739, Frame: 1526
 [INFO] move <0> <1>:
+Score: 80739, Frame: 1527
 [INFO] move <0> <1>:
+Score: 80739, Frame: 1528
 [INFO] move <0> <1>:
+Score: 80739, Frame: 1529
 [INFO] move <0> <1>:
+Score: 80739, Frame: 1530
 [INFO] move <0> <1>:
+Score: 80739, Frame: 1531
 [INFO] move <0> <1>:
+Score: 80739, Frame: 1532
 [INFO] move <0> <1>:
+Score: 80739, Frame: 1533
 [INFO] move <0> <1>:
+Score: 80739, Frame: 1534
 [INFO] move <0> <3>:
+Score: 80739, Frame: 1535
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <1>: 
+Score: 80788, Frame: 1536
 [INFO] move <0> <1>:
+Score: 80788, Frame: 1537
 [INFO] flue <0> <20>: 
 [INFO] missile <0> <4>: 
 [INFO] move <0> <1>:
+Score: 80788, Frame: 1538
 [INFO] flue <0> <1>: 
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <8>: 
+Score: 80788, Frame: 1539
 [INFO] move <0> <1>:
+Score: 80788, Frame: 1540
 [INFO] move <0> <1>:
+Score: 80788, Frame: 1541
 [INFO] move <0> <1>:
+Score: 80788, Frame: 1542
 [INFO] flue <0> <4>: 
 [INFO] missile <0> <8>: 
 [INFO] move <0> <1>:
+Score: 80788, Frame: 1543
 [INFO] flue <0> <1>: 
 [INFO] move <0> <1>:
+Score: 80788, Frame: 1544
 [INFO] flue <0> <1>: 
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <5>: 
+Score: 80845, Frame: 1545
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <6>: 
+Score: 80935, Frame: 1546
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <4>: 
+Score: 81015, Frame: 1547
 [INFO] move <0> <1>:
+Score: 81015, Frame: 1548
 [INFO] move <0> <1>:
+Score: 81015, Frame: 1549
 [INFO] move <0> <1>:
+Score: 81015, Frame: 1550
 [INFO] move <0> <1>:
+Score: 81015, Frame: 1551
 [INFO] move <0> <1>:
+Score: 81015, Frame: 1552
 [INFO] move <0> <1>:
+Score: 81015, Frame: 1553
 [INFO] move <0> <1>:
+Score: 81015, Frame: 1554
 [INFO] move <0> <1>:
+Score: 81015, Frame: 1555
 [INFO] move <0> <1>:
+Score: 81015, Frame: 1556
 [INFO] move <0> <3>:
+Score: 81015, Frame: 1557
 [INFO] move <0> <3>:
+Score: 81015, Frame: 1558
 [INFO] flue <0> <14>: 
 [INFO] missile <0> <15>: 
 [INFO] move <0> <3>:
+Score: 81015, Frame: 1559
 [INFO] move <0> <3>:
+Score: 81015, Frame: 1560
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <6>: 
+Score: 81142, Frame: 1561
 [INFO] flue <0> <3>: 
 [INFO] missile <0> <6>: 
 [INFO] move <0> <1>:
+Score: 81142, Frame: 1562
 [INFO] move <0> <1>:
+Score: 81142, Frame: 1563
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <6>: 
+Score: 81279, Frame: 1564
 [INFO] flue <0> <3>: 
 [INFO] missile <0> <6>: 
 INFO] attack <0> <3> <9>: 
+Score: 81412, Frame: 1565
 [INFO] missile <0> <9>: 
 [INFO] move <0> <1>:
 INFO] attack <0> <3> <1>: 
+Score: 81546, Frame: 1566
 [INFO] move <0> <1>:
+Score: 81546, Frame: 1567
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <8>: 
+Score: 81713, Frame: 1568
 [INFO] move <0> <3>:
+Score: 81713, Frame: 1569
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <3>: 
+Score: 81822, Frame: 1570
 [INFO] move <0> <0>:
+Score: 81822, Frame: 1571
 [INFO] move <0> <0>:
+Score: 81822, Frame: 1572
 [INFO] flue <0> <7>: 
 [INFO] missile <0> <12>: 
 [INFO] move <0> <0>:
+Score: 81822, Frame: 1573
 [INFO] flue <0> <1>: 
 [INFO] move <0> <0>:
+Score: 81822, Frame: 1574
 [INFO] move <0> <0>:
+Score: 81822, Frame: 1575
 [INFO] flue <0> <2>: 
 [INFO] move <0> <0>:
+Score: 81822, Frame: 1576
 [INFO] move <0> <0>:
+Score: 81822, Frame: 1577
 [INFO] move <0> <3>:
+Score: 81822, Frame: 1578
 [INFO] move <0> <3>:
+Score: 81822, Frame: 1579
 [INFO] flue <0> <4>: 
 [INFO] move <0> <3>:
+Score: 81822, Frame: 1580
 [INFO] move <0> <3>:
+Score: 81822, Frame: 1581
 [INFO] move <0> <3>:
+Score: 81822, Frame: 1582
 [INFO] move <0> <3>:
+Score: 81822, Frame: 1583
 [INFO] move <0> <3>:
+Score: 81822, Frame: 1584
 [INFO] flue <0> <5>: 
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <1>: 
+Score: 81887, Frame: 1585
 [INFO] move <0> <0>:
+Score: 81887, Frame: 1586
 [INFO] move <0> <0>:
 INFO] attack <0> <3> <8>: 
+Score: 82016, Frame: 1587
 [INFO] move <0> <0>:
 INFO] attack <0> <0> <1>: 
+Score: 82200, Frame: 1588
 [INFO] move <0> <0>:
+Score: 82200, Frame: 1589
 [INFO] move <0> <0>:
 INFO] attack <0> <3> <7>: 
+Score: 82285, Frame: 1590
 [INFO] move <0> <1>:
+Score: 82285, Frame: 1591
 [INFO] move <0> <1>:
+Score: 82285, Frame: 1592
 [INFO] move <0> <1>:
+Score: 82285, Frame: 1593
 [INFO] move <0> <1>:
+Score: 82285, Frame: 1594
 [INFO] move <0> <1>:
+Score: 82285, Frame: 1595
 [INFO] move <0> <1>:
+Score: 82285, Frame: 1596
 [INFO] move <0> <1>:
+Score: 82285, Frame: 1597
 [INFO] flue <0> <13>: 
 [INFO] missile <0> <17>: 
 [INFO] move <0> <1>:
+Score: 82285, Frame: 1598
 [INFO] move <0> <1>:
+Score: 82285, Frame: 1599
 [INFO] move <0> <1>:
+Score: 82285, Frame: 1600
 [INFO] move <0> <1>:
+Score: 82285, Frame: 1601
 [INFO] flue <0> <4>: 
 [INFO] move <0> <1>:
+Score: 82285, Frame: 1602
 [INFO] move <0> <2>:
+Score: 82285, Frame: 1603
 [INFO] flue <0> <2>: 
 [INFO] move <0> <2>:
+Score: 82285, Frame: 1604
 [INFO] move <0> <2>:
+Score: 82285, Frame: 1605
 [INFO] move <0> <2>:
+Score: 82285, Frame: 1606
 [INFO] move <0> <2>:
+Score: 82285, Frame: 1607
 [INFO] move <0> <2>:
+Score: 82285, Frame: 1608
 [INFO] flue <0> <5>: 
 [INFO] move <0> <2>:
+Score: 82285, Frame: 1609
 [INFO] move <0> <2>:
+Score: 82285, Frame: 1610
 [INFO] move <0> <2>:
+Score: 82285, Frame: 1611
 [INFO] move <0> <2>:
+Score: 82285, Frame: 1612
 [INFO] move <0> <2>:
+Score: 82285, Frame: 1613
 [INFO] move <0> <2>:
+Score: 82285, Frame: 1614
 [INFO] move <0> <2>:
+Score: 82285, Frame: 1615
 [INFO] move <0> <2>:
+Score: 82285, Frame: 1616
 [INFO] move <0> <2>:
+Score: 82285, Frame: 1617
 [INFO] move <0> <2>:
+Score: 82285, Frame: 1618
 [INFO] flue <0> <10>: 
 [INFO] move <0> <2>:
+Score: 82285, Frame: 1619
 [INFO] flue <0> <1>: 
 [INFO] move <0> <2>:
+Score: 82285, Frame: 1620
 [INFO] move <0> <2>:
+Score: 82285, Frame: 1621
 [INFO] move <0> <2>:
+Score: 82285, Frame: 1622
 [INFO] move <0> <2>:
+Score: 82285, Frame: 1623
 [INFO] move <0> <2>:
+Score: 82285, Frame: 1624
 [INFO] flue <0> <5>: 
 [INFO] move <0> <2>:
+Score: 82285, Frame: 1625
 [INFO] move <0> <2>:
+Score: 82285, Frame: 1626
 [INFO] flue <0> <2>: 
 [INFO] move <0> <2>:
+Score: 82285, Frame: 1627
 [INFO] move <0> <2>:
+Score: 82285, Frame: 1628
 [INFO] move <0> <2>:
+Score: 82285, Frame: 1629
 [INFO] move <0> <2>:
+Score: 82285, Frame: 1630
 [INFO] move <0> <2>:
+Score: 82285, Frame: 1631
 [INFO] move <0> <2>:
+Score: 82285, Frame: 1632
 [INFO] move <0> <2>:
+Score: 82285, Frame: 1633
 [INFO] move <0> <2>:
+Score: 82285, Frame: 1634
 [INFO] move <0> <2>:
+Score: 82285, Frame: 1635
 [INFO] flue <0> <9>: 
 [INFO] move <0> <2>:
+Score: 82285, Frame: 1636
 [INFO] flue <0> <1>: 
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <1>: 
+Score: 82322, Frame: 1637
 [INFO] move <0> <2>:
+Score: 82322, Frame: 1638
 [INFO] move <0> <2>:
+Score: 82322, Frame: 1639
 [INFO] move <0> <2>:
+Score: 82322, Frame: 1640
 [INFO] flue <0> <4>: 
 [INFO] missile <0> <1>: 
 [INFO] move <0> <2>:
+Score: 82322, Frame: 1641
 [INFO] move <0> <2>:
+Score: 82322, Frame: 1642
 [INFO] move <0> <2>:
+Score: 82322, Frame: 1643
 [INFO] move <0> <2>:
+Score: 82322, Frame: 1644
 [INFO] move <0> <2>:
+Score: 82322, Frame: 1645
 [INFO] move <0> <2>:
+Score: 82322, Frame: 1646
 [INFO] flue <0> <6>: 
 [INFO] move <0> <2>:
+Score: 82322, Frame: 1647
 [INFO] move <0> <2>:
+Score: 82322, Frame: 1648
 [INFO] move <0> <2>:
+Score: 82322, Frame: 1649
 [INFO] flue <0> <3>: 
 [INFO] move <0> <2>:
+Score: 82322, Frame: 1650
 [INFO] move <0> <2>:
+Score: 82322, Frame: 1651
 [INFO] flue <0> <2>: 
 [INFO] move <0> <2>:
+Score: 82322, Frame: 1652
 [INFO] move <0> <2>:
+Score: 82322, Frame: 1653
 [INFO] move <0> <2>:
+Score: 82322, Frame: 1654
 [INFO] flue <0> <3>: 
 [INFO] move <0> <2>:
+Score: 82322, Frame: 1655
 [INFO] move <0> <2>:
+Score: 82322, Frame: 1656
 [INFO] move <0> <2>:
+Score: 82322, Frame: 1657
 [INFO] move <0> <2>:
+Score: 82322, Frame: 1658
 [INFO] move <0> <2>:
+Score: 82322, Frame: 1659
 [INFO] move <0> <2>:
+Score: 82322, Frame: 1660
 [INFO] flue <0> <6>: 
 [INFO] move <0> <2>:
+Score: 82322, Frame: 1661
 [INFO] flue <0> <1>: 
 [INFO] move <0> <2>:
+Score: 82322, Frame: 1662
 [INFO] move <0> <2>:
+Score: 82322, Frame: 1663
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <9>: 
+Score: 82411, Frame: 1664
 [INFO] move <0> <0>:
 INFO] attack <0> <0> <2>: 
+Score: 82418, Frame: 1665
 [INFO] move <0> <0>:
+Score: 82418, Frame: 1666
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <5>: 
+Score: 82464, Frame: 1667
 [INFO] move <0> <1>:
+Score: 82464, Frame: 1668
 [INFO] flue <0> <7>: 
 [INFO] missile <0> <16>: 
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <3>: 
+Score: 82472, Frame: 1669
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <8>: 
+Score: 82577, Frame: 1670
 [INFO] move <0> <0>:
 INFO] attack <0> <2> <5>: 
+Score: 82633, Frame: 1671
 [INFO] move <0> <1>:
+Score: 82633, Frame: 1672
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <4>: 
+Score: 82718, Frame: 1673
 [INFO] move <0> <0>:
+Score: 82718, Frame: 1674
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <10>: 
+Score: 82788, Frame: 1675
 [INFO] flue <0> <7>: 
 [INFO] missile <0> <30>: 
 [INFO] move <0> <0>:
+Score: 82788, Frame: 1676
 [INFO] move <0> <0>:
+Score: 82788, Frame: 1677
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <2>: 
+Score: 82857, Frame: 1678
 [INFO] move <0> <1>:
+Score: 82857, Frame: 1679
 [INFO] move <0> <1>:
+Score: 82857, Frame: 1680
 [INFO] move <0> <1>:
+Score: 82857, Frame: 1681
 [INFO] move <0> <2>:
+Score: 82857, Frame: 1682
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <2>: 
+Score: 83017, Frame: 1683
 [INFO] move <0> <0>:
+Score: 83017, Frame: 1684
 [INFO] move <0> <2>:
+Score: 83017, Frame: 1685
 [INFO] move <0> <2>:
+Score: 83017, Frame: 1686
 [INFO] move <0> <2>:
+Score: 83017, Frame: 1687
 [INFO] move <0> <2>:
+Score: 83017, Frame: 1688
 [INFO] move <0> <2>:
+Score: 83017, Frame: 1689
 [INFO] flue <0> <14>: 
 [INFO] missile <0> <4>: 
 [INFO] move <0> <2>:
+Score: 83017, Frame: 1690
 [INFO] move <0> <2>:
+Score: 83017, Frame: 1691
 [INFO] move <0> <2>:
+Score: 83017, Frame: 1692
 [INFO] move <0> <2>:
+Score: 83017, Frame: 1693
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <1>: 
+Score: 83134, Frame: 1694
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <5>: 
+Score: 83250, Frame: 1695
 [INFO] move <0> <0>:
+Score: 83250, Frame: 1696
 [INFO] move <0> <0>:
+Score: 83250, Frame: 1697
 [INFO] flue <0> <8>: 
 [INFO] missile <0> <6>: 
 [INFO] move <0> <2>:
+Score: 83250, Frame: 1698
 [INFO] move <0> <2>:
+Score: 83250, Frame: 1699
 [INFO] move <0> <2>:
+Score: 83250, Frame: 1700
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <6>: 
+Score: 83395, Frame: 1701
 [INFO] move <0> <0>:
+Score: 83395, Frame: 1702
 [INFO] move <0> <0>:
+Score: 83395, Frame: 1703
 [INFO] flue <0> <6>: 
 [INFO] missile <0> <6>: 
 [INFO] move <0> <2>:
+Score: 83395, Frame: 1704
 [INFO] flue <0> <1>: 
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <4>: 
+Score: 83522, Frame: 1705
 [INFO] flue <0> <1>: 
 [INFO] missile <0> <4>: 
 [INFO] move <0> <0>:
 INFO] attack <0> <0> <4>: 
+Score: 83697, Frame: 1706
 [INFO] move <0> <0>:
+Score: 83697, Frame: 1707
 [INFO] move <0> <0>:
 INFO] attack <0> <3> <2>: 
+Score: 83739, Frame: 1708
 [INFO] flue <0> <3>: 
 [INFO] missile <0> <6>: 
 [INFO] move <0> <0>:
+Score: 83739, Frame: 1709
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <2>: 
+Score: 83871, Frame: 1710
 [INFO] move <0> <0>:
+Score: 83871, Frame: 1711
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <5>: 
+Score: 84044, Frame: 1712
 [INFO] move <0> <1>:
+Score: 84044, Frame: 1713
 [INFO] move <0> <1>:
+Score: 84044, Frame: 1714
 [INFO] flue <0> <6>: 
 [INFO] missile <0> <7>: 
 [INFO] move <0> <1>:
+Score: 84044, Frame: 1715
 [INFO] move <0> <1>:
+Score: 84044, Frame: 1716
 [INFO] move <0> <2>:
+Score: 84044, Frame: 1717
 [INFO] flue <0> <3>: 
 [INFO] move <0> <2>:
+Score: 84044, Frame: 1718
 [INFO] move <0> <2>:
+Score: 84044, Frame: 1719
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <6>: 
+Score: 84159, Frame: 1720
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <9>: 
+Score: 84258, Frame: 1721
 [INFO] move <0> <1>:
+Score: 84258, Frame: 1722
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <1>: 
+Score: 84325, Frame: 1723
 [INFO] flue <0> <6>: 
 [INFO] missile <0> <16>: 
 [INFO] move <0> <0>:
+Score: 84325, Frame: 1724
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <8>: 
+Score: 84453, Frame: 1725
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <6>: 
+Score: 84542, Frame: 1726
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <3>: 
+Score: 84557, Frame: 1727
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <10>: 
+Score: 84737, Frame: 1728
 [INFO] move <0> <1>:
+Score: 84737, Frame: 1729
 [INFO] move <0> <1>:
+Score: 84737, Frame: 1730
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <9>: 
+Score: 84829, Frame: 1731
 INFO] attack <0> <2> <3>: 
+Score: 84965, Frame: 1732
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <2>: 
+Score: 85043, Frame: 1733
 [INFO] move <0> <0>:
+Score: 85043, Frame: 1734
 [INFO] move <0> <3>:
+Score: 85043, Frame: 1735
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <2>: 
+Score: 85216, Frame: 1736
 [INFO] move <0> <1>:
+Score: 85216, Frame: 1737
 [INFO] move <0> <1>:
+Score: 85216, Frame: 1738
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <4>: 
+Score: 85366, Frame: 1739
 [INFO] flue <0> <15>: 
 [INFO] missile <0> <41>: 
 [INFO] move <0> <0>:
+Score: 85366, Frame: 1740
 [INFO] move <0> <2>:
+Score: 85366, Frame: 1741
 [INFO] move <0> <2>:
+Score: 85366, Frame: 1742
 [INFO] move <0> <2>:
+Score: 85366, Frame: 1743
 [INFO] move <0> <2>:
+Score: 85366, Frame: 1744
 [INFO] move <0> <2>:
+Score: 85366, Frame: 1745
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <9>: 
+Score: 85387, Frame: 1746
 [INFO] move <0> <0>:
+Score: 85387, Frame: 1747
 [INFO] move <0> <2>:
+Score: 85387, Frame: 1748
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <7>: 
+Score: 85407, Frame: 1749
 [INFO] move <0> <0>:
+Score: 85407, Frame: 1750
 [INFO] move <0> <2>:
+Score: 85407, Frame: 1751
 [INFO] move <0> <2>:
+Score: 85407, Frame: 1752
 [INFO] flue <0> <13>: 
 [INFO] missile <0> <22>: 
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <3>: 
+Score: 85521, Frame: 1753
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <2>: 
+Score: 85652, Frame: 1754
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <7>: 
+Score: 85829, Frame: 1755
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <1>: 
+Score: 85886, Frame: 1756
 [INFO] move <0> <1>:
 INFO] attack <0> <3> <3>: 
+Score: 86008, Frame: 1757
 [INFO] move <0> <2>:
+Score: 86008, Frame: 1758
 [INFO] move <0> <2>:
+Score: 86008, Frame: 1759
 [INFO] move <0> <2>:
+Score: 86008, Frame: 1760
 [INFO] move <0> <2>:
+Score: 86008, Frame: 1761
 [INFO] flue <0> <9>: 
 [INFO] missile <0> <16>: 
 [INFO] move <0> <2>:
+Score: 86008, Frame: 1762
 [INFO] move <0> <2>:
+Score: 86008, Frame: 1763
 [INFO] move <0> <2>:
+Score: 86008, Frame: 1764
 [INFO] move <0> <2>:
+Score: 86008, Frame: 1765
 [INFO] flue <0> <4>: 
 [INFO] move <0> <2>:
+Score: 86008, Frame: 1766
 [INFO] flue <0> <1>: 
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <9>: 
+Score: 86140, Frame: 1767
 [INFO] flue <0> <1>: 
 [INFO] missile <0> <9>: 
 [INFO] move <0> <0>:
+Score: 86140, Frame: 1768
 [INFO] flue <0> <1>: 
 [INFO] move <0> <0>:
 INFO] attack <0> <0> <7>: 
+Score: 86172, Frame: 1769
 [INFO] move <0> <0>:
+Score: 86172, Frame: 1770
 [INFO] move <0> <0>:
+Score: 86172, Frame: 1771
 [INFO] move <0> <0>:
+Score: 86172, Frame: 1772
 [INFO] move <0> <0>:
+Score: 86172, Frame: 1773
 [INFO] move <0> <0>:
+Score: 86172, Frame: 1774
 [INFO] move <0> <2>:
+Score: 86172, Frame: 1775
 [INFO] move <0> <2>:
+Score: 86172, Frame: 1776
 [INFO] move <0> <2>:
+Score: 86172, Frame: 1777
 [INFO] move <0> <2>:
+Score: 86172, Frame: 1778
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <9>: 
+Score: 86320, Frame: 1779
 [INFO] move <0> <2>:
+Score: 86320, Frame: 1780
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <5>: 
+Score: 86418, Frame: 1781
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <5>: 
+Score: 86476, Frame: 1782
 [INFO] move <0> <0>:
 INFO] attack <0> <2> <3>: 
+Score: 86614, Frame: 1783
 [INFO] move <0> <0>:
 INFO] attack <0> <2> <7>: 
+Score: 86672, Frame: 1784
 [INFO] move <0> <0>:
+Score: 86672, Frame: 1785
 [INFO] flue <0> <17>: 
 [INFO] missile <0> <36>: 
 [INFO] move <0> <0>:
+Score: 86672, Frame: 1786
 [INFO] flue <0> <1>: 
 [INFO] move <0> <0>:
 INFO] attack <0> <2> <3>: 
+Score: 86801, Frame: 1787
 [INFO] flue <0> <1>: 
 [INFO] missile <0> <3>: 
 INFO] attack <0> <3> <8>: 
+Score: 87000, Frame: 1788
 [INFO] missile <0> <8>: 
 [INFO] move <0> <1>:
+Score: 87000, Frame: 1789
 [INFO] flue <0> <1>: 
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <1>: 
+Score: 87165, Frame: 1790
 [INFO] move <0> <0>:
+Score: 87165, Frame: 1791
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <7>: 
+Score: 87243, Frame: 1792
 [INFO] move <0> <0>:
+Score: 87243, Frame: 1793
 [INFO] flue <0> <4>: 
 [INFO] missile <0> <8>: 
 [INFO] move <0> <0>:
+Score: 87243, Frame: 1794
 [INFO] move <0> <0>:
+Score: 87243, Frame: 1795
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <1>: 
+Score: 87406, Frame: 1796
 [INFO] move <0> <0>:
+Score: 87406, Frame: 1797
 [INFO] move <0> <0>:
+Score: 87406, Frame: 1798
 [INFO] move <0> <0>:
 INFO] attack <0> <0> <9>: 
+Score: 87545, Frame: 1799
 INFO] attack <0> <2> <3>: 
+Score: 87739, Frame: 1800
 [INFO] move <0> <0>:
+Score: 87739, Frame: 1801
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <10>: 
+Score: 87901, Frame: 1802
 [INFO] move <0> <3>:
+Score: 87901, Frame: 1803
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <6>: 
+Score: 88081, Frame: 1804
 [INFO] flue <0> <10>: 
 [INFO] missile <0> <29>: 
 [INFO] move <0> <1>:
+Score: 88081, Frame: 1805
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <3>: 
+Score: 88110, Frame: 1806
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <7>: 
+Score: 88121, Frame: 1807
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <2>: 
+Score: 88252, Frame: 1808
 [INFO] move <0> <0>:
 INFO] attack <0> <3> <4>: 
+Score: 88429, Frame: 1809
 [INFO] flue <0> <5>: 
 [INFO] missile <0> <16>: 
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <3>: 
+Score: 88617, Frame: 1810
 [INFO] move <0> <0>:
+Score: 88617, Frame: 1811
 [INFO] move <0> <0>:
 INFO] attack <0> <0> <7>: 
+Score: 88669, Frame: 1812
 INFO] attack <0> <3> <6>: 
+Score: 88687, Frame: 1813
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <9>: 
+Score: 88698, Frame: 1814
 [INFO] move <0> <0>:
+Score: 88698, Frame: 1815
 [INFO] move <0> <0>:
 INFO] attack <0> <3> <9>: 
+Score: 88836, Frame: 1816
 [INFO] flue <0> <6>: 
 [INFO] missile <0> <34>: 
 [INFO] move <0> <0>:
 INFO] attack <0> <0> <4>: 
+Score: 89035, Frame: 1817
 [INFO] move <0> <0>:
+Score: 89035, Frame: 1818
 [INFO] move <0> <0>:
+Score: 89035, Frame: 1819
 [INFO] move <0> <0>:
 INFO] attack <0> <2> <6>: 
+Score: 89047, Frame: 1820
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <9>: 
+Score: 89164, Frame: 1821
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <10>: 
+Score: 89221, Frame: 1822
 [INFO] move <0> <1>:
+Score: 89221, Frame: 1823
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <3>: 
+Score: 89395, Frame: 1824
 [INFO] move <0> <0>:
+Score: 89395, Frame: 1825
 [INFO] move <0> <2>:
+Score: 89395, Frame: 1826
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <9>: 
+Score: 89532, Frame: 1827
 [INFO] flue <0> <11>: 
 [INFO] missile <0> <41>: 
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <9>: 
+Score: 89693, Frame: 1828
 [INFO] move <0> <1>:
+Score: 89693, Frame: 1829
 [INFO] flue <0> <2>: 
 [INFO] missile <0> <9>: 
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <8>: 
+Score: 89821, Frame: 1830
 [INFO] move <0> <1>:
+Score: 89821, Frame: 1831
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <10>: 
+Score: 89885, Frame: 1832
 [INFO] move <0> <2>:
+Score: 89885, Frame: 1833
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <6>: 
+Score: 90001, Frame: 1834
 [INFO] move <0> <0>:
 INFO] attack <0> <0> <10>: 
+Score: 90043, Frame: 1835
 [INFO] move <0> <0>:
 INFO] attack <0> <2> <8>: 
+Score: 90193, Frame: 1836
 [INFO] move <0> <0>:
+Score: 90193, Frame: 1837
 [INFO] move <0> <0>:
+Score: 90193, Frame: 1838
 [INFO] move <0> <0>:
+Score: 90193, Frame: 1839
 [INFO] move <0> <0>:
 INFO] attack <0> <2> <7>: 
+Score: 90327, Frame: 1840
 [INFO] move <0> <0>:
+Score: 90327, Frame: 1841
 [INFO] move <0> <0>:
 INFO] attack <0> <0> <9>: 
+Score: 90492, Frame: 1842
 INFO] attack <0> <2> <8>: 
+Score: 90679, Frame: 1843
 [INFO] move <0> <0>:
 INFO] attack <0> <3> <9>: 
+Score: 90741, Frame: 1844
 [INFO] move <0> <0>:
 INFO] attack <0> <2> <2>: 
+Score: 90744, Frame: 1845
 [INFO] flue <0> <15>: 
 [INFO] missile <0> <77>: 
 [INFO] move <0> <1>:
+Score: 90744, Frame: 1846
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <9>: 
+Score: 90823, Frame: 1847
 [INFO] move <0> <3>:
+Score: 90823, Frame: 1848
 [INFO] move <0> <3>:
+Score: 90823, Frame: 1849
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <8>: 
+Score: 90974, Frame: 1850
 [INFO] move <0> <1>:
 INFO] attack <0> <3> <5>: 
+Score: 91042, Frame: 1851
 [INFO] move <0> <0>:
+Score: 91042, Frame: 1852
 [INFO] move <0> <0>:
+Score: 91042, Frame: 1853
 [INFO] flue <0> <8>: 
 [INFO] missile <0> <22>: 
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <3>: 
+Score: 91156, Frame: 1854
 [INFO] flue <0> <1>: 
 [INFO] missile <0> <3>: 
 [INFO] move <0> <0>:
+Score: 91156, Frame: 1855
 [INFO] move <0> <0>:
 INFO] attack <0> <3> <9>: 
+Score: 91229, Frame: 1856
 [INFO] flue <0> <2>: 
 [INFO] missile <0> <9>: 
 [INFO] move <0> <0>:
+Score: 91229, Frame: 1857
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <6>: 
+Score: 91350, Frame: 1858
 [INFO] move <0> <1>:
+Score: 91350, Frame: 1859
 [INFO] move <0> <3>:
+Score: 91350, Frame: 1860
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <2>: 
+Score: 91361, Frame: 1861
 [INFO] flue <0> <5>: 
 [INFO] missile <0> <8>: 
 [INFO] move <0> <0>:
+Score: 91361, Frame: 1862
 [INFO] move <0> <2>:
+Score: 91361, Frame: 1863
 [INFO] move <0> <2>:
+Score: 91361, Frame: 1864
 [INFO] move <0> <2>:
+Score: 91361, Frame: 1865
 [INFO] move <0> <2>:
+Score: 91361, Frame: 1866
 [INFO] move <0> <2>:
+Score: 91361, Frame: 1867
 [INFO] move <0> <2>:
+Score: 91361, Frame: 1868
 [INFO] move <0> <2>:
+Score: 91361, Frame: 1869
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <5>: 
+Score: 91457, Frame: 1870
 [INFO] move <0> <1>:
+Score: 91457, Frame: 1871
 [INFO] move <0> <1>:
+Score: 91457, Frame: 1872
 [INFO] move <0> <1>:
+Score: 91457, Frame: 1873
 [INFO] flue <0> <12>: 
 [INFO] missile <0> <5>: 
 [INFO] move <0> <1>:
+Score: 91457, Frame: 1874
 [INFO] move <0> <1>:
+Score: 91457, Frame: 1875
 [INFO] move <0> <1>:
+Score: 91457, Frame: 1876
 [INFO] move <0> <1>:
+Score: 91457, Frame: 1877
 [INFO] move <0> <1>:
+Score: 91457, Frame: 1878
 [INFO] move <0> <3>:
+Score: 91457, Frame: 1879
 [INFO] move <0> <3>:
+Score: 91457, Frame: 1880
 [INFO] flue <0> <7>: 
 [INFO] move <0> <3>:
+Score: 91457, Frame: 1881
 [INFO] flue <0> <1>: 
 [INFO] move <0> <3>:
+Score: 91457, Frame: 1882
 [INFO] flue <0> <1>: 
 [INFO] move <0> <3>:
+Score: 91457, Frame: 1883
 [INFO] flue <0> <1>: 
 [INFO] move <0> <3>:
+Score: 91457, Frame: 1884
 [INFO] move <0> <3>:
+Score: 91457, Frame: 1885
 [INFO] flue <0> <2>: 
 [INFO] move <0> <3>:
+Score: 91457, Frame: 1886
 [INFO] move <0> <3>:
+Score: 91457, Frame: 1887
 [INFO] move <0> <3>:
+Score: 91457, Frame: 1888
 [INFO] flue <0> <3>: 
 [INFO] move <0> <3>:
+Score: 91457, Frame: 1889
 [INFO] flue <0> <1>: 
 [INFO] move <0> <3>:
+Score: 91457, Frame: 1890
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <6>: 
+Score: 91459, Frame: 1891
 [INFO] move <0> <1>:
 INFO] attack <0> <3> <1>: 
+Score: 91652, Frame: 1892
 [INFO] move <0> <0>:
+Score: 91652, Frame: 1893
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <2>: 
+Score: 91844, Frame: 1894
 [INFO] move <0> <1>:
+Score: 91844, Frame: 1895
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <1>: 
+Score: 92036, Frame: 1896
 [INFO] flue <0> <7>: 
 [INFO] missile <0> <10>: 
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <4>: 
+Score: 92159, Frame: 1897
 INFO] attack <0> <3> <9>: 
+Score: 92170, Frame: 1898
 [INFO] move <0> <1>:
+Score: 92170, Frame: 1899
 [INFO] move <0> <1>:
+Score: 92170, Frame: 1900
 [INFO] flue <0> <3>: 
 [INFO] missile <0> <13>: 
 [INFO] move <0> <3>:
+Score: 92170, Frame: 1901
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <6>: 
+Score: 92271, Frame: 1902
 [INFO] move <0> <1>:
+Score: 92271, Frame: 1903
 [INFO] move <0> <1>:
+Score: 92271, Frame: 1904
 [INFO] move <0> <1>:
 INFO] attack <0> <3> <4>: 
+Score: 92447, Frame: 1905
 [INFO] move <0> <1>:
+Score: 92447, Frame: 1906
 [INFO] move <0> <1>:
+Score: 92447, Frame: 1907
 [INFO] move <0> <1>:
+Score: 92447, Frame: 1908
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <3>: 
+Score: 92452, Frame: 1909
 [INFO] flue <0> <9>: 
 [INFO] missile <0> <13>: 
 [INFO] move <0> <1>:
+Score: 92452, Frame: 1910
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <6>: 
+Score: 92553, Frame: 1911
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <1>: 
+Score: 92684, Frame: 1912
 [INFO] flue <0> <3>: 
 [INFO] missile <0> <7>: 
 [INFO] move <0> <1>:
+Score: 92684, Frame: 1913
 [INFO] move <0> <1>:
 INFO] attack <0> <2> <1>: 
+Score: 92863, Frame: 1914
 [INFO] move <0> <1>:
 INFO] attack <0> <3> <1>: 
+Score: 92923, Frame: 1915
 [INFO] flue <0> <3>: 
 [INFO] missile <0> <2>: 
 [INFO] move <0> <0>:
+Score: 92923, Frame: 1916
 [INFO] move <0> <0>:
+Score: 92923, Frame: 1917
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <8>: 
+Score: 93121, Frame: 1918
 [INFO] move <0> <0>:
+Score: 93121, Frame: 1919
 [INFO] move <0> <2>:
+Score: 93121, Frame: 1920
 [INFO] move <0> <2>:
 INFO] attack <0> <2> <1>: 
+Score: 93198, Frame: 1921
 [INFO] flue <0> <6>: 
 [INFO] missile <0> <9>: 
 [INFO] move <0> <0>:
 INFO] attack <0> <2> <5>: 
+Score: 93265, Frame: 1922
 [INFO] flue <0> <1>: 
 [INFO] missile <0> <5>: 
 [INFO] move <0> <0>:
+Score: 93265, Frame: 1923
 [INFO] move <0> <0>:
+Score: 93265, Frame: 1924
 [INFO] flue <0> <2>: 
 [INFO] move <0> <0>:
+Score: 93265, Frame: 1925
 [INFO] move <0> <0>:
+Score: 93265, Frame: 1926
 [INFO] move <0> <0>:
+Score: 93265, Frame: 1927
 [INFO] move <0> <0>:
+Score: 93265, Frame: 1928
 [INFO] move <0> <0>:
+Score: 93265, Frame: 1929
 [INFO] move <0> <0>:
+Score: 93265, Frame: 1930
 [INFO] flue <0> <6>: 
 [INFO] move <0> <0>:
+Score: 93265, Frame: 1931
 [INFO] move <0> <0>:
+Score: 93265, Frame: 1932
 [INFO] move <0> <0>:
+Score: 93265, Frame: 1933
 [INFO] flue <0> <3>: 
 [INFO] move <0> <0>:
+Score: 93265, Frame: 1934
 [INFO] move <0> <0>:
+Score: 93265, Frame: 1935
 [INFO] move <0> <0>:
+Score: 93265, Frame: 1936
 [INFO] flue <0> <3>: 
 [INFO] move <0> <3>:
+Score: 93265, Frame: 1937
 [INFO] move <0> <3>:
+Score: 93265, Frame: 1938
 [INFO] move <0> <3>:
+Score: 93265, Frame: 1939
 [INFO] move <0> <3>:
+Score: 93265, Frame: 1940
 [INFO] flue <0> <4>: 
 [INFO] move <0> <3>:
+Score: 93265, Frame: 1941
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <8>: 
+Score: 93313, Frame: 1942
 [INFO] move <0> <0>:
 INFO] attack <0> <0> <4>: 
+Score: 93511, Frame: 1943
 [INFO] move <0> <0>:
+Score: 93511, Frame: 1944
 [INFO] move <0> <0>:
 INFO] attack <0> <0> <3>: 
+Score: 93538, Frame: 1945
 [INFO] move <0> <1>:
+Score: 93538, Frame: 1946
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <9>: 
+Score: 93566, Frame: 1947
 [INFO] flue <0> <7>: 
 [INFO] missile <0> <24>: 
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <2>: 
+Score: 93753, Frame: 1948
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <8>: 
+Score: 93844, Frame: 1949
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <4>: 
+Score: 93866, Frame: 1950
 [INFO] flue <0> <3>: 
 [INFO] missile <0> <14>: 
 [INFO] move <0> <1>:
+Score: 93866, Frame: 1951
 [INFO] move <0> <1>:
+Score: 93866, Frame: 1952
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <2>: 
+Score: 93979, Frame: 1953
 [INFO] move <0> <1>:
+Score: 93979, Frame: 1954
 [INFO] move <0> <1>:
+Score: 93979, Frame: 1955
 [INFO] move <0> <1>:
 INFO] attack <0> <3> <10>: 
+Score: 94069, Frame: 1956
 [INFO] move <0> <0>:
+Score: 94069, Frame: 1957
 [INFO] move <0> <0>:
+Score: 94069, Frame: 1958
 [INFO] move <0> <0>:
+Score: 94069, Frame: 1959
 [INFO] move <0> <0>:
+Score: 94069, Frame: 1960
 [INFO] move <0> <0>:
+Score: 94069, Frame: 1961
 [INFO] move <0> <3>:
+Score: 94069, Frame: 1962
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <10>: 
+Score: 94158, Frame: 1963
 [INFO] move <0> <0>:
+Score: 94158, Frame: 1964
 [INFO] flue <0> <14>: 
 [INFO] missile <0> <22>: 
 [INFO] move <0> <0>:
+Score: 94158, Frame: 1965
 [INFO] move <0> <0>:
 INFO] attack <0> <3> <10>: 
+Score: 94257, Frame: 1966
 [INFO] flue <0> <2>: 
 [INFO] missile <0> <10>: 
 [INFO] move <0> <0>:
 INFO] attack <0> <2> <9>: 
+Score: 94413, Frame: 1967
 [INFO] move <0> <1>:
+Score: 94413, Frame: 1968
 [INFO] flue <0> <2>: 
 [INFO] missile <0> <9>: 
 [INFO] move <0> <1>:
+Score: 94413, Frame: 1969
 [INFO] move <0> <1>:
+Score: 94413, Frame: 1970
 [INFO] flue <0> <2>: 
 [INFO] move <0> <1>:
+Score: 94413, Frame: 1971
 [INFO] move <0> <1>:
+Score: 94413, Frame: 1972
 [INFO] move <0> <3>:
+Score: 94413, Frame: 1973
 [INFO] flue <0> <3>: 
 [INFO] move <0> <3>:
+Score: 94413, Frame: 1974
 [INFO] move <0> <3>:
+Score: 94413, Frame: 1975
 [INFO] move <0> <3>:
+Score: 94413, Frame: 1976
 [INFO] flue <0> <3>: 
 [INFO] move <0> <3>:
+Score: 94413, Frame: 1977
 [INFO] move <0> <3>:
+Score: 94413, Frame: 1978
 [INFO] move <0> <3>:
+Score: 94413, Frame: 1979
 [INFO] move <0> <3>:
+Score: 94413, Frame: 1980
 [INFO] flue <0> <4>: 
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <4>: 
+Score: 94449, Frame: 1981
 [INFO] move <0> <1>:
+Score: 94449, Frame: 1982
 [INFO] move <0> <1>:
+Score: 94449, Frame: 1983
 [INFO] flue <0> <3>: 
 [INFO] missile <0> <4>: 
 [INFO] move <0> <1>:
+Score: 94449, Frame: 1984
 [INFO] move <0> <1>:
+Score: 94449, Frame: 1985
 [INFO] move <0> <1>:
+Score: 94449, Frame: 1986
 [INFO] move <0> <1>:
+Score: 94449, Frame: 1987
 [INFO] move <0> <1>:
+Score: 94449, Frame: 1988
 [INFO] move <0> <3>:
+Score: 94449, Frame: 1989
 [INFO] flue <0> <6>: 
 [INFO] move <0> <3>:
+Score: 94449, Frame: 1990
 [INFO] move <0> <3>:
+Score: 94449, Frame: 1991
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <8>: 
+Score: 94464, Frame: 1992
 [INFO] move <0> <1>:
+Score: 94464, Frame: 1993
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <4>: 
+Score: 94516, Frame: 1994
 [INFO] move <0> <1>:
+Score: 94516, Frame: 1995
 [INFO] flue <0> <6>: 
 [INFO] missile <0> <12>: 
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <1>: 
+Score: 94589, Frame: 1996
 [INFO] move <0> <1>:
+Score: 94589, Frame: 1997
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <10>: 
+Score: 94624, Frame: 1998
 [INFO] move <0> <1>:
 INFO] attack <0> <1> <6>: 
+Score: 94812, Frame: 1999
 [INFO] move <0> <0>:
+Score: 94812, Frame: 2000
 [INFO] move <0> <0>:
+Score: 94812, Frame: 2001
 [INFO] move <0> <0>:
+Score: 94812, Frame: 2002
 [INFO] move <0> <3>:
+Score: 94812, Frame: 2003
 [INFO] move <0> <3>:
+Score: 94812, Frame: 2004
 [INFO] move <0> <3>:
+Score: 94812, Frame: 2005
 [INFO] move <0> <3>:
+Score: 94812, Frame: 2006
 [INFO] move <0> <3>:
+Score: 94812, Frame: 2007
 [INFO] flue <0> <12>: 
 [INFO] missile <0> <17>: 
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <10>: 
+Score: 94836, Frame: 2008
 [INFO] move <0> <1>:
+Score: 94836, Frame: 2009
 [INFO] flue <0> <2>: 
 [INFO] missile <0> <10>: 
 [INFO] move <0> <1>:
+Score: 94836, Frame: 2010
 [INFO] move <0> <1>:
+Score: 94836, Frame: 2011
 [INFO] move <0> <1>:
+Score: 94836, Frame: 2012
 [INFO] flue <0> <3>: 
 [INFO] move <0> <1>:
+Score: 94836, Frame: 2013
 [INFO] move <0> <1>:
+Score: 94836, Frame: 2014
 [INFO] move <0> <3>:
+Score: 94836, Frame: 2015
 [INFO] move <0> <3>:
+Score: 94836, Frame: 2016
 [INFO] move <0> <3>:
+Score: 94836, Frame: 2017
 [INFO] move <0> <3>:
+Score: 94836, Frame: 2018
 [INFO] move <0> <3>:
+Score: 94836, Frame: 2019
 [INFO] move <0> <3>:
+Score: 94836, Frame: 2020
 [INFO] flue <0> <8>: 
 [INFO] move <0> <3>:
+Score: 94836, Frame: 2021
 [INFO] flue <0> <1>: 
 [INFO] move <0> <3>:
+Score: 94836, Frame: 2022
 [INFO] move <0> <3>:
+Score: 94836, Frame: 2023
 [INFO] flue <0> <2>: 
 [INFO] move <0> <3>:
+Score: 94836, Frame: 2024
 [INFO] move <0> <3>:
+Score: 94836, Frame: 2025
 [INFO] move <0> <3>:
+Score: 94836, Frame: 2026
 [INFO] move <0> <3>:
+Score: 94836, Frame: 2027
 [INFO] move <0> <3>:
+Score: 94836, Frame: 2028
 [INFO] flue <0> <5>: 
 [INFO] move <0> <3>:
+Score: 94836, Frame: 2029
 [INFO] move <0> <3>:
+Score: 94836, Frame: 2030
 [INFO] move <0> <3>:
+Score: 94836, Frame: 2031
 [INFO] move <0> <3>:
 INFO] attack <0> <3> <4>: 
+Score: 94840, Frame: 2032
 [INFO] move <0> <1>:
 [INFO] flue <0> <5>: 
 [INFO] missile <0> <4>: 
+Score: 94840, Frame: 2033
 Total score: 94840/95443
-used time: 0.158034086227417
+used time: 0.15929841995239258
