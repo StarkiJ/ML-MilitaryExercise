@@ -57,9 +57,9 @@ def read_data(file_path):
         defense = int(data[index + 2])
         military_value = int(data[index + 3])
         index += 4
-        if defense == 0:
-            map_info[row][col] = "0"
-            continue
+        # if defense == 0:
+        #     map_info[row][col] = "0"
+        #     continue
         max_score += military_value
         total_defense += defense
         red_base = MilitaryBase(i, row, col, fuel_reserve, missile_reserve, defense, military_value)

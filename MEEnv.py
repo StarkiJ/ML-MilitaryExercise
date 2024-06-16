@@ -42,7 +42,7 @@
 #             elif action == 7:
 #                 self.exercise.attack(fid, 3, fight.missile)  # 向右攻击
 #             elif action == 8:
-#                 self.exercise.flue(fid, fight.max_fuel)  # 补给燃油
+#                 self.exercise.fuel(fid, fight.max_fuel)  # 补给燃油
 #             elif action == 9:
 #                 self.exercise.missile(fid, fight.max_missile)  # 补给弹药
 #             elif action == 10:

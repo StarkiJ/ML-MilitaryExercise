@@ -22,8 +22,8 @@ def manual_operation(me):
             me.attack(fid, command, count)
         elif command == '8':
             # fid = input("Enter the fighter ID: ")
-            # count = input("Enter the number of flue: ")
-            me.flue(fid, count)
+            # count = input("Enter the number of fuel: ")
+            me.fuel(fid, count)
         elif command == '9':
             # fid = input("Enter the fighter ID: ")
             # count = input("Enter the number of missile: ")
