@@ -8,8 +8,8 @@ from machine_operation import machine_operation
 
 def main():
     test_num = input("Enter number of testcase: ")
-    input_path = './data2/testcase' + test_num + '.in'
-    output_path = './data2/testcase' + test_num + '.out'
+    input_path = './data/testcase' + test_num + '.in'
+    output_path = './data/testcase' + test_num + '.out'
 
     # print("Please choose a start mode:")
     # print("1. Manual operation")
@@ -43,8 +43,8 @@ def main():
 def auto_main():
     for i in range(1, 11):
         test_num = str(i)
-        input_path = './data2/testcase' + test_num + '.in'
-        output_path = './data2/testcase' + test_num + '.out'
+        input_path = './data/testcase' + test_num + '.in'
+        output_path = './data/testcase' + test_num + '.out'
         me = MilitaryExercise(input_path)
         me.show_info()
         machine_operation(me, output_path)

@@ -29,7 +29,7 @@
 #
 # def machine_learning():
 #     # 创建环境
-#     file_path = './data2/testcase1.in'  # 替换为你的文件路径
+#     file_path = './data/testcase1.in'  # 替换为你的文件路径
 #     env = MilitaryExerciseEnv(file_path)
 #     train_envs = DummyVectorEnv([lambda: MilitaryExerciseEnv(file_path) for _ in range(8)])
 #     test_envs = DummyVectorEnv([lambda: MilitaryExerciseEnv(file_path) for _ in range(100)])
