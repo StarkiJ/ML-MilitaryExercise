@@ -1,0 +1,10 @@
+./data/testcase1.out, 110/110
+./data/testcase2.out, 95118/106710
+./data/testcase3.out, 261533/261533
+./data/testcase4.out, 28499/28499
+./data/testcase5.out, 9737/32360
+./data/testcase6.out, 20782/20782
+./data/testcase7.out, 389832/389832
+./data/testcase8.out, 56506/268109
+./data/testcase9.out, 30168/30168
+./data/testcase10.out, 3600/23936

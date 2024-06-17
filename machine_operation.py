@@ -67,3 +67,5 @@ def machine_operation(me, output_path):
             file.write(command + '\n')
         file.write("OK")
         file.write("Total score: {}/{}\n".format(me.score, me.max_score))
+    with open('scores.txt', 'a') as file:
+        file.write("{}, {}/{}\n".format(output_path, me.score, me.max_score))
